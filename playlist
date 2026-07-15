@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="Siie Joii"
+#EXTM3U billed-msg="ChandTV"
 
 #EXTM3U tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.xml"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dhasap/dhanytv/main/epg.xml"
@@ -9,71 +9,69 @@
 
 # <============================================== PIALA DUNIA 2026 ===========================================================>
 
-#EXTINF:-1 tvg-id="FoxSports.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="PIALA DUNIA 2026",FOX Sports (1080p)
-https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YWdcJ5x.jpeg" group-title="PIALA DUNIA 2026",TVRI Nasional (Vidio)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=6441&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=6441&type=dash
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg" group-title="PIALA DUNIA 2026",Bein Sport France
+http://99.27.51.147:8080/BeinSport/mpegts
 
-#EXTINF:-1 group-title="PIALA DUNIA 2026",FOX 01
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/109548
-#EXTINF:-1 group-title="PIALA DUNIA 2026",FOX 02
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/109511
-#EXTINF:-1 group-title="PIALA DUNIA 2026",FOX 03
-http://stream.cammonitorplus.net/1752/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg" group-title="PIALA DUNIA 2026", beIN Sports France 1
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2499/index.m3u8
 
-#EXTINF:-1 tvg-id="auto.elta.sports.1" tvg-logo="https://png.pngtree.com/png-clipart/20250628/original/pngtree-golden-fifa-2026-trophy-isolated-on-clean-white-background-png-image_21215061.png" group-title="PIALA DUNIA 2026", ELTA SPORTS 1
-https://iptv.852851.xyz/l/V46f6o08BGwo1CpYNqSZAZL55DpM6bija9oMQN2452EgR1ivEgrTsNiWt1V2OwFf/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg" group-title="PIALA DUNIA 2026", beIN Sports France 2
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2500/index.m3u
 
-#EXTINF:-1 tvg-id="auto.caze.tv.br" tvg-logo="https://images.seeklogo.com/logo-png/61/1/cazetv-logo-png_seeklogo-619708.png" group-title="PIALA DUNIA 2026",Caze TV BR
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF:-1 tvg-logo="https://img-cdn.publive.online/fit-in/1280x960/filters:format(webp)/bmi/media/media_files/2026/06/02/zee-unite8-sports-logo-2026-06-02-11-22-35.jpg" group-title="PIALA DUNIA 2026",Unite8 Sports
+http://line.tivi-one.net/play/live.php?mac=00:1A:79:17:01:63&stream=373343&extension=ts&play_token=bOd2rQPdPs
+
+#EXTINF:-1  tvg-logo="https://img-cdn.publive.online/fit-in/1280x960/filters:format(webp)/bmi/media/media_files/2026/06/02/zee-unite8-sports-logo-2026-06-02-11-22-35.jpg" group-title="PIALA DUNIA 2026",Unite8 Sports 1
+http://66.102.126.10:8000/play/a022/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://img-cdn.publive.online/fit-in/1280x960/filters:format(webp)/bmi/media/media_files/2026/06/02/zee-unite8-sports-logo-2026-06-02-11-22-35.jpg" group-title="PIALA DUNIA 2026", Unite8 Sports 2
+http://66.102.126.10:8000/play/a076/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/gAghUfq.jpeg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA 2026", Mono 29 Thai
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
-#EXTINF:-1 tvg-id="auto.cazetv" tvg-logo="https://png.pngtree.com/png-clipart/20250628/original/pngtree-golden-fifa-2026-trophy-isolated-on-clean-white-background-png-image_21215061.png" group-title="PIALA DUNIA 2026",CazeTV
+#EXTINF:-1 tvg-id="auto.cazetv" tvg-logo="https://p2.trrsf.com/image/fget/cf/1548/0/images.terra.com/2025/10/06/1001268243-logo-caze-tv-610x400.jpg" group-title="PIALA DUNIA 2026",CazeTV
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
 
-#EXTINF:-1 group-title="PIALA DUNIA 2026",FS1 01
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/120160
-#EXTINF:-1 group-title="PIALA DUNIA 2026",FS1 02
-http://wickediptv.xyz/Randall123/Randall321/53390
-#EXTINF:-1 group-title="PIALA DUNIA 2026",TSN1 CA 01
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/1621
-#EXTINF:-1 group-title="PIALA DUNIA 2026",TSN1 CA 02
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/1622
-#EXTINF:-1 group-title="PIALA DUNIA 2026",TSN1 CA 03
-http://wickediptv.xyz/Randall123/Randall321/53805
-#EXTINF:-1 group-title="PIALA DUNIA 2026",TSN2 CA
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/1622
-#EXTINF:-1 group-title="PIALA DUNIA 2026",TSN3 CA
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/1623
-#EXTINF:-1 group-title="PIALA DUNIA 2026",TSN4 CA
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/1624
-#EXTINF:-1 group-title="PIALA DUNIA 2026",TSN5 CA
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/1625
-#EXTINF:-1 group-title="PIALA DUNIA 2026",CTV CA
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/36917
-#EXTINF:-1 group-title="PIALA DUNIA 2026",BBC One UK 01
-http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/234.ts
-#EXTINF:-1 group-title="PIALA DUNIA 2026",BBC One UK 02
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/98853
-#EXTINF:-1 group-title="PIALA DUNIA 2026",BBC One UK 03
-http://29047.performservers.cz/ozant/1sj8i79hk3/358768
-#EXTINF:-1 group-title="PIALA DUNIA 2026",BBC One UK 04
-http://wickediptv.xyz/Randall123/Randall321/53842
-#EXTINF:-1 group-title="PIALA DUNIA 2026",BBC One UK 05
-http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/77361
-#EXTINF:-1 group-title="PIALA DUNIA 2026",BBC Two UK
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/98852
+#EXTINF:-1 group-title="PIALA DUNIA 2026",FOX 01
+http://stream.cammonitorplus.net/1752/index.m3u8
 
-#EXTVLCOPT:http-referrer=https://tvri.go.id/
-#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://tvrinasional.wordpress.com/wp-content/uploads/2019/11/cropped-png-small-white.png" group-title="PIALA DUNIA 2026",TVRI (Piala Dunia 2026)
-https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+#EXTINF:-1 tvg-id="auto.fox.sports.1.alt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="WorldCup 2026",FOX Sports 1
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+
+#EXTINF:-1 tvg-id="auto.elta.sports.1" tvg-logo="https://official-elta.cdn.hinet.net/storage/upload/news/HbQUjxE8vCiwoJX0FBHCiIOxuzq8abn9bEAWkhT6.jpg" group-title="PIALA DUNIA 2026", ELTA SPORTS 1
+https://iptv.852851.xyz/l/V46f6o08BGwo1CpYNqSZAZL55DpM6bija9oMQN2452EgR1ivEgrTsNiWt1V2OwFf/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2022/11/itv-1-new-logo.jpg" group-title="PIALA DUNIA 2026",iTV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://kilat-live.com/
+#EXTVLCOPT:http-origin=https://kilat-live.com
+https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/UK_ITV_1_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg6-EG42wj-eAf4o9VYDhJf4PYamYdOp0CxlSB6mLWlA&s" group-title="PIALA DUNIA 2026",FUSBALL TV HD
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fsb1hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg6-EG42wj-eAf4o9VYDhJf4PYamYdOp0CxlSB6mLWlA&s" group-title="PIALA DUNIA 2026",FUSSBALL TV FHD
+http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745092&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.modernghana.com/content/300/360/64202443509-uaqctgfsrn-720a891b-dc4f-4bda-a8d7-5bc3b81ce4b6.jpg" group-title="PIALA DUNIA 2026",Ch01
+http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465875
+
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="PIALA DUNIA 2026",DD Sports
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/188500190395c4de0e506d518925dcc4" group-title="PIALA DUNIA 2026",DD Sports
+https://cdn-6.pishow.tv/live/13/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_12_desktop_2x/f_auto/mls-phi/gkrlldkogwgdtya3atef.jpg" group-title="PIALA DUNIA 2026",TSN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5.png" group-title="PIALA DUNIA 2026" response-time="58ms",CCTV5
 http://112.123.243.37:50085/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -81,16 +79,60 @@ http://112.123.243.37:50085/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5.png" group-title="PIALA DUNIA 2026" response-time="120ms",CCTV5+
 http://198.204.228.26/live/cctv5hd.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="PIALA DUNIA 2026", TELEMUNDO
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2401.ts
+
+#EXTINF:-1 tvg-id="auto.telemundo.us" tvg-logo="https://png.pngtree.com/png-clipart/20250628/original/pngtree-golden-fifa-2026-trophy-isolated-on-clean-white-background-png-image_21215061.png" group-title="PIALA DUNIA 2026",Telemundo (US)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://s.yimg.com/lo/mysterio/api/4c5e4a8b0ce3e7ce757a2fb930b0a6bd9a9229013411b07a80b7016db3bbd490/lightyear_networkapi/resizefill_w976;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fawful_announcing_173%2F0c30d10dfee226436c24a31d4f1edb8f" group-title="PIALA DUNIA 2026",FS1 01
+http://wickediptv.xyz/Randall123/Randall321/53390
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Fox_Sports_logo.jpg" group-title="PIALA DUNIA 2026",FOX SPORTS
+http://190.7.19.197:232/play/a05u/index.m3u8
+
+#EXTINF:-1 group-title="PIALA DUNIA 2026",FOX +
+http://181.78.192.238:8000/play/a2hi/index.m3u8
+
+#EXTINF:-1 group-title="PIALA DUNIA 2026",TSN 1
+http://stalker.hakunamata.workers.dev/play/258/index.m3u8
+
+#EXTINF:-1 group-title="PIALA DUNIA 2026",TSN1 CA 02
+http://wickediptv.xyz/Randall123/Randall321/53805
+
+#EXTINF:-1 group-title="PIALA DUNIA 2026",IRIB TV 4K
+https://raw.githubusercontent.com/hnnyo/nsed/refs/heads/main/iribhd.m3u8
+
+#EXTINF:-1 tvg-id="auto.somoy.tv.bangladesh" tvg-logo="" group-title="PIALA DUNIA 2026",Somoy TV (Bangladesh)
+http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="auto.somoy.tv.wc.feed" tvg-logo="https://png.pngtree.com/png-clipart/20250628/original/pngtree-golden-fifa-2026-trophy-isolated-on-clean-white-background-png-image_21215061.png" group-title="PIALA DUNIA 2026",Somoy TV (WC Feed)
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+
+#EXTINF:-1 tvg-id="auto.ptv.sports.pakistan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/PTV_Sports_logo.svg/640px-PTV_Sports_logo.svg.png" group-title="PIALA DUNIA 2026",PTV Sports (Pakistan)
+http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="PIALA DUNIA 2026", S Football
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
+
+#EXTINF:-1 group-title="PIALA DUNIA 2026",TNT SPORTS PREMIUM 5
+http://45.232.210.1:18000/play/a05l/index.m3u8
+#EXTINF:-1 group-title="PIALA DUNIA 2026",TNT SPORTS PREMIUM 6
+http://38.226.49.253:8000/play/a06f/index.m3u8
+#EXTINF:-1 group-title="PIALA DUNIA 2026",TNT SPORTS PREMIUM 7
+http://181.205.130.194:4000/play/a0e4
+
+#EXTINF:-1  tvg-logo="https://sumeks.disway.id/upload/d0f8ff0061fb428abe19817f8c7304fa.jpg" group-title="PIALA DUNIA 2026", TVRI Nasional Digital 2
+http://iptv.kilas7.com:80/kaukia/asdfrewq/8
+
+#EXTINF:-1 tvg-id="auto.caze.tv.br" tvg-logo="https://images.seeklogo.com/logo-png/61/1/cazetv-logo-png_seeklogo-619708.png" group-title="PIALA DUNIA 2026",Caze TV BR
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
 #EXTINF:-1 tvg-name="CCTV5+ HD" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="PIALA DUNIA 2026",CCTV5+ HD
 http://112.27.235.94:8000/hls/6/index.m3u8
 
-#EXTINF:-1 tvg-id="auto.telemundo.us.2" tvg-logo="https://png.pngtree.com/png-clipart/20250628/original/pngtree-golden-fifa-2026-trophy-isolated-on-clean-white-background-png-image_21215061.png" group-title="PIALA DUNIA 2026",Telemundo (US)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-
-
 #EXTINF:-1 tvg-id="FoxSports.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="PIALA DUNIA 2026",FOX Sports (1080p)
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
-
 
 #EXTINF:-1 tvg-id="auto.bbc.1" group-title="PIALA DUNIA 2026" tvg-logo="https://png.pngtree.com/png-clipart/20250628/original/pngtree-golden-fifa-2026-trophy-isolated-on-clean-white-background-png-image_21215061.png",BBC 1
 https://xemzi.short.gy/1000001
@@ -98,17 +140,6 @@ https://xemzi.short.gy/1000001
 #EXTINF:-1 tvg-id="auto.bbc.2" group-title="PIALA DUNIA 2026" tvg-logo="https://png.pngtree.com/png-clipart/20250628/original/pngtree-golden-fifa-2026-trophy-isolated-on-clean-white-background-png-image_21215061.png",BBC 2
 https://xemzi.short.gy/1000002
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zDtmlNDlMX5dkKNJZpXTY7mhbcDyqatj9gZSYzxxBjLoOzPNKBUQoBv9OPB6lIRmehPPV2XbSS9zzgujGVVljBQ=w480-h960-rw" group-title="PIALA DUNIA 2026", WCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
-https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="PIALA DUNIA 2026", TELEMUNDO
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2401.ts
-
-#EXTINF:-1 tvg-id="auto.ptv.sports.pakistan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/PTV_Sports_logo.svg/640px-PTV_Sports_logo.svg.png" group-title="PIALA DUNIA 2026",PTV Sports (Pakistan)
-http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="PIALA DUNIA 2026",beIN SPORTS XTRA (1080p)
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
@@ -118,13 +149,6 @@ https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 
 #EXTINF:-1 tvg-id="auto.btv.bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Bangladesh_Television_Logo.svg/640px-Bangladesh_Television_Logo.svg.png" group-title="PIALA DUNIA 2026",BTV (Bangladesh)
 http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="auto.somoy.tv.bangladesh" tvg-logo="" group-title="PIALA DUNIA 2026",Somoy TV (Bangladesh)
-http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-name="PIALA DUNIA 2026" tvg-logo="https://i.imgur.com/gAghUfq.jpeg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA 2026",FIFA World Cup (Mono 29 Thai)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 
 #EXTINF:-1 tvg-id="TSNTheOcho.ca@SD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png" group-title="PIALA DUNIA 2026",TSN The Ocho (1080p)
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
@@ -152,14 +176,18 @@ https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
 http://api.plus-server.sbs/play.php?key=1234&ch=api_mono1
 https://qt4kmqwhsn.3ppnkog.com/xstream/monomax-1/chunks.m3u8?nimblesessionid=1288966&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMjYgNzoyODoyNyBQTSZoYXNoX3ZhbHVlPXplYlRoY29TSWRIWk1zNFQ4Z0dFWUE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTE=
 
-#EXTINF:-1 tvg-id="TSNTheOcho.ca@SD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png" group-title="PIALA DUNIA 2026",TSN The Ocho (1080p)
-https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
-
-#EXTINF:-1 tvg-id="auto.telemundo.us" tvg-logo="https://png.pngtree.com/png-clipart/20250628/original/pngtree-golden-fifa-2026-trophy-isolated-on-clean-white-background-png-image_21215061.png" group-title="PIALA DUNIA 2026",Telemundo (US)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-
-#EXTINF:-1 tvg-id="auto.somoy.tv.wc.feed" tvg-logo="https://png.pngtree.com/png-clipart/20250628/original/pngtree-golden-fifa-2026-trophy-isolated-on-clean-white-background-png-image_21215061.png" group-title="PIALA DUNIA 2026",Somoy TV (WC Feed)
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+#EXTINF:-1 group-title="PIALA DUNIA 2026",ESPN
+http://38.226.210.46:8000/play/a05p/index.m3u8
+#EXTINF:-1 group-title="PIALA DUNIA 2026",ESPN 2
+http://38.224.231.47:8000/play/a05z/index.m3u8
+#EXTINF:-1 group-title="PIALA DUNIA 2026",ESPN 4
+http://38.224.231.47:8000/play/a04h/index.m3u8
+#EXTINF:-1 group-title="PIALA DUNIA 2026",ESPN 5
+http://38.226.49.253:8000/play/a078/index.m3u8
+#EXTINF:-1 group-title="PIALA DUNIA 2026",ESPN 6
+http://38.226.49.253:8000/play/a05p/index.m3u8
+#EXTINF:-1 group-title="PIALA DUNIA 2026",ESPN 7
+http://38.44.109.41:8003/play/a0hx/index.m3u8
 
 #EXTINF:-1 tvg-id="auto.dd.sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/DD_Sports_Logo.svg/960px-DD_Sports_Logo.svg.png" group-title="PIALA DUNIA 2026",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
@@ -169,9 +197,6 @@ https://bein-xtra-bein.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="PIALA DUNIA 2026",beIN Sports XTRA en Espanol (1080p)
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
-
-#EXTINF:-1 tvg-id="FoxSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="PIALA DUNIA 2026",FOX Sports Argentina (720p)
-https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8
 
 
 
@@ -2161,23 +2186,6 @@ https://fta1-cdn-flr.visionplus.id/out/v1/c70975aaa68d47f2a38799e6730a7816/index
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=780f283e8dd84dc195d93899ea9fcabe:59103ac45e9c5e411651e3fa26a2e6d9
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/index.mpd
-
-
-=================================== PIALA DUNIA ================================
-
-
-#EXTINF:-1 group-title="PIALA DUNIA 2026",Telemundo 01
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/109764
-#EXTINF:-1 group-title="PIALA DUNIA 2026",Telemundo 02
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/110009
-#EXTINF:-1 group-title="PIALA DUNIA 2026",FIFAWC 2026 GAME 01
-http://wickediptv.xyz/Randall123/Randall321/340018
-#EXTINF:-1 group-title="PIALA DUNIA 2026",FIFAWC 2026 GAME 02
-http://wickediptv.xyz/Randall123/Randall321/340017
-#EXTINF:-1 group-title="PIALA DUNIA 2026",FIFAWC 2026 GAME 03
-http://wickediptv.xyz/Randall123/Randall321/340016
-
-
 
 
 
