@@ -9,6 +9,19 @@
 
 # <============================================== PIALA DUNIA 2026 ===========================================================>
 
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5.png" group-title="PIALA DUNIA 2026" response-time="58ms",CCTV5
+http://112.123.243.37:50085/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_12_desktop_2x/f_auto/mls-phi/gkrlldkogwgdtya3atef.jpg" group-title="PIALA DUNIA 2026",TSN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 tvg-id="auto.elta.sports.1" tvg-logo="https://official-elta.cdn.hinet.net/storage/upload/news/HbQUjxE8vCiwoJX0FBHCiIOxuzq8abn9bEAWkhT6.jpg" group-title="PIALA DUNIA 2026", ELTA SPORTS 1
+https://iptv.852851.xyz/l/V46f6o08BGwo1CpYNqSZAZL55DpM6bija9oMQN2452EgR1ivEgrTsNiWt1V2OwFf/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/gAghUfq.jpeg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA 2026", Mono 29 Thai
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg" group-title="PIALA DUNIA 2026",Bein Sport France
 http://99.27.51.147:8080/BeinSport/mpegts
@@ -28,9 +41,6 @@ http://66.102.126.10:8000/play/a022/index.m3u8
 #EXTINF:-1  tvg-logo="https://img-cdn.publive.online/fit-in/1280x960/filters:format(webp)/bmi/media/media_files/2026/06/02/zee-unite8-sports-logo-2026-06-02-11-22-35.jpg" group-title="PIALA DUNIA 2026", Unite8 Sports 2
 http://66.102.126.10:8000/play/a076/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/gAghUfq.jpeg" tvg-id=" fifaworldcup.com" group-title="PIALA DUNIA 2026", Mono 29 Thai
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -43,9 +53,6 @@ http://stream.cammonitorplus.net/1752/index.m3u8
 
 #EXTINF:-1 tvg-id="auto.fox.sports.1.alt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="WorldCup 2026",FOX Sports 1
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-
-#EXTINF:-1 tvg-id="auto.elta.sports.1" tvg-logo="https://official-elta.cdn.hinet.net/storage/upload/news/HbQUjxE8vCiwoJX0FBHCiIOxuzq8abn9bEAWkhT6.jpg" group-title="PIALA DUNIA 2026", ELTA SPORTS 1
-https://iptv.852851.xyz/l/V46f6o08BGwo1CpYNqSZAZL55DpM6bija9oMQN2452EgR1ivEgrTsNiWt1V2OwFf/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2022/11/itv-1-new-logo.jpg" group-title="PIALA DUNIA 2026",iTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -67,11 +74,6 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/188500190395c4de0e506d518925dcc4" group-title="PIALA DUNIA 2026",DD Sports
 https://cdn-6.pishow.tv/live/13/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_12_desktop_2x/f_auto/mls-phi/gkrlldkogwgdtya3atef.jpg" group-title="PIALA DUNIA 2026",TSN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5.png" group-title="PIALA DUNIA 2026" response-time="58ms",CCTV5
 http://112.123.243.37:50085/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
