@@ -1,9 +1,5 @@
 #EXTM3U billed-msg="ChandTV"
-
-#EXTM3U tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.xml"
-#EXTM3U url-tvg="https://raw.githubusercontent.com/dhasap/dhanytv/main/epg.xml"
-#EXTM3U tvg-url="https://www.open-epg.com/files/indonesia1.xml"
-#EXTM3U tvg-url="https://www.open-epg.com/files/indonesia2.xml"
+#EXTM3U tvg-url="https://raw.githubusercontent.com/users/iptv/refs/heads/main/epg.xml"
 
 #EXTM3U
 
@@ -179,7 +175,6 @@ https://xemzi.short.gy/1000001
 #EXTINF:-1 tvg-id="auto.bbc.2" group-title="PIALA DUNIA 2026" tvg-logo="https://png.pngtree.com/png-clipart/20250628/original/pngtree-golden-fifa-2026-trophy-isolated-on-clean-white-background-png-image_21215061.png",BBC 2
 https://xemzi.short.gy/1000002
 
-
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="PIALA DUNIA 2026",beIN SPORTS XTRA (1080p)
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
 
@@ -217,19 +212,6 @@ https://qt4kmqwhsn.3ppnkog.com/xstream/monomax-1/chunks.m3u8?nimblesessionid=128
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/BeIN_SPORTS_France_logo_2017.jpg" group-title="PIALA DUNIA 2026", beIN Sports France 2
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2500/index.m3u
-
-#EXTINF:-1 group-title="PIALA DUNIA 2026",ESPN
-http://38.226.210.46:8000/play/a05p/index.m3u8
-#EXTINF:-1 group-title="PIALA DUNIA 2026",ESPN 2
-http://38.224.231.47:8000/play/a05z/index.m3u8
-#EXTINF:-1 group-title="PIALA DUNIA 2026",ESPN 4
-http://38.224.231.47:8000/play/a04h/index.m3u8
-#EXTINF:-1 group-title="PIALA DUNIA 2026",ESPN 5
-http://38.226.49.253:8000/play/a078/index.m3u8
-#EXTINF:-1 group-title="PIALA DUNIA 2026",ESPN 6
-http://38.226.49.253:8000/play/a05p/index.m3u8
-#EXTINF:-1 group-title="PIALA DUNIA 2026",ESPN 7
-http://38.44.109.41:8003/play/a0hx/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="PIALA DUNIA 2026",beIN SPORTS XTRA (1080p)
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
@@ -292,29 +274,12 @@ https://tvratu.my.id/vid/index.mpd?id=204&type=dash
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="Indonesia Channels",Indosiar (Video)
 https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 
-#EXTVLCOPT:http-referrer=https://m.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ab1fe99e4e4f4cbe95930b3154c1fb19:c7f529deccbf6709e3e65c61c8d1344f
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/330px-Indosiar_2015.svg.png" group-title="Indonesia Channels",Indosiar
-https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
-
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
 #EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://thumbor.prod.vidiocdn.com/-MEB2a6J4sB6SvBDimCb7JYP6WY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png" group-title="Indonesia Channels",Trans7 HD (V+)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:contentlookup=false
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://thumbor.prod.vidiocdn.com/-MEB2a6J4sB6SvBDimCb7JYP6WY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png" group-title="Indonesia Channels",Trans7 HD
-https://iptv.kilas7.com:80/live/kaukia/asdfrewq/4.m3u8
-
 
 #EXTINF:-1 tvg-id="MDTV.id" group-title="Indonesia Channels" tvg-logo="https://thumbor.prod.vidiocdn.com/LCZH_yEBnTYEQzrU1pB7w7ev-Bw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/325605.png",MDTV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -379,36 +344,32 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
 #EXTINF:-1 tvg-id="tvOne.id" group-title="Indonesia Channels" tvg-logo="https://thumbor.prod.vidiocdn.com/APQ6a9vXvN6lU1zjeyL15IV_AJQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/783/07750c.png",TVOne (V+)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=483c71dd36fd45dd965321e8c568ba42:719598f53c998c618adf76a8f4f17fd1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.xml" tvg-id="Vision.Prime.id" tvg-name="Vision Prime" tvg-logo="https://mantul.biz.id:443/images/mg9e4VnU5MiobcDarwnBsThkRVaTEjGh_pgyHjwTzco.png" group-title="Indonesia Channels", Vision Prime
-https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
-https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
-https://fta4-cdn-flr.visionplus.id/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
-https://av-ch-cdn.mncnow.id/live/eds/VisionPrime/sa_dash/VisionPrime.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=62f0fb29203c45419e2ea683c5c365e6:10b227a6ea7d65628f025e41318b927c
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.xml" tvg-id="Entertainment.id" tvg-name="Entertainment" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/b/b1/Ent_%282020%29.png/revision/latest?cb=20210401065932" group-title="Indonesia Channels", Entertainment
-https://d2tjypxxy769fn.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/index.mpd
-
-
-#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/insert_id.png",!NSERT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-INSERT/playlist.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
+#KODIPROP:inputstream.adaptive.license_key=483c71dd36fd45dd965321e8c568ba42:719598f53c998c618adf76a8f4f17fd1
+#EXTINF:-1 tvg-id="VisionPrime.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/VisionPrime.png/revision/latest/scale-to-width-down/300?cb=20200225175642&path-prefix=es" group-title="Indonesia Channels",Vision Prime (V+)
+https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.xml" tvg-id="MusicTV.id" tvg-name="Music TV" tvg-logo="https://mimipipi22.github.io/logo/music/musictv.jpg" group-title="Indonesia Channels", MUSIC TV
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
-https://fta1-cdn-flr.visionplus.id/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=62f0fb29203c45419e2ea683c5c365e6:10b227a6ea7d65628f025e41318b927c
+#EXTINF:-1 tvg-id="Ent.id" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/b/b1/Ent_%282020%29.png/revision/latest?cb=20210401065932" group-title="Indonesia Channels",Entertainment (V+)
+https://d2xx73ro32cip.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/index.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=10bba49df37c42e78365a9995ca93f79:1d504b9bf2efa10d4d00058222b5020a
+#EXTINF:-1 tvg-id="CelebritiesTV.id" tvg-logo="https://object-streamo.emonaja.com/img/CelebritiesTV.png" group-title="Indonesian Entertainment & Movies",CelebritiesTV (V+)
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#EXTINF:-1 tvg-id="!nsert" tvg-name="!nsert" tvg-logo="https://i.pinimg.com/736x/fb/31/48/fb3148df8e05c1f255dfe4d6e3649cfc.jpg" group-title="ENTERTAINMENT",!NSERT
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdc51294b4f8e/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 ##KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
@@ -1507,6 +1468,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/85b02e02587747058c1940af6aa3d0fa/in
 # <======================================================= Christian Channels =====================================================>
 
 
+
 #EXTVLCOPT:http-referrer=https://m.visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=08e5cf90e8c04a7fa90f5c126768b239:b9406a99b9ea4b07149ecc582faf2613
@@ -1650,14 +1612,12 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqFfGFGJU6o9ViyB8hBd8doyC83zYkVvesuwx1e9Rdkg819se6Z8e0jdFE7fS0tgrVofADMaFR_fylrNM2KxmuloQcLKyi3J80VUtkVUIbtALBx2BQw0rdG3s9EbUd1jenmSyDYWzXbboMesCFWxiP4g5Z7CiV8s2BBtmM8HJh9jarJwSNcZsFO4p88YL9/s700/MNC%20TV.png" group-title="VISION+",MNC TV
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
-
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqu3uVWEYZpgNsRFjsIns7W4IJoco3hqCoJR6PhJXA4wBlKPukSG4a1qPJblt0aELWfuvhwGZWcIZMhxltraI4C2onG9vRiJWwW4i8a04apMc-MfpIQ4ptrOhcAQkXyVPKHeylwbVZAKuS3JxtoJugGvp7Fpr8yL-goijBHOUpPA2BXnztqR4kg961UI9o/s700/INEWS.png" group-title="VISION+",iNEWS
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
-
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2064,10 +2024,10 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/ind
 https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
 
 
+
 <======================================================= Kids Channels =======================================================>
 
 
-#EXTM3U group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7iUBZzG5eMjXYHo4wz24sFlOSHOsC5GgLWNMNJixlMQ&s" group-title="KIDS"
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
@@ -2121,200 +2081,6 @@ https://fta1-cdn-flr.visionplus.id/out/v1/c70975aaa68d47f2a38799e6730a7816/index
 #KODIPROP:inputstream.adaptive.license_key=780f283e8dd84dc195d93899ea9fcabe:59103ac45e9c5e411651e3fa26a2e6d9
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/index.mpd
 
-
-========================================================PIALA DUNIA=======================================================
-#EXTINF:-1,T sports 11111111
-http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
-#EXTINF:-1,T sports
-http://103.165.93.31:8095/tsports/video.m3u8
-#EXTINF:-1,Somoi
-http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,btv 
-http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,MAX
-http://103.165.93.31:8095/unt-s/tracks-v1a1/mono.m3u8
-#EXTINF:-1,PTV sports
-http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,T sports iptv
-https://bdixserver.tvhunter.top/ant1009/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Btv
-http://103.151.60.162:2121/play/a013/index.m3u8
-#EXTINF:-1,Btv New
-http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,btv
-http://198.195.239.50:8095/btv/index.m3u8
-#EXTINF:-1,Somoi
-http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
-#EXTINF:-1, somoy
-http://198.195.239.50:8095/somoyTv/index.m3u8
-#EXTINF:-1,BTV Alt
-http://180.94.28.28:8097//BTV/index.fmp4.m3u8
-#EXTINF:-1,BTV 1
-https://tv.beyondtaxconsultants.com/api/robi/lps/http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,BTV 2
-https://tv.beyondtaxconsultants.com/api/btv/btv.m3u8
-#EXTINF:-1,BTV 3
-http://103.14.151.101:11/manik-kuttar-baccha-telegram-batpar.m3u8
-#EXTINF:-1,PTV Sports
-https://tv.beyondtaxconsultants.com/api/robi/lps/http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,PTV Sports 3
-http://fastshare1.com:8080//live/25711345/late8airline/61674.ts
-#EXTINF:-1,PTV Sports 2
-http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,T Sports
-http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1,T Sports New
-http://103.165.93.31:8095/tsports/video.m3u8
-#EXTINF:-1,T Sports 2
-http://198.195.239.50:8095/tsports/index.m3u8
-#EXTINF:-1,T Sports 3
-https://mflixott.com/tv/dd/live.php
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",T Sports HD
-https://trs1.aynaott.com/tsports/index.m3u8
-#EXTINF:-1,Somoy TV 1
-https://tv.beyondtaxconsultants.com/api/robi/lps/http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Somoy TV 2
-http://ubuntu.moonplex.net:8080/Somoy_TV/index.m3u8
-#EXTINF:-1,Somoy TV 3
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
-#EXTINF:-1,Somoy TV 4
-http://103.179.25.147:8181/FiFaaaaaah/index.m3u8
-#EXTINF:-1,Somoy TV 5
-http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Go 3 Sport
-http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/18000/index.m3u8
-#EXTINF:-1,Go 3 Sport 2
-http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/18001/index.m3u8
-#EXTINF:-1,Bein Direct
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-#EXTINF:-1,Star Plus
-http://66.102.126.10:8000/play/a008/index.m3u8
-#EXTINF:-1,Star Plus 2
-http://103.157.248.140:8000/play/a005/index.m3u8
-#EXTINF:-1,Colors 1
-http://live.balajibroadband.com:3500/live/144.m3u8
-#EXTINF:-1,Colors 2
-http://103.157.248.140:8000/play/a007/index.m3u8
-#EXTINF:-1,Fox
-http://84.17.50.102/fox/index.m3u8
-#EXTINF:-1,PTV
-http://starhub.pro/live/Anthony2/Anthony123/61674.ts
-#EXTINF:-1,TSN 1
-http://stalker.hakunamata.workers.dev/play/258/index.m3u8
-#EXTINF:-1,TSN 2
-http://stalker.hakunamata.workers.dev/play/259/index.m3u8
-#EXTINF:-1,TSN 3
-http://stalker.hakunamata.workers.dev/play/260/index.m3u8
-#EXTINF:-1,TSN 4
-http://stalker.hakunamata.workers.dev/play/261/index.m3u8
-#EXTINF:-1,TSN 5
-http://stalker.hakunamata.workers.dev/play/262/index.m3u8
-#EXTINF:-1 group-title="FIFA",TVRI Sport
-http://103.148.44.38:8000/play/a05u/index.m3u8
-#EXTINF:-1 group-title="FIFA",TNS 1
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts
-#EXTINF:-1 group-title="FIFA",TNS 2
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3145.ts
-#EXTINF:-1 group-title="FIFA",TVP Sports
-https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
-#EXTINF:-1 group-title="FIFA",Bein Sports 1 720p
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-#EXTINF:-1 group-title="FIFA",FOX
-http://84.17.50.102/fox/index.m3u8
-#EXTINF:-1 group-title="FIFA",FS1
-http://41.223.30.230/FOXSPORTS1/index.m3u8
-#EXTINF:-1 group-title="FIFA",T Sports HD
-https://trs1.aynaott.com/tsports/index.m3u8
-#EXTINF:-1 group-title="FIFA",DAZN 1
-https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
-#EXTINF:-1 group-title="FIFA",Telemundo
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 group-title="FIFA",ESPN S2
-http://186.33.40.97:8789/play/20
-#EXTINF:-1 group-title="FIFA",D Sports
-https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
-#EXTINF:-1 group-title="FIFA",Tudn Sports
-https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8
-#EXTINF:-1, Bioscope
-http://sm-monirul.top/fifa/bioscope/index.m3u8
-#EXTINF:-1, Bioscope 2
-https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index.m3u8
-#EXTINF:-1, FS1
-http://mysave23.com/live/PeH5kPWFfG/infamous7funny/751354.ts
-
-#EXTINF:-1 ,FIFA World Cup 2026 (Fast HD)
-#EXTVLCOPT:http-referrer=https://iscreen.com.bd/
-https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8
-
-#EXTINF:-1 ,FIFA World Cup 2026 (Binge+)
-#EXTVLCOPT:http-referrer=https://iscreen.com.bd/
-https://m3u-tvb.pages.dev/ics.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hjQwQXST/20260613-104845.jpg" group-title="LIVE SPORTS",FIFA World Cup 2026 (HD)
- http://fastshare1.com:80/live/1Aoen7elp5/IgMJ60tmAa/741566.ts
- 
-#EXTINF:-1,Unite8 Sports 1 HD (1080p)
-http://103.114.11.37:8081/UNITEDHINDI/index.m3u8
-#EXTINF:-1,PTV Sports
-http://198.195.239.50:8095/Fifa-1/video.m3u8
-#EXTINF:-1,T Sports HD
-http://114.130.57.233:8080/LIVE-Sports/video.m3u8?token=SkQuhAXZxgBan1
-#EXTINF:-1, Unite Sports Eng FIFA 
-http://198.195.239.50:8095/unt-s/video.m3u8
-#EXTINF:-1,Somoy TV HD
-http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Somoy TV 🇧🇩
-http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
-#EXTINF:-1,T Sports Akash DTH 
-http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1,T Sports Akash
-http://198.195.239.50:8095/tsports/index.m3u8
-#EXTINF:-1,BTV Akash
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
-#EXTINF:-1, T Sports 🇧🇩
-http://114.130.57.233:8080/TsportHD/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
-#EXTINF:-1,BTV B 🇧🇩
-https://tv.beyondtaxconsultants.com/api/btv/btv.m3u8
-#EXTINF:-1, Somoy TV 🇧🇩
-http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
-
-#EXTINF:-1, S Football
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
-
-#EXTINF:-1, Tsports bdix
-http://103.114.11.37:8081/T-Sports-BDIX-3-1080p/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Tsports
-http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, Somoy
-http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
-#EXTINF:-, Somoy Boss
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
-#EXTINF:-1, unite 2
-http://103.165.93.31:8095/unt-s/video.m3u8
-#EXTINF:-1, Bein
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-#EXTINF:-1, Football World Cup 2026 4K
-http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
-#EXTINF:-1, BTV
-http://180.94.28.28:8097//BTV/index.fmp4.m3u8
-#EXTINF:-1, BTV 2
-http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
-#EXTINF:-1, BTV 3
-http://180.94.28.28:8097/BTV/index.m3u8
-#EXTINF:-1, BTV New
-http://103.151.60.162:2121/play/a013/index.m3u8
-#EXTINF:-1, BTV New 2
-http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Tsports
-http://103.165.93.31:8095/tsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Tsports 2
-https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Somoy tv
-http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
-#EXTINF:-1, PTV NEW
-http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
 
 
 
