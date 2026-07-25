@@ -1,5 +1,5 @@
 #EXTM3U billed-msg="ChandTV"
-#EXTM3U tvg-url="https://raw.githubusercontent.com/users/iptv/refs/heads/main/epg.xml"
+https://raw.githubusercontent.com/users/iptv/refs/heads/main/epg.xml
 
 #EXTM3U
 
@@ -140,25 +140,12 @@ http://wickediptv.xyz/Randall123/Randall321/53805
 #EXTINF:-1 group-title="PIALA DUNIA 2026",IRIB TV 4K
 https://raw.githubusercontent.com/hnnyo/nsed/refs/heads/main/iribhd.m3u8
 
-#EXTINF:-1 tvg-id="auto.somoy.tv.bangladesh" tvg-logo="" group-title="PIALA DUNIA 2026",Somoy TV (Bangladesh)
-http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="auto.somoy.tv.wc.feed" tvg-logo="https://png.pngtree.com/png-clipart/20250628/original/pngtree-golden-fifa-2026-trophy-isolated-on-clean-white-background-png-image_21215061.png" group-title="PIALA DUNIA 2026",Somoy TV (WC Feed)
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
-
-#EXTINF:-1 group-title="PIALA DUNIA 2026", S Football
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
-
 #EXTINF:-1 group-title="PIALA DUNIA 2026",TNT SPORTS PREMIUM 5
 http://45.232.210.1:18000/play/a05l/index.m3u8
 #EXTINF:-1 group-title="PIALA DUNIA 2026",TNT SPORTS PREMIUM 6
 http://38.226.49.253:8000/play/a06f/index.m3u8
 #EXTINF:-1 group-title="PIALA DUNIA 2026",TNT SPORTS PREMIUM 7
 http://181.205.130.194:4000/play/a0e4
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1  tvg-logo="https://sumeks.disway.id/upload/d0f8ff0061fb428abe19817f8c7304fa.jpg" group-title="PIALA DUNIA 2026", TVRI Nasional Digital 2
-http://iptv.kilas7.com:80/kaukia/asdfrewq/8
 
 #EXTINF:-1 tvg-id="auto.caze.tv.br" tvg-logo="https://images.seeklogo.com/logo-png/61/1/cazetv-logo-png_seeklogo-619708.png" group-title="PIALA DUNIA 2026",Caze TV BR
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
@@ -181,23 +168,8 @@ https://bein-xtra-bein.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="PIALA DUNIA 2026",beIN Sports XTRA en Espanol (1080p)
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 
-#EXTINF:-1 tvg-id="auto.btv.bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Bangladesh_Television_Logo.svg/640px-Bangladesh_Television_Logo.svg.png" group-title="PIALA DUNIA 2026",BTV (Bangladesh)
-http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="TSNTheOcho.ca@SD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png" group-title="PIALA DUNIA 2026",TSN The Ocho (1080p)
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
-
-#EXTINF:-1 tvg-id="auto.dd.sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/DD_Sports_Logo.svg/960px-DD_Sports_Logo.svg.png" group-title="PIALA DUNIA 2026",DD Sports
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-#EXTINF:-1 tvg-id="auto.ct.sport" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/%C4%8CT_sport_logo.png" group-title="PIALA DUNIA 2026",CT SPORT FHD
-https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="PIALA DUNIA 2026", TIPIK 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -221,7 +193,10 @@ https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 
 
 
+
 # <=============================================================== Indonesia Channels =========================================================>
+
+
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1223,7 +1198,7 @@ https://cdnbal1.indihometv.com/atm/DASH/useeprime/useeprime-avc1_2500000=7-32777
 
 
 
-# <======================================================================== Knowledge & Documentary ==================================================================>
+# <============================================================================== Knowledge & Documentary ==========================================================================================>
 
 
 
@@ -1232,14 +1207,20 @@ https://cdnbal1.indihometv.com/atm/DASH/useeprime/useeprime-avc1_2500000=7-32777
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5709bc59805c4f23b000306efea48438:1772cf06c2f5dd3980a3245cd31fd356
-#EXTINF:-1 tvg-id="BBCEarth.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Sony_BBC_Earth.png" group-title="Knowledge and Documentary",BBC Earth (V+)
+#EXTINF:-1 tvg-id="BBCEarth.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/BBC_Earth.svg/960px-BBC_Earth.svg.png?_=20250602153631" group-title="Knowledge and Documentary",BBC Earth (V+)
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index.mpd
 
-#EXTVLCOPT:http-referrer=https://m.visionplus.id
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7efd32eb4765465c8a19aba6987770c8:733e8d3f4fb8f7ae021168d92f922645
 #EXTINF:-1 tvg-id="OutdoorChannel.id" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/57409e50258033.58cb840c2bbbb.jpg" group-title="Knowledge and Documentary",Outdoor Channel (V+)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/c169ca1dcbe249c5bf233aabc3db4a4f/index.mpd
+
+#KODIPROP:inputstream.adaptive.assured_buffer_length=30
+#KODIPROP:inputstream.adaptive.max_buffer_length=60
+#EXTINF:-1 tvg-id="DiscoveryChannel" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Knowledge and Documentary",Discovery Channel
+https://cdnbal1.indihometv.com/atm/DASH/disco/disco-avc1_2500000=7-3277707030000000.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
@@ -1254,12 +1235,19 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/in
 https://live.corusdigitaldev.com/groupa/live/c0ebcb53-b9fa-4359-830b-714eb459c6d1/corus-history.isml/.mpd
 #https://d1ebgtxjo246w3.cloudfront.net/out/v1/9757e131659a4ab8ba08d448c4a3779e/index.mpd
 
-#EXTINF:24 tvg-url="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png?_=20230318135749" group-title="Knowledge and Documentary", National Geographic
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce73b28200934af786104ce175d0dc45:b3a7b83221ed0d8fe18b8fcf92b5861a
+#EXTINF:-1 group-title="Knowledge and Documentary" tvg-id="CrimeInvestigation.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png",Crime Investigation (V+)
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/index.mpd
+
+#EXTINF:24 tvg-url="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROXPGDMc9MQTbm3g-IiL_a25LqpoE2Wyu7jAvlMuAtPbvqWfy7jdN7_zg&s=10" group-title="Knowledge and Documentary", National Geographic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://40.160.24.53/NAT_GEO/index.m3u8
 
-#EXTINF:-1 tvg-url="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/National_Geographic_Wild_Logo_2019.svg/960px-National_Geographic_Wild_Logo_2019.svg.png" group-title="Knowledge and Documentary", National Geographic Wild
+#EXTINF:-1 tvg-url="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/NGWild.png" group-title="Knowledge and Documentary", National Geographic Wild
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://40.160.24.53/NAT_GEO_WILD/index.m3u8
@@ -1268,6 +1256,16 @@ http://40.160.24.53/NAT_GEO_WILD/index.m3u8
 #KODIPROP:inputstream.adaptive.max_buffer_length=60
 #EXTINF:-1 tvg-id="DiscoveryChannel" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Knowledge and Documentary",Discovery Channel
 https://cdnbal1.indihometv.com/atm/DASH/disco/disco-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-url="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/d9/Wonder_TV_%282020-.n.v.%29.png/revision/latest/thumbnail/width/360/height/360?cb=20231124135730" group-title="Knowledge and Documentary", Wonder
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-url="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX1JMZXr_sSfRZAuQuIF6DgokTNhtDo88DFbt0gvXHrRc8ys6hCNJd4EW1&s=10" group-title="Knowledge and Documentary", InWonder
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:0 tvg-url="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlR1MKxjBkxdC5AejOuecGoIV3JAM6-r4ml_48EpZ33w&s=10" group-title="Knowledge and Documentary", NatureTime Finland
@@ -1278,20 +1276,10 @@ https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.id" tvg-logo="https://i.ibb.co.com/BK5DCBY9/cgtn-documentary.png" group-title="Knowledge and Documentary",CGTN DOCUMENTARY (V+)
 https://cdn.nng.cloudns.us/live/m3u8/knl/0d3dbf8c78f1fb7.m3u8
 
-#EXTINF:-1 tvg-url="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Smithsonian_Channel.png" group-title="Knowledge and Documentary", Smithsonian Channel
+#EXTINF:-1 tvg-url="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZrcEs3ZxIA5djVMVnVQvMJtdNVyfgCXTUuy96adc2hqvrk323EIAW1k&s=10" group-title="Knowledge and Documentary", Smithsonian Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://40.160.24.55/SMITHSONIAN/index.m3u8
-
-#EXTINF:-1 tvg-url="" tvg-id="" tvg-logo="https://tv.wonderstudios.com/twitter-image.jpg?twitter-image.0e03v623xvap_.jpg" group-title="Knowledge and Documentary", Wonder
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-url="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX1JMZXr_sSfRZAuQuIF6DgokTNhtDo88DFbt0gvXHrRc8ys6hCNJd4EW1&s=10" group-title="Knowledge and Documentary", InWonder
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
 
 #EXTINF:-1 tvg-url="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp9JBBOaGE3Q6mdeZYTsjSbvU36vyrb8Tr_t1XeNGTPQ&s=10" group-title="Knowledge and Documentary", Pluto TV Science
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -1329,13 +1317,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/15500e8f0dc44058ba0431d39a8fed57/in
 #EXTINF:-1 tvg-id="GlobalTrekker.id" tvg-logo="https://images.squarespace-cdn.com/content/v1/616632df4479e534656ecf49/2017e527-15ce-4a89-acb0-6ad018d314fb/Global-Trekker_logo_primary.png" group-title="Knowledge and Documentary",Global Trekker (V+)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/99b07f39f4964b7cb9bfc092b51af734/index.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce73b28200934af786104ce175d0dc45:b3a7b83221ed0d8fe18b8fcf92b5861a
-#EXTINF:-1 group-title="Knowledge and Documentary" tvg-id="CrimeInvestigation.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png",Crime Investigation (V+)
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/index.mpd
-
 #EXTINF:-1 tvg-id="auto.dens.learning.knowledge" tvg-logo="https://www.dens.tv/images/channel-logo/1.jpg" group-title="Knowledge and Documentary",Dens Learning & Knowledge (DensTV)
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-origin=https://www.dens.tv
@@ -1365,10 +1346,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animal_planet_sd/defaul
 
 
 
-
-
-# <==================================================================== Music ==============================================================================>
-
+# <================================================================================================ Music ===================================================================================================>
 
 
 
@@ -1462,9 +1440,7 @@ https://atomic.streamnet.ro/academia.m3u8
 
 
 
-
 # <================================================================= Entertainemnt & Lifestyle ======================================================================>
-
 
 
 
@@ -1560,42 +1536,41 @@ https://cdnbal1.indihometv.com/atm/DASH/fashiontv/fashiontv-avc1_2500000=7-32777
 
 
 
-
 # <========================================================== Anime ===============================================================>
 
-#EXTINF:0,One Piece
+
+
+#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/13/One_Piece_Anime_Logo_International.png" group-title="Anime", One Piece
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-62e94ec74823db0007277a8f.m3u8
 
-#EXTINF:0,Naruto Shippuden
+#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Logo_Naruto_Shipp%C5%ABden.svg/330px-Logo_Naruto_Shipp%C5%ABden.svg.png" group-title="Anime", Naruto Shippuden
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-64c92f965580090008084968.m3u8
 
-#EXTINF:0,Pluto TV Anime
+#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKZv01Uz7r9p-plnmTvnSw24lmNqpW--yDJRTErjHpVlVZ6Wpw_utoQsdz&s=10" group-title="Anime", Pluto TV Anime
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-608181d420fc8500075f612a.m3u8
 
-#EXTINF:0,Pluto TV Anime
+#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKZv01Uz7r9p-plnmTvnSw24lmNqpW--yDJRTErjHpVlVZ6Wpw_utoQsdz&s=10" group-title="Anime", Pluto TV Anime
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-65b90daed77d450008a43345.m3u8
 
-#EXTINF:0,Pluto TV Anime
+#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKZv01Uz7r9p-plnmTvnSw24lmNqpW--yDJRTErjHpVlVZ6Wpw_utoQsdz&s=10" group-title="Anime", Pluto TV Anime
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8
 
-#EXTINF:0,Pluto TV Anime Movies
+#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxeR3dV6u1w__aKkEt5IUkgqDbd_B_v79w-96Wpg5Pu4p6LqGL8oxK7Kac&s=10" group-title="Anime", Pluto TV Anime Movies
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-67ed8f7e443f0671bc2b2368.m3u8
 
-#EXTINF:0,FilmRise Anime (720p)
+#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBE1lgTQx656JfJAL0_hIlMOBr0gNIvOBcBbaUJ6mtrVvrgPrV8N6V0aA&s=10" group-title="Anime", FilmRise Anime (720p)
 #EXTVLCOPT:network-caching=1000
 https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
 
 
 
-
 # <========================================================== News ===============================================================>
-
 
 
 
@@ -1888,14 +1863,12 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/in
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5WI1zwFD5QQllmY40Don7HGxohmRCOGkxrPFVBC6trTtyO5cTnPSV4jeH9SeCfw7E3qB5XDtk4fqb9eDZeU7l8q_phqw_p7ezv-jkdwv4cFQPcgqAfDSF4c2wXbMzbSFOHM869h92Jmx_Iw77Akrm_pY9cgqGGIOFYhX9tC19XPRXuN4f-JheICGsNJhj/s700/METRO%20TV.png" group-title="VISION+",METRO TV
 https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
 
-
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=DASH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifeILJdou1pyvJGRJ-iPw8oUdtEwZPP4JdJBFCb98Tp0x0pZhS2vsVqIQx1sfw81CVqTnvoUxKeJXU4CDn1Gjfvb4a0R5HZ4p1osKFDxOophyphenhyphenu7OHXuxRf_4VGeaEZ-2Tc3dPzUXRcFxNc8cwgqRSBxM51cTSjO9UuUB6VX15U29O-K7FqktbAKLx7Qn34/s700/TVRI.png" group-title="VISION+",TVRI NASIONAL
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/b642f32e396042f981d83fbb5f472272/index.mpd
-
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1924,7 +1897,6 @@ https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/in
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaewZjr7TBu8DYkZL_jlqTpXvDqr13LS5bwkhp_x_7bWhiIj1F-RpiHym8-ypkuzIeulsooFpHAFC-ljdptt_oSx9Z9ppthWukw_JvxpYtPXIMH-cAtr7lxY8DfUws_HxFODgdFxmnR-4fSZ_46gJU4PrSJ4DMKesvNbfRpf3Ju7L_ToJ2aT7rEwZzyp8s/s700/BALI%20TV.png" group-title="VISION+",BALI TV
 https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/index.mpd
 
-
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e9d9ca2bb814de9bfd73d7c19bfe190:e8c178a885d1a1e042ca34ec5ea3b938
@@ -1951,7 +1923,6 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis1eSuekA3wdd-fNCLWe12mBr39Aa1dNkRv1wdj62u97Typ4QuVB9O5O0cb1QwRiykpObMvFQpePJcCTldjea4wHSUxGIL9FOqjzYKgLU55D6wP9EHJfOjjTomQrRm8s7XT3Pw9ZWKfVBk94kttWZgw78GgBKA1VgetVe6rVrCaWJFHTgiIlyJvyoTeqdh/s700/GALAXY.png" group-title="VISION+",GALAXY
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
-
     
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2008,7 +1979,6 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihsKHdqD3a0NaPimwL5lf-IP28vy8ZFsXQXVhCSLMeydln2BUl1NA7pOaVQnGRhdkPXHEcV2kW0dhTQudxVqrDAoepRrVdNf0oXuEh-FC1fLv2yUCrGMsxeuCibvEtZnrxko0-I6zoZyGiZlzhfvHuX9s2bxwS4E6o9fJIfgvsq0741NkgYkhflBAgzOWY/s700/ROCK%20ENTERTAINMENT.png" group-title="VISION+",ROCK ENTERTAINMENT
 https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd
-
 
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2073,7 +2043,6 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/ind
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlkVf8opmBsl3An-FC1dkN8LpgbEEPG5AIZzUkPTj6mih5ogV4MD84sS1RuA-oTft6TDH7iM0BPJYwxgT9_xdoQ1xO2ADkRD1UHam_55yjWfUxaGlQvhidM3o-NPriLcT6UBp1iGMC7V59PR7I3bB2XTU1hcEkRzev0_rQNGPSw2S60z-n6DTSb128mR_X/s700/TVN%20MOVIES.png" group-title="VISION+",TVN MOVIES
 https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
 
-
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
@@ -2126,6 +2095,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/in
 
 
 # <================================================== KIDS CHANNEL =========================================================>
+
 
 
 #EXTINF:-1 tvg-url="" tvg-logo="https://mantul.biz.id:443/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuumstUULNajvRQABtQws-liP8eUO4Yy-6f-NSqREGE0l9-w.png" group-title="Kids Channel",DISNEY Channel
