@@ -1350,63 +1350,63 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animal_planet_sd/defaul
 
 
 
-#EXTINF:25 tvg-id="" tvg-logo="" group-title="Music", MTV Pop
+#EXTINF:25 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoPYqKPQeS1qoCK40o4qBEd-RVjlZHLZnbotJ9Jmq7cA&s=10" group-title="Music", MTV Pop
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Music", Vevo Pop
+#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwSq8cEU0Gfxq5WvHrHCb3bBI2M-hn3qA8kWg1APvXqSCjRldnhZZ4L11L&s=10" group-title="Music", Vevo Pop
 #EXTVLCOPT:network-caching=1000
 https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Music", Vevo Retro Rock
+#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmzCDPE5Ar2IyBggjRAWlN9XrVw6jrJAZcuutjMFiqiXOYA9Say0uPjLva&s=10" group-title="Music", Vevo Retro Rock
 #EXTVLCOPT:network-caching=1000
 https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Music", Stingray Greatest Hits
+#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXVhCc-N-EJU76NpTfhGqMGz4CPRetZWmrHLxNPinuFU9mUeYLQY1QsXw&s=10" group-title="Music", Stingray Greatest Hits
 #EXTVLCOPT:network-caching=1000
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883053
 
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Music", Stingray Greatest Hits 
+#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXVhCc-N-EJU76NpTfhGqMGz4CPRetZWmrHLxNPinuFU9mUeYLQY1QsXw&s=10" group-title="Music", Stingray Greatest Hits 
 #EXTVLCOPT:network-caching=1000
 https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Music", XITE Hits UK
+#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIwCg6Lpzg51pKFw0MnacCcm9tBeUx7MDXP1VoG8qCLDDGftYzXHM50Hlk&s=10" group-title="Music", XITE Hits UK
 #EXTVLCOPT:network-caching=1000
 https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Music", XITE Rock x Metal
+#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm6iGtTe2A7fZqDKNmpnUMAMQvLKWwdTAAX4dwvZovFQ&s=10" group-title="Music", XITE Rock x Metal
 #EXTVLCOPT:network-caching=1000
 https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Music", Stingray Rock Alternative (1080p)
+#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdV902xzTdQmFxKuYPJDUE6RG4mg9Vk5HrVjBRQ2X3lA&s=10" group-title="Music", Stingray Rock Alternative
 #EXTVLCOPT:network-caching=1000
 https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Music", Stingray Pop Adult (1080p)
+#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdV902xzTdQmFxKuYPJDUE6RG4mg9Vk5HrVjBRQ2X3lA&s=10" group-title="Music", Stingray Pop Adult (1080p)
 #EXTVLCOPT:network-caching=1000
 https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Music", Stingray Today's KPOP (1080p)
+#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdV902xzTdQmFxKuYPJDUE6RG4mg9Vk5HrVjBRQ2X3lA&s=10" group-title="Music", Stingray Today's KPOP (1080p)
 #EXTVLCOPT:network-caching=1000
 https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Music", Los Angeles TV Radio
+#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPLAG4VbtZdcI9qw5jAzRnC5OopZeMjcqjtGyQTgD1LQ&s=10" group-title="Music", Los Angeles TV Radio
 #EXTVLCOPT:network-caching=1000
 https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Music", Clubbing TV UK
+#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5WNmdfdJZcepGr5zWCSedszO7l5AyoE25yrelxL9Puw&s=10" group-title="Music", Clubbing TV UK
 #EXTVLCOPT:network-caching=1000
 https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Music", Best of Dance TV
+#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEsDXFBVn6Uiket8opDfFlyfZdnrk6-MStaSA1xebxHA&s" group-title="Music", Best of Dance TV
 #EXTVLCOPT:network-caching=1000
 https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Music", DanceTV Algorhythm
+#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCCiFBXC91LlMPKm4-99gXedxeefMGaPw3XAk9oveK0A&s=10" group-title="Music", DanceTV Algorhythm
 #EXTVLCOPT:network-caching=1000
 https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Music", DanceTV Deep House District
+#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZhFLyHXPH7QP9xuAOPXo7vcfSCwzOtTEv0xw0njaoGS1CBPy5PQaKDpk&s=10" group-title="Music", DanceTV Deep House District
 #EXTVLCOPT:network-caching=1000
 https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 
@@ -1414,27 +1414,27 @@ https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 #EXTVLCOPT:network-caching=1000
 https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8
 
-#EXTINF:0,DanceTV House Floor
+#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCCiFBXC91LlMPKm4-99gXedxeefMGaPw3XAk9oveK0A&s=10" group-title="Music", DanceTV House Floor
 #EXTVLCOPT:network-caching=1000
 https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Music", DanceTV Minimal Tech
+#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCCiFBXC91LlMPKm4-99gXedxeefMGaPw3XAk9oveK0A&s=10" group-title="Music", DanceTV Minimal Tech
 #EXTVLCOPT:network-caching=1000
 https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8
 
-#EXTINF:0,DanceTV Techno Warehouse
+#EXTINF:0 tvg-id="" tvg-logo="tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCCiFBXC91LlMPKm4-99gXedxeefMGaPw3XAk9oveK0A&s=10" group-title="Music"," group-title="Music", DanceTV Techno Warehouse
 #EXTVLCOPT:network-caching=1000
 https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Music", VH1
+#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3IHGgnNeabNSTl64LUOrH929yUBWKoV8k2buCCPmjHg&s=10" group-title="Music", VH1
 #EXTVLCOPT:network-caching=1000
 http://40.160.24.55/VH1/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Music", VH1 West
+#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3IHGgnNeabNSTl64LUOrH929yUBWKoV8k2buCCPmjHg&s=10" group-title="Music", VH1 West
 #EXTVLCOPT:network-caching=1000
 http://40.160.24.55/VH1_WEST/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Music", Atomic Academy TV
+#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdX3UBsSUsOwFB9spxDccuojoZST0kmNj3tYqASws-rQ&s=10" group-title="Music", Atomic Academy TV
 #EXTVLCOPT:network-caching=1000
 https://atomic.streamnet.ro/academia.m3u8
 
