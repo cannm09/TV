@@ -839,6 +839,11 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/in
 #EXTVLCOPT:network-caching=1000
 https://xemzi.short.gy/2000005
 
+#EXTINF:-1 like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Sports", DAZN 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://znty.dyndns.org:5010/hls/eleven5.m3u8
+
 #EXTINF:-1 tvg-url="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtd9W15ZepHBQTLt8oIKb12pFBPtPZCqrtoZiSg2RW4A&s=10" group-title="Sports", Sky Sports Main Event HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
@@ -1080,12 +1085,12 @@ https://get.perfecttv.net/mutv.mpd
 #KODIPROP:inputstream.adaptive.license_key=8bcec6b31cc9edcb6768ab26548e22c3:e3c5b07328894c33734a4de6ae55a87f
 https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
 
-#EXTINF:0 tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Sport_TV1_%282016%29.svg/960px-Sport_TV1_%282016%29.svg.png" group-title="Sports", Sport TV1
+#EXTINF:0 tvg-url="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIcnZLJYj59rHX8R0G-dtATFwUaOCRgOgVS1nEXBbW&s" group-title="Sports", Sport TV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://znty.dyndns.org:5010/hls/stv1.m3u8
 
-#EXTINF:0 tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Sport_TV5_%282016%29.svg/960px-Sport_TV5_%282016%29.svg.png" group-title="Sports", Sport TV5
+#EXTINF:0 tvg-url="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA1uXqwg16YkS4rDc8NttHnkMuZS3woXDO1Zahonqf&s" group-title="Sports", Sport TV5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://znty.dyndns.org:5010/hls/stv5.m3u8
@@ -1176,8 +1181,7 @@ http://23.237.104.106:8080/USA_MSG/index.m3u8
 #https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd
 #https://zap-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/default.mpd
 
-#EXTINF:0 tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Esports_Max_Logo.png" group-title="Sports", eSports Max TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-url="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRopSZ71p0_lJR5ZphoO3dGB-AsdImvPaZtNbCG3nuOcbwlaaePdb0XEU-V&s=10" group-title="Sports", eSports Max TV
 #EXTVLCOPT:network-caching=1000
 https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
 
