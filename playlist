@@ -1563,12 +1563,11 @@ https://cdnbal1.indihometv.com/atm/DASH/fashiontv/fashiontv-avc1_2500000=7-32777
 
 
 
-
 #EXTINF:25 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUKi2UtRpXwgHYHm6oNBll61MrE8UEge4rwbeePEk7RA&s=10" group-title="Music", MTV Classic
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfZUzZxiadpAzqrjeCbiQm7dud7SN3loIvlB1fxMCSGg&s=10" group-title="Music", MTV PopPluto TV MTV Classic
+#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfZUzZxiadpAzqrjeCbiQm7dud7SN3loIvlB1fxMCSGg&s=10" group-title="Music", MTV Classic 2
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
 
@@ -1576,7 +1575,7 @@ https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfZUzZxiadpAzqrjeCbiQm7dud7SN3loIvlB1fxMCSGg&s=10" MTV Hip Hop R&B Classic
+#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfZUzZxiadpAzqrjeCbiQm7dud7SN3loIvlB1fxMCSGg&s=10" group-title="Music" MTV Hip Hop R&B Classic
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-654102ed770cf1000866c307.m3u8
 
@@ -1648,10 +1647,6 @@ https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
 #EXTVLCOPT:network-caching=1000
 https://cmc-cmctv-cineverse.amagi.tv/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPLAG4VbtZdcI9qw5jAzRnC5OopZeMjcqjtGyQTgD1LQ&s=10" group-title="Music", Los Angeles TV Radio
-#EXTVLCOPT:network-caching=1000
-https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8
-
 #EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5WNmdfdJZcepGr5zWCSedszO7l5AyoE25yrelxL9Puw&s=10" group-title="Music", Clubbing TV UK
 #EXTVLCOPT:network-caching=1000
 https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8
@@ -1696,6 +1691,10 @@ http://40.160.24.55/VH1_WEST/index.m3u8
 #EXTVLCOPT:network-caching=1000
 https://atomic.streamnet.ro/academia.m3u8
 
+#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPLAG4VbtZdcI9qw5jAzRnC5OopZeMjcqjtGyQTgD1LQ&s=10" group-title="Music", Los Angeles TV Radio
+#EXTVLCOPT:network-caching=1000
+https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1705,8 +1704,8 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/ind
 
 
 
-
 # <========================================================== Comedy ===============================================================>
+
 
 
 #EXTINF:0,Mr Bean Live Action 
@@ -1715,9 +1714,7 @@ https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg0
 
 
 
-
 # <========================================================== Anime ===============================================================>
-
 
 
 
