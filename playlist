@@ -232,31 +232,16 @@ https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 https://video.detik.com/20detik/smil:20detik-live.smil/playlist.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-#EXTVLCOPT:http-origin=https://20.detik.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://20.detik.com/
-#EXTINF:-1 tvg-id="www.transtv.co.id/live" tvg-logo="https://i.pinimg.com/1200x/b6/35/93/b63593c79393d31b9ea48b65c8562d08.jpg" group-title="Indonesia Channels",TransTV HD 2
-https://video.detik.com/transtv-sec/smil:transtv.smil/chunklist_w1346870270_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODY1MjQxNDkyOTUmd293emF0b2tlbmhhc2g9VlJkUFUtc1F5WENra0Jrbm56bkZFeEtKRk44a2hJa1hPRHkxSHNNb2tNND0=.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 #EXTVLCOPT:http-origin=https://20.detik.com
-#EXTVLCOPT:http-referrer=https://20.detik.com/
-#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://i.pinimg.com/1200x/e0/9e/ad/e09ead1424936d2ede3a69b65b44340e.jpg" group-title="Indonesia Channels",Trans7 HD
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Trans7" tvg-logo="https://i.pinimg.com/1200x/b6/35/93/b63593c79393d31b9ea48b65c8562d08.jpg" group-title="Indonesia Channels",Trans7 HD
 https://video.detik.com/20detik/smil:20detik-live.smil/playlist.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-#EXTVLCOPT:http-origin=https://20.detik.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://20.detik.com/
-#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://i.pinimg.com/1200x/e0/9e/ad/e09ead1424936d2ede3a69b65b44340e.jpg" group-title="Indonesia Channels",Trans7 HD 2
-https://video.detik.com/trans7-sec/smil:trans7.smil/chunklist_w1006157848_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODY1MjQzNTU3OTAmd293emF0b2tlbmhhc2g9VjY4YmlaYXQzY2NvcnNDSVlycm13aDlxZk1hbEJfU2NhaXdzV2RQUzE2WT0=.m3u8
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-#EXTVLCOPT:http-origin=https://20.detik.com
-#EXTVLCOPT:http-referrer=https://20.detik.com/
-#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://i.pinimg.com/1200x/e0/9e/ad/e09ead1424936d2ede3a69b65b44340e.jpg" group-title="Indonesia Channels",Trans7 HD 3
-https://video.detik.com/trans7-sec/smil:trans7.smil/chunklist_w506325430_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODY1MjQ1MjMwMDcmd293emF0b2tlbmhhc2g9QWJyMEw2bVVKNVlrUTQwbzlVX1Jzbmw2NWdXYjZYWWdvLTluUlAtTnZMMD0=.m3u8
+#EXTINF:-1 tvg-id="20Detik" group-title="Indonesia Channels",20Detik
+https://video.detik.com/20detik/smil:20detik-live.smil/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
