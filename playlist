@@ -460,6 +460,43 @@ https://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 #EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/qtIYvE-mjwMPwd-VUxilo2gFiAI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18162/b4bea2.png" group-title="Indonesia Channels",Garuda TV
 https://hgmtv.com:19360/garudatvlivestreaming/480p.m3u8
 
+#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/18/Logo_Astro_Blitar_TV.png" group-title="Indonesia Channels",Astro Blitar TV
+#EXTVLCOPT:http-referrer=https://abtelevisi.com/
+#EXTVLCOPT:network-caching=1000
+https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="https://drive.google.com/file/d/1Tb-ggo8O_YyihLcjrZ-1A6pRvKSMw1bq/view" group-title="Indonesia Channels",Biznet Adventure
+#EXTVLCOPT:network-caching=1000
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+
+#EXTINF:0,Biznet Lifestyle (1080p)
+#EXTVLCOPT:network-caching=1000
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8
+
+#EXTINF:0,BRTV (720p)
+#EXTVLCOPT:network-caching=1000
+https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
+
+#EXTINF:0,Kawanua TV (720p)
+#EXTVLCOPT:network-caching=1000
+http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
+
+#EXTINF:0,MGSTV
+#EXTVLCOPT:http-referrer=https://mgstv.co.id/live-streaming/
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0,TVR Parlemen (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://103.18.181.69:1935/golive/livestream/playlist.m3u8
+
+#EXTINF:0,TVRI
+#EXTVLCOPT:network-caching=1000
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+
+#EXTINF:0,TVRI North Sulawesi
+#EXTVLCOPT:network-caching=1000
+https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8
+
 
 
 # <================================================================== Premium Movies ============================================================>
@@ -676,6 +713,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/561d7d484
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="Movies News" tvg-name="Movies News" tvg-logo="https://mimipipi22.github.io/logo/entertainment/movienews.jpg" group-title="Premium Movies",MOVIES NEWS
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc464d33c0b/manifest.mpd
+
+#EXTINF:0,CinemaWorld (720p)
+#EXTVLCOPT:network-caching=1000
+http://nmk.ioapk.com:5050/4gtv-live069/index.m3u8
 
 #EXTINF:-1 tvg-url="" tvg-id="MyTimeMovieNetworkEast.us" tvg-logo="https://i.imgur.com/HYgxPVQ.png" group-title="Premium Movies",MyTime Movie Network 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
