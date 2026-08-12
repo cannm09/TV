@@ -1260,7 +1260,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/c169ca1dcbe249c5bf233aabc3db4a4f/in
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=22dcc9a719a3411ca53b520236ded916:27425784e415cb5de6c857de6222b01b
-#EXTINF:-1 tvg-id="CGTN.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrI007AFZTwu-icGr3hdddYlVehonHQQ7tnP8l3zRAc5wXtqEC0742_duK&s=10" group-title="News",CGTN
+#EXTINF:-1 tvg-id="CGTN.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrI007AFZTwu-icGr3hdddYlVehonHQQ7tnP8l3zRAc5wXtqEC0742_duK&s=10" group-title="Knowledge and Documentary",CGTN
 https://atemecdnbalancer-voe.sysln.id/live/eds/CGTN/mediampd/CGTN.mpd
 
 #KODIPROP:inputstream.adaptive.assured_buffer_length=30
