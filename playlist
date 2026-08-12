@@ -1562,21 +1562,29 @@ https://cdnbal1.indihometv.com/atm/DASH/fashiontv/fashiontv-avc1_2500000=7-32777
 
 
 
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-origin=https://www.vidio.com
-#EXTINF:-1 tvg-id="auto.musica" group-title="Music" tvg-logo="https://i.postimg.cc/SQTLjRnj/ezgif-4e840dec9df68523.png",MUSICA
-https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=7619
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="usa.mtv" tvg-name="USA MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/MTV_New_Official_Logo_2021.png" group-title="Music",USA MTV
-https://23.237.104.106:8080/USA_MTV/index.m3u8
+
+#EXTINF:25 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUKi2UtRpXwgHYHm6oNBll61MrE8UEge4rwbeePEk7RA&s=10" group-title="Music", MTV Classic
+#EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfZUzZxiadpAzqrjeCbiQm7dud7SN3loIvlB1fxMCSGg&s=10" group-title="Music", MTV PopPluto TV MTV Classic
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
 
 #EXTINF:25 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoPYqKPQeS1qoCK40o4qBEd-RVjlZHLZnbotJ9Jmq7cA&s=10" group-title="Music", MTV Pop
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfZUzZxiadpAzqrjeCbiQm7dud7SN3loIvlB1fxMCSGg&s=10" MTV Hip Hop R&B Classic
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-654102ed770cf1000866c307.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="usa.mtv" tvg-name="USA MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/MTV_New_Official_Logo_2021.png" group-title="Music",USA MTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://23.237.104.106:8080/USA_MTV/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwSq8cEU0Gfxq5WvHrHCb3bBI2M-hn3qA8kWg1APvXqSCjRldnhZZ4L11L&s=10" group-title="Music", Vevo Pop
 #EXTVLCOPT:network-caching=1000
@@ -1586,6 +1594,16 @@ https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-vevotv-vevopopau-samsung
 #EXTVLCOPT:network-caching=1000
 https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
 
+#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" Trace Urban International
+#EXTVLCOPT:network-caching=1000
+https://channels.trace.plus/Traceprod/URBAN_INTER_hd/index.m3u8
+
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTINF:-1 tvg-id="auto.musica" group-title="Music" tvg-logo="https://i.postimg.cc/SQTLjRnj/ezgif-4e840dec9df68523.png",MUSICA INDO
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=7619
+
 #EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXVhCc-N-EJU76NpTfhGqMGz4CPRetZWmrHLxNPinuFU9mUeYLQY1QsXw&s=10" group-title="Music", Stingray Greatest Hits
 #EXTVLCOPT:network-caching=1000
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883053
@@ -1593,6 +1611,14 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXVhCc-N-EJU76NpTfhGqMGz4CPRetZWmrHLxNPinuFU9mUeYLQY1QsXw&s=10" group-title="Music", Stingray Greatest Hits 
 #EXTVLCOPT:network-caching=1000
 https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIwCg6Lpzg51pKFw0MnacCcm9tBeUx7MDXP1VoG8qCLDDGftYzXHM50Hlk&s=10" group-title="Music" XITE
+#EXTVLCOPT:network-caching=1000
+https://xite-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIwCg6Lpzg51pKFw0MnacCcm9tBeUx7MDXP1VoG8qCLDDGftYzXHM50Hlk&s=10" group-title="Music" XITE Hits
+#EXTVLCOPT:network-caching=1000
+https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIwCg6Lpzg51pKFw0MnacCcm9tBeUx7MDXP1VoG8qCLDDGftYzXHM50Hlk&s=10" group-title="Music", XITE Hits UK
 #EXTVLCOPT:network-caching=1000
@@ -1606,13 +1632,21 @@ https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
 #EXTVLCOPT:network-caching=1000
 https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdV902xzTdQmFxKuYPJDUE6RG4mg9Vk5HrVjBRQ2X3lA&s=10" group-title="Music", Stingray Pop Adult (1080p)
+#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdV902xzTdQmFxKuYPJDUE6RG4mg9Vk5HrVjBRQ2X3lA&s=10" group-title="Music", Stingray Pop Adult
 #EXTVLCOPT:network-caching=1000
 https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdV902xzTdQmFxKuYPJDUE6RG4mg9Vk5HrVjBRQ2X3lA&s=10" group-title="Music", Stingray Today's KPOP (1080p)
+#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdV902xzTdQmFxKuYPJDUE6RG4mg9Vk5HrVjBRQ2X3lA&s=10" group-title="Music", Stingray Today's KPOP
 #EXTVLCOPT:network-caching=1000
 https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/teMC77w5sS5F-T1LDUx2rgKyp9GQdTWOokovdEaBaXdQ7V0BqLJPDZJ305cVc3MTUB5R63ZyF_LRRQmqBXjRTQ=w526-h296-rw" group-title="Music",POP World TV
+#EXTVLCOPT:network-caching=1000
+https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/California_Music_Channel_Logo_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Music",California Music Channel
+#EXTVLCOPT:network-caching=1000
+https://cmc-cmctv-cineverse.amagi.tv/playlist.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPLAG4VbtZdcI9qw5jAzRnC5OopZeMjcqjtGyQTgD1LQ&s=10" group-title="Music", Los Angeles TV Radio
 #EXTVLCOPT:network-caching=1000
