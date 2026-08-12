@@ -253,21 +253,13 @@ https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=204
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/iESh25mkdwIlSZLX4WUt256JH3U=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg" group-title="Indonesia Channels",SCTV (Vidio)2
 https://beetv.my.id/stream/vd.m3u8?ch=sctv|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36&Referer=https://www.vidio.com/&Origin=https://www.vidio.com
 
-EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.pinimg.com/1200x/f9/0f/04/f90f04ce1408cfed28e06eb3508bebb3.jpg" group-title="Indonesia Channels",Indosiar
+#EXTINF:-1 tvg-id="Indosiar" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.pinimg.com/1200x/f9/0f/04/f90f04ce1408cfed28e06eb3508bebb3.jpg" group-title="Indonesia Channels",Indosiar
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
-#https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
 https://beetv.my.id/stream/vd.m3u8?ch=indosiar
-
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-origin=https://www.vidio.com
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=2058&type=drm
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://i.pinimg.com/1200x/f9/0f/04/f90f04ce1408cfed28e06eb3508bebb3.jpg" group-title="Indonesia Channels",Indosiar 2
-https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 
 #EXTINF:-1 tvg-id="MDTV.id" group-title="Indonesia Channels" tvg-logo="https://thumbor.prod.vidiocdn.com/vkORCwK34mMDw2PbRGLcVLkux10=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg",MDTV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -487,32 +479,33 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 #EXTVLCOPT:network-caching=1000
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/gK-UhJc_nhcRix5Ba-CYuBgnKq47184jE3Lhpj8Ws367UIFm_KzFgwpkTrTuklAj1TJLu0p4oA=s900-c-k-c0x00ffffff-no-rj" group-title="Indonesia Channels",BRTV
+#EXTINF:0 tvg-id="" tvg-logo="https://profile.brtv.co.id/storage/service/b6dc00e3-7108-4985-9145-e75e36894800.png" group-title="Indonesia Channels",BRTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/NqaPxTCgHX3Wj8KVp0sUtCTWDH3LbNpN_xquRGpFuZX5AmCgu4zXvYVWHaZVC0oayUANpzNb=s900-c-k-c0x00ffffff-no-rj" group-title="Indonesia Channels,Kawanua TV
+#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV2TFvrusOOFS6MhP08iiQJNQIzl1T6wWpnlXIp4NZ9a_-UTSA3cH-jn0&s=10" group-title="Indonesia Channels",Kawanua TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="https://mgstv.co.id/wp-content/uploads/2025/07/MGSTV-SPIRIT-OF-SUNDA-POLOS-scaled.png" MGSTV
+#EXTINF:0 tvg-id="" tvg-logo="https://mgstv.co.id/wp-content/uploads/2025/07/MGSTV-SPIRIT-OF-SUNDA-POLOS-scaled.png" group-title="Indonesia Channels",MGSTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://mgstv.co.id/live-streaming/
 #EXTVLCOPT:network-caching=1000
+https://mgstv.siar.us/live/mgstv.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREX5dgDP7eltrChbsSrdbliEYJupN5MSTUllGKu-EKjA&s=10" group-title="Indonesia Channels,TVR Parlemen
+#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREX5dgDP7eltrChbsSrdbliEYJupN5MSTUllGKu-EKjA&s=10" group-title="Indonesia Channels",TVR Parlemen
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://103.18.181.69:1935/golive/livestream/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/TVRILogo2019.svg?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Indonesia Channels,TVRI
+#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/TVRILogo2019.svg?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Indonesia Channels",TVRI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/TVRI_SULUT_2023.svg?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Indonesia Channels,TVRI North Sulawesi
+#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/TVRI_SULUT_2023.svg?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Indonesia Channels",TVRI North Sulawesi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8
@@ -1561,18 +1554,12 @@ https://cdnbal1.indihometv.com/atm/DASH/fashiontv/fashiontv-avc1_2500000=7-32777
 # <================================================================================================ Music ===================================================================================================>
 
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
-#EXTINF:-1 tvg-id="Music TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Music_TV_%282020%29.png" group-title="Music",Musik TV
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
 
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
 #EXTINF:-1 tvg-id="auto.musica" group-title="Music" tvg-logo="https://i.postimg.cc/SQTLjRnj/ezgif-4e840dec9df68523.png",MUSICA
-https://ratu77.adptv.workers.dev/index.mpd?id=7619&type=dash
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=7619
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -1639,7 +1626,7 @@ https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8
 #EXTVLCOPT:network-caching=1000
 https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Music", DanceTV EDM Mainstage
+#EXTINF:0 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/h3uIBQSMgHa2yEuQEjz5-yKDQsRNAaB9nmDlyxuBEHUSI3gZ95kFLsXXMHyKIUvImJFPadrguw=s900-c-k-c0x00ffffff-no-rj" group-title="Music", DanceTV EDM Mainstage
 #EXTVLCOPT:network-caching=1000
 https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8
 
@@ -1666,6 +1653,14 @@ http://40.160.24.55/VH1_WEST/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdX3UBsSUsOwFB9spxDccuojoZST0kmNj3tYqASws-rQ&s=10" group-title="Music", Atomic Academy TV
 #EXTVLCOPT:network-caching=1000
 https://atomic.streamnet.ro/academia.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
+#EXTINF:-1 tvg-id="Music TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Music_TV_%282020%29.png" group-title="Music",Musik TV INDO
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
+
 
 
 
