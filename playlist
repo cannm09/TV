@@ -197,8 +197,6 @@ https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 
 
 
-#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKSH0HotPdF19Nhiz3OoN15-bWGwcL3yNeiAl5yC0iZ66agqia81fHB9Xv&s=10" group-title="Indonesia Channels",TVRI Nasional
-https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -231,30 +229,26 @@ https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/
 #EXTINF:-1 tvg-id="Trans7" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/sTHuz46XhalNvNWDUl-Jvv8k64A=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg" group-title="Indonesia Channels",Trans7 HD 
 https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/Trans7.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/iESh25mkdwIlSZLX4WUt256JH3U=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg" group-title="Indonesia Channels",SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://bintangstreaming.my.id/forsat23/pidio.php/.mpd?id=204
-https://tvratu.my.id/vid/index.mpd?id=204&type=dash
-https://beetv.my.id/stream/vd.m3u8?ch=sctv
-
-#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/iESh25mkdwIlSZLX4WUt256JH3U=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg" group-title="Indonesia Channels",SCTV (Vidio)2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-name="Indosiar" tvg-logo="https://i.pinimg.com/1200x/f9/0f/04/f90f04ce1408cfed28e06eb3508bebb3.jpg" group-title="Indonesia Channels",Indosiar (Vidio)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=204
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/f9/0f/04/f90f04ce1408cfed28e06eb3508bebb3.jpg" group-title="Indonesia Channels",INDOSIAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://bintangstreaming.my.id/forsat23/pidio.php/.mpd?id=205
-https://tvratu.my.id/vid/index.mpd?id=205&type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
+#https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
 https://beetv.my.id/stream/vd.m3u8?ch=indosiar
-https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoqPEJBXZhqW830nG2OHT6OpM_SxxHBha796lqQOLSRw&s=10" group-title="Indonesia Channels" ,SCTV (Vidio)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
+http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
+https://beetv.my.id/stream/vd.m3u8?ch=sctv
 
 #EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKjm2oTpKu3iKufzauVXXdp_09mbmGTqdD0UZz2QCLrQ&s" group-title="Indonesia Channels",TVRI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_wamuv1eBBH3whKO__0dKZ3ENVbBEhYgVtsINgx9AJw&s=10" group-title="Indonesia Channels",TVRI North Sulawesi
+#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoaSLCtUXfZAQcIMP3BtEed6LJEPd92gAbFC1-Bi_22ABiKkt89Wzpeq4&s=10" group-title="Indonesia Channels",TVRI North Sulawesi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8
@@ -263,7 +257,7 @@ https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:contentlookup=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#EXTINF:-1 tvg-id="TVRI World" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/F6W__Y0wn_7mFW0cOuz7mi7qjWU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6441/528cc9.png" group-title="Indonesia Channels",TVRI World
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoaSLCtUXfZAQcIMP3BtEed6LJEPd92gAbFC1-Bi_22ABiKkt89Wzpeq4&s=10" group-title="Indonesia Channels",TVRI World
 https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/TVRIWorld.m3u8
 
 #EXTINF:-1 tvg-id="MDTV.id" group-title="Indonesia Channels" tvg-logo="https://thumbor.prod.vidiocdn.com/vkORCwK34mMDw2PbRGLcVLkux10=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg",MDTV
@@ -365,7 +359,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h16/01.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-#EXTINF:-1 tvg-id="DAAITV.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzLNTNKs2fLTKpuT6qNL9YYy-60Hx38cNqvoyrXBMCTroZ2-fPlYnxDJE&s=10" group-title="Indonesia Channels",DAAI TV (Channel Feed) (Alt 2)
+#EXTINF:-1 tvg-id="DAAITV.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzLNTNKs2fLTKpuT6qNL9YYy-60Hx38cNqvoyrXBMCTroZ2-fPlYnxDJE&s=10" group-title="Indonesia Channels",DAAI TV (Alt 2)
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
@@ -399,11 +393,6 @@ https://cdnbal1.indihometv.com/atm/DASH/antara/antara-avc1_2500000=7-32777070300
 #KODIPROP:inputstream.adaptive.license_key=941717a97fe946069fd7ebc7afb48402:305d9297ec5797e7fd8aca03142b3b7e
 #EXTINF:-1 group-title="Indonesia Channels" tvg-id="IDX.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/iBcm_IDX.jpg",IDX (V+)
 https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd
-
-#EXTVLCOPT:http-referrer=https://maxstream.tv/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://thumbor.prod.vidiocdn.com/ITgomqe4r80G_YlUJO-ZLBdgztM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="Indonesia Channels",TVRI Nasional
-https://cdnbal1.indihometv.com/atm/DASH/TVRI/TVRI-avc1_2500000=7-3277707030000000.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -853,6 +842,36 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 #EXTINF:-1 tvg-id="SPOTV2.id" tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="Sports",SpoTV 2
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH5xcv-nk3LnFGK_-7fhhImAc6YcSEyyUv_beZBK4mtiaXFRz8rXM2jDs&s=10" group-title="Sports", SkySportsPL United Kindom
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:0E:16:C3&stream=30493&extension=ts&play_token=6YkaIAtxC2
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgVhsQSVo_tvqIZfpxXspXT0ujVKjIE7D10bfLGUbi&s=10" group-title="Sports", SkySports PL NZ
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:0E:16:C3&stream=971711&extension=ts&play_token=Rn9QP5F9yF
+
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/699-6999924_sky-sport-nz-logo.png" group-title="Sports, SkySports 1 NZ
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spo10/809392.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/699-6999924_sky-sport-nz-logo.png" group-title="Sports", SkySports 2 NZ
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spo10/809393.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/699-6999924_sky-sport-nz-logo.png" group-title="Sports", SkySports 3 NZ
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424316&extension=ts&play_token=SIT57qojPv
+
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/699-6999924_sky-sport-nz-logo.png" group-title="Sports", SkySports 4 NZ
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424315&extension=ts&play_token=t6lyRcjmaz
+
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/699-6999924_sky-sport-nz-logo.png" group-title="Sports", SkySports 5 NZ
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424314&extension=ts&play_token=IlUv2zn5ow
+
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/699-6999924_sky-sport-nz-logo.png" group-title="Sports", SkySports 6 NZ
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424313&extension=ts&play_token=DWVCOAe7kM
+
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/699-6999924_sky-sport-nz-logo.png" group-title="Sports", SkySports 7 NZ
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424312&extension=ts&play_token=Sew6JHxWTD
+
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/699-6999924_sky-sport-nz-logo.png" group-title="Sports", SkySports Selet NZ
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424309&extension=ts&play_token=xOWDX0pNeK
+
 #EXTINF:-1 tvg-url="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/1280px-Sky_Sports_F1_logo_2020.svg.png" group-title="Sports", Sky Sports F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
@@ -1031,6 +1050,21 @@ https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 #EXTINF:-1 tvg-id="auto.hbo.boxing" group-title="Sports" tvg-logo="https://www.thefightcity.com/wp-content/uploads/2019/10/HBO-logo-image-1.jpg",HBO Boxing
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/out/v1/813bba04214e4f4dab57f0129365635a/cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxkBtU7RHJ2c8eSVMD3Pv95cG4_Xf6KT5VrudeCQw61Q&s" group-title="Sports", Mono Max 1
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:06:23:D3&stream=1660493&extension=ts&play_token=c0C9I4H9oR
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxkBtU7RHJ2c8eSVMD3Pv95cG4_Xf6KT5VrudeCQw61Q&s" group-title="Sports", Mono Max 2
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:06:23:D3&stream=1660492&extension=ts&play_token=BGcB3qW59F
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxkBtU7RHJ2c8eSVMD3Pv95cG4_Xf6KT5VrudeCQw61Q&s" group-title="TSports", Mono Max 3
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:06:23:D3&stream=1660491&extension=ts&play_token=K1Ch7KdgwF
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxkBtU7RHJ2c8eSVMD3Pv95cG4_Xf6KT5VrudeCQw61Q&s" group-title="Sports", Mono Max 4
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:06:23:D3&stream=1660490&extension=ts&play_token=VPIaNHnsyk
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxkBtU7RHJ2c8eSVMD3Pv95cG4_Xf6KT5VrudeCQw61Q&s" group-title="Sports", Play Sports 66
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:06:23:D3&stream=1660489&extension=ts&play_token=zOz7meeWi6
+
 #EXTINF:-1 tvg-url="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWiLGZHrYShDZ6hNZjX7neXsdnuE2F1Nd-F6AEWNdwgw&s=10" group-title="Sports", Red Bull TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
@@ -1075,14 +1109,12 @@ https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
 
-#EXTINF:0, like Gecko) Chrome/130.0.0.0 Safari/537.36" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Racer_Network.jpg" group-title="Sports", Racer Select (1080p)
-#EXTVLCOPT:network-caching=1000
-https://amg00378-amg00378c4-freelivesports-emea-5637.playouts.now.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-url="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7k-L2N4aV-E-OtLFRHPrvZ-CP2-Yu6Z03QU-CpvJYhxsGDD30mhzq7EYq&s=10" group-title="Sports", MTRSPT1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://amg02873-kravemedia-mtrspt1-distrotv-mnsrl.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KCMNLD6.us" tvg-name="MTRSPT1" group-title="Sports", MTRSPT1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
 
 #EXTINF:0 tvg-url="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkWlzLo93zVOtdO_dh8kM7RBRTK6Lsd761eXzGiD5cHuxFBHAyawOXPQ&s=10" group-title="Sports", Rally TV
 #EXTVLCOPT:network-caching=1000
@@ -1150,6 +1182,24 @@ http://znty.dyndns.org:5010/hls/stv1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://znty.dyndns.org:5010/hls/stv5.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/ziggo-logo-png-transparent.png" group-title="NETHERLANDS SPORTS", Ziggo sports 1 
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1698815&extension=ts&play_token=T4eG9Rgkmgsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/43END2X4F4K2GCELEST5Y3NQ/2560/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.logos-download.com/114601/33884-s2560-005799f773a094539129488fe2717b59.png/Ziggo_Sport_2_Logo_2026_stacked-s2560.png?dl" group-title="NETHERLANDS SPORTS", Ziggo sports 2 
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1698814&extension=ts&play_token=HagoSSxKKWcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/43END2X4F4K2GCELEST5Y3NQ/2561/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Ziggo_Sport_3_2026_S.svg/revision/latest/scale-to-width-down/250?cb=20260115191303" group-title="NETHERLANDS SPORTS", Ziggo sports 3 
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1283309&extension=ts&play_token=7qYue0PYb0ngh.siauliairsavlt.pw/iptv/43END2X4F4K2GCELEST5Y3NQ/2559/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Ziggo_Sport_4_2026_S.svg/revision/latest/scale-to-width-down/250?cb=20260115191517" group-title="NETHERLANDS SPORTS", Ziggo sports 4 
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1283307&extension=ts&play_token=UgJkpFzkcP.
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Ziggo_Sport_5_2026_S.svg/revision/latest/scale-to-width-down/250?cb=20260115191738" group-title="NETHERLANDS SPORTS", Ziggo sports 5 
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1282762&extension=ts&play_token=sjMKlUONYW.
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Ziggo_Sport_6_2026_S.svg/revision/latest/scale-to-width-down/250?cb=20260115191759" group-title="NETHERLANDS SPORTS", Ziggo sports 6 
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1698841&extension=ts&play_token=CoVNrnFHjt.
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
