@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml"
+                 https://raw.githubusercontent.com/cannm09/TV/main/epg.xml
+
 billed-msg="ChandTV"
 
 ============================================================================ Indonesia Channels ===================================================================================
@@ -160,12 +162,10 @@ https://d43tg978oium5.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/ind
 #EXTINF:-1 tvg-id="Tribunnews" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCGhkMzlzp-usG5fYfksN0t4OcM6XyjLXavs7QXm_9ww&s=10" group-title="Indonesia Channels", Tribun News
 https://d1zhs9dfs6uqpg.cloudfront.net/hls/X16J4FID/X16J4FID_720p30.m3u8
 
-#EXTINF:-1 tvg-name="Sin Po TV" tvg-id="SinPOTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/Gj8aW6S6ykzNKy7as_gAybv8pxU=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19046/sin-po-tv-c5cad0.jpg" group-title="Indonesia Channels", SIN PO TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_key=27fe63a923084c12b0b05d33d204bdca:f9624ac728524e9fdf8e3a97018fe26d
-https://atemecdnbalancer-voe.sysln.id/live/eds/SINPOTVHD/mediampd/SINPOTVHD.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7nOfuITObFpkFO8Bz2GZC7eRyAQBbOH-a0ZsThtXIfg&s=10" group-title="Indonesia Channels",SIN PO TV
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=19046
 
 #EXTINF:-1 tvg-id="Moji" tvg-logo="https://thumbor.prod.vidiocdn.com/bwUEILb_i5ngA1tmC0WaTOP9gCc=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg" group-title="Indonesia Channels", MOJI TV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -281,7 +281,7 @@ https://cdnbal1.indihometv.com/atm/DASH/beritasatu/beritasatu-avc1_2500000=7-327
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fbf0d50c48a46bfbf287715296f17e5:b1e63bdfd4e89fc42ea41635ab2bc3a9
-#EXTINF:-1 tvg-id="JAKARTA GLOBE NEWS CHANNEL" group-title="Indonesia Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/JakartaGlobe2019.png", Jakarta GlobeNews
+#EXTINF:-1 tvg-id="tvg-id="JakartaGlobeNewsChannel.id@SD" group-title="Indonesia Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/JakartaGlobe2019.png", Jakarta GlobeNews
 https://atemecdnbalancer-voe.sysln.id/live/eds/JakartaGlobeHD/mediampd/JakartaGlobeHD.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -292,7 +292,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:contentlookup=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="BN Channel" group-title="Indonesia Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/BN_Channel.png", BN Channel
+#EXTINF:-1 tvg-id="BNChannel.id" group-title="Indonesia Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/BN_Channel.png", BN Channel
 https://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -307,11 +307,11 @@ https://hgmtv.com:19360/garudatvlivestreaming/480p.m3u8
 #EXTVLCOPT:network-caching=1000
 https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8
 
-#EXTINF:0 tvg-id="Bisnet Adventure 4K" tvg-logo="https://i.pinimg.com/1200x/20/44/5f/20445f3a13e93a739e5ad570dea8a405.jpg" group-title="Indonesia Channels", Biznet Adventure
+#EXTINF:0 tvg-id="BiznetAdventure.id" tvg-logo="https://i.pinimg.com/1200x/20/44/5f/20445f3a13e93a739e5ad570dea8a405.jpg" group-title="Indonesia Channels", Biznet Adventure
 #EXTVLCOPT:network-caching=1000
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 
-#EXTINF:0 tvg-id="Biznet Lifestyle" tvg-logo="https://i.pinimg.com/1200x/ec/ec/7d/ecec7da0add0e5f1bd79aecb82e9e8df.jpg" group-title="Indonesia Channels", Biznet Lifestyle
+#EXTINF:0 tvg-id="BiznetLifestyle.id" tvg-logo="https://i.pinimg.com/1200x/ec/ec/7d/ecec7da0add0e5f1bd79aecb82e9e8df.jpg" group-title="Indonesia Channels", Biznet Lifestyle
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8
@@ -321,7 +321,7 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u
 #EXTVLCOPT:network-caching=1000
 https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
 
-#EXTINF:0 tvg-id="kawanuatv.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV2TFvrusOOFS6MhP08iiQJNQIzl1T6wWpnlXIp4NZ9a_-UTSA3cH-jn0&s=10" group-title="Indonesia Channels", Kawanua TV
+#EXTINF:0 tvg-id="JTV.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV2TFvrusOOFS6MhP08iiQJNQIzl1T6wWpnlXIp4NZ9a_-UTSA3cH-jn0&s=10" group-title="Indonesia Channels", Kawanua TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
@@ -338,7 +338,7 @@ https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="CitraEntertainment" tvg-logo="https://thumbor.prod.vidiocdn.com/31hNNC8DYlvWojd9s5kk1eLcgnI=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6402/citra-entertainment-271b80.jpg" group-title="Indonesia Channels", Citra Entertainment 
+#EXTINF:-1 tvg-id="CitraEntertainment.id" tvg-logo="https://thumbor.prod.vidiocdn.com/31hNNC8DYlvWojd9s5kk1eLcgnI=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6402/citra-entertainment-271b80.jpg" group-title="Indonesia Channels", Citra Entertainment 
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mediampd/CitraEntertainmentHD.mpd
 
 
