@@ -81,6 +81,12 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1
 ##KODIPROP:inputstream.adaptive.license_key=cb308ff4c4ec835baa2956212507de52:aa45e839f15058df50342ace8d040a48
 ##https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/mitr07scim/out/v1/4fb1073240a549479fd2f343e6cad4ba/cenc.mpd
 
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://i.ibb.co.com/NFGNs5T/tudn.png" group-title="Liga Champions (UCL)", TUDN 🇲🇽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd
+
 KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd
@@ -183,12 +189,6 @@ https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
-
-#EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://i.ibb.co.com/NFGNs5T/tudn.png" group-title="Liga Champions (UCL)", TUDN 🇲🇽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nLNtj7C/premiersports1.png" group-title="Liga Champions (UCL)", Premier Sports 1 🇮🇪
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -442,7 +442,6 @@ https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
 #EXTINF:-1 tvg-id="Trans7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3j-BrA_dCJh7tuz64mn8u3w_f9clg0rUxn-zOJhPqQ&s=10 group-title="Indonesia Channels", Trans 7 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://green-night-d2b4.iontv.workers.dev/trans7.m3u8
-
 
 ==================================================================================================================================================================
 
@@ -1117,14 +1116,7 @@ https://cdnbal1.indihometv.com/atm/DASH/JAK_TV/master.mpd
 ================================================================== Premium Movies ============================================================
 
 
-
-#EXTINF:-1 tvg-id="HBOAsia.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://iili.io/Ju79f8g.png" group-title="Premium Movies", HBO
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/SEJPLW15/manifest.mpd
-
-#EXTINF:-1 tvg-id="hbohd" group-title="Premium Movies" tvg-logo="https://iili.io/Ju79f8g.png", HBO Alt
+#EXTINF:-1 tvg-id="hbohd" group-title="Premium Movies" tvg-logo="https://iili.io/Ju79f8g.png", HBO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1132,30 +1124,15 @@ https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/SEJ
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="HBOHitsAsia.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://iili.io/Ju79nwv.png" group-title="Premium Movies", HBO Hits
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/SEJPIEhpdHM/manifest.mpd
+http://tv.cloudcdn.me/live.ts?channelId=132160&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 tvg-id="HBOFamilyAsia.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://iili.io/Ju79otR.png" group-title="Premium Movies", HBO Family
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/SEJPLUZhbWlseS1teQ/manifest.mpd
+http://tv.cloudcdn.me/live.ts?channelId=93779&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 tvg-id="HBO Signature" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://iili.io/Ju79IMN.png" group-title="Premium Movies", HBO Signature
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/SEJPLVNpZ25hdHVyZS1teQ/manifest.mpd
+http://tv.cloudcdn.me/live.ts?channelId=93744&uid=10223&deviceMac=00:1A:79:07:07:43
 
-#EXTINF:-1 tvg-id="CinemaxAsia.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/20260915_133411.png?raw=true" group-title="Premium Movies", Cinemax
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/Q2luZW1heA/manifest.mpd
-
-#EXTINF:-1 tvg-id="cinemaxhd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2YKzJfRmDCd_NQcOOfRtiwYJphp4AWIvev9JBFfeOHQ&s=10" group-title="Premium Movies", Cinemax Alt
+#EXTINF:-1 tvg-id="cinemaxhd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2YKzJfRmDCd_NQcOOfRtiwYJphp4AWIvev9JBFfeOHQ&s=10" group-title="Premium Movies", Cinemax
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1641,20 +1618,20 @@ http://45.12.32.190:8080/UK-SkySport2NZ/video.m3u8
 #EXTINF:-1 tvg-id="SkySports3" tvg-name="Sky Sports NZ 3 FHD" tvg-logo="https://8upload.com/image/67dcf3f707147/sky-sport-3-nz.png?raw=1" group-title="Sports",Sky Sports NZ 3
 http://45.12.32.190:8080/UK-SkySport3NZ/video.m3u8
 
-#EXTINF:-1 tvg-id="Sky Sport 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV7ho752gFPdOPsrxOf8GhYqZ1JqxTLpY-soP7gZAQ&s=10" group-title="Sports", SkySports NZ 4
-https://tmaxapp.site/8wirwjs76erftg/skysport4nz97xcdfg.m3u8
-
-#EXTINF:-1 tvg-id="Sky Sport 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpaz7uqKibPBPg4Rillu6Rr8A-RStSxThul-lsXMlegA&s=10" group-title="Sports", SkySports NZ 5
-https://tmaxapp.site/8wirwjs76erftg/skysport5nz8cas5df.m3u8
-
 #EXTINF:-1 tvg-id="Sky Sport 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA6EOoekk121TaWNizeuqtnlKpgj8TkiQUfpAavUnazw&s=10" group-title="Sports", SkySports NZ 6
 http://45.12.32.190:8080/UK-SkySport6NZ/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZyczgvHmi9JqFTcWqYWlHatrLnzi4iax2kRse3FUlRQ&s" group-title="Sports", SkySports NZ 7
 http://45.12.32.190:8080/UK-SkySport7NZ/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTc-35ms_OQc_D3Vz31qq9D3OHee5cNEzxD8GJiZP8kQ&s=10" group-title="Sports", SkySports NZ Select
-https://tmaxapp.site/8wirwjs76erftg/skysport8nz74xx7da.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-main-event.png" group-title="Sports", Sky Sports Main Event FHD
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/47868
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-premier-league.png" group-title="Sports", Sky Sports Premier League FHD
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/47871
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/sky-sports-football.png" group-title="Sports", Sky Sports Football FHD
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/47866
 
 #EXTINF:-1 tvg-id="tntsports1" tvg-name="TNT SPORTS 1" tvg-logo="https://i.ibb.co/x8j2VVnJ/images-1.png" group-title="Sports",TNT SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -2410,6 +2387,9 @@ http://weaseltv.live:80/play/live.php?mac=00:1A:79:0E:16:C3&stream=30493&extensi
 #EXTINF:-1 tvg-uid="a742efce3caa96c68dade19240c869c1" data-source="Sports7November" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS PREMIER LEAUGE.png" group-title="Sports | Football", SKY SPORTS PREMIER LEAGUE HEVC FHD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1312036.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gdwDYcl.png"  group-title="Sports | Football", SKY SPORT PREMIER LEAGUE HD (RUTUBE)
+https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=fdwVAdW4mvcVhTjZJv_l9A&e=2074182388&scheme=https
+
 #EXTINF:-1 tvg-id="Sky Sport Premier League" tvg-logo="https://i.imgur.com/pV85BZT.jpeg" group-title="Sports | Football", SkySports EPL NZ
 http://weaseltv.live:80/play/live.php?mac=00:1A:79:0E:16:C3&stream=971711&extension=ts&play_token=Rn9QP5F9yF
 
@@ -2459,7 +2439,6 @@ http://198.204.228.26/live/cctv5hd.m3u8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
 #EXTINF:-1 tvg-chno="" cuid="1886" tvg-id="Матч! Футбол 2.ru" tvg-logo="https://estaticos-cdn.prensaiberica.es/clip/4ab7955b-0698-4949-b43a-2387bcb06f18_alta-libre-aspect-ratio_default_0.jpg" group-title="Sports | Football", LALIGA 2
-#EXTGRP:All Sports 🌎;La Liga⚽️;Serie A⚽️;Liga Betclic⚽️
 #EXTM3U x-tvg-url="https://warningfm.github.io/x1/epg/guide.xml.gz"
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2654,6 +2633,7 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
 
+
 ========================================================================== Sports | Racing ===============================================================================
 
 
@@ -2694,6 +2674,12 @@ http://line.tivi-ott.net:80/play/live.php?mac=A0:BB:3E:07:67:9C&stream=1311996&e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://line.tivi-ott.net:80/play/live.php?mac=A0:BB:3E:07:67:9C&stream=1312030&extension=ts&play_token=ZQnYgRAbYD
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/99hU51a.png" group-title="Sports | Racing", SKY SPORT F1 HD (RUTUBE)
+https://bl.rutube.ru/livestream/1fd968ce15629416dbc4e45f2b4fcf11/index.m3u8?s=MrQin7S7T60B0aVtIWktUQ&e=2074182008&scheme=https
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CPxTAMJ.png" group-title="Sports | Racing", SKY SPORTS RACING HD (RUTUBE)
+https://bl.rutube.ru/livestream/362d68a2d5d5b48dbf23522573e64d57/index.m3u8?s=6bnWD3PZMSkhKk60sdV4sg&e=2075228089&scheme=https
+
 #EXTINF:-1 tvg-id="" data-source="Sports7November" group-title="Sports | Racing" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc08ndIJv3B13OBxQFb6ak4ECSmYgqKf14Hbv7cn44NerfJjaK8UGvFzk&s=10", Sky Sport MotoGP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/177700.m3u8
@@ -2704,10 +2690,11 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/177
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="MotoGP.us" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc08ndIJv3B13OBxQFb6ak4ECSmYgqKf14Hbv7cn44NerfJjaK8UGvFzk&s=10" group-title="Sports | Racing", MotoGP TV
+https://otte.cache.aiv-cdn.net/lhr-nitro/live/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/WWQj94v6/SPOTV.png" group-title="Sports | Racing", SPOTV V+
@@ -2962,6 +2949,15 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnbVR8UTPiqa08vwRAt7ozUvn8chXjOkYbtWp2SjxZgg&s=10" group-title="Sports | Others", Women's Sports Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://jmp2.uk/stvp-US4100001KP
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RDRTfkg.png" group-title="Sports | Others", SKY SPORTS CRICKET HD (RUTUBE)
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=ESeK2qWTROnqUU-EqdtYBw&e=2075227853&scheme=https
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aJYeDGG.png" group-title="Sports | Others", SKY SPORTS GOLF HD (RUTUBE)
+https://bl.rutube.ru/livestream/a7a17d6b994f02a80aebd69435266b58/index.m3u8?s=KZFhCRiUQckRYG9a41JAHw&e=2075227990&scheme=https
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H8eMXvf.png" group-title="Sports | Others", SKY SPORT TENNIS HD (RUTUBE)
+https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=wGBhgILq0m_ruFoAZOBOBw&e=2074182087&scheme=https
 
 
 ============================================================================= UFC & BOXING ===================================================================================
