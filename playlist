@@ -5943,209 +5943,135 @@ https://cdnbal1.indihometv.com/atm/DASH/zbioskop/master.mpd
 
 ================================================================== BOX OFFICE MOVIE =========================================================
 
-
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-spider-man-brand-new-day-2026-lk21-2.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Spider-Man: Brand New Day
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9zcGlkZXItbWFuLWJyYW5kLW5ldy1kYXktMjAyNg.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-last-house-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Last House
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9sYXN0LWhvdXNlLTIwMjY.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-evil-dead-burn-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Evil Dead Burn
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9ldmlsLWRlYWQtYnVybi0yMDI2.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-colony-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Colony
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9jb2xvbnktMjAyNg.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-lucky-strike-2026-2-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Lucky Strike
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9sdWNreS1zdHJpa2UtMjAyNg.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-isolate-thief-2026-2-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Isolate Thief
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9pc29sYXRlLXRoaWVmLTIwMjY.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-toy-story-5-2026-lk21-1.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Toy Story 5
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy90b3ktc3RvcnktNS0yMDI2.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-obsession-2025-lk21-1.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Obsession
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9vYnNlc3Npb24tMjAyNQ.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-deep-water-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Deep Water
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9kZWVwLXdhdGVyLTIwMjY.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-odyssey-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Odyssey
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9vZHlzc2V5LTIwMjY.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-supergirl-2026-lk21-1.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Supergirl
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9zdXBlcmdpcmwtMjAyNg.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-kung-fu-soccer-gong-fu-nv-zu-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Kung Fu Soccer: Gong fu nv zu
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9rdW5nLWZ1LXNvY2Nlci1nb25nLWZ1LW52LXp1LTIwMjY.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2019/07/film-spider-man-far-from-home-2019-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Spider-Man: Far from Home
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9zcGlkZXItbWFuLWZhci1mcm9tLWhvbWUtMjAxOQ.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-all-that-we-never-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", All That We Never Were
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9hbGwtdGhhdC13ZS1uZXZlci0yMDI2.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-malaikat-malam-2026-2-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Malaikat Malam
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9tYWxhaWthdC1tYWxhbS0yMDI2.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2016/01/film-troy-2004.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Troy
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy90cm95LTIwMDQ.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-legend-aang-last-airbender-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Avatar Aang: The Last Airbender
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9sZWdlbmQtYWFuZy1sYXN0LWFpcmJlbmRlci0yMDI2.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-jackass-best-last-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Jackass: Best and Last
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9qYWNrYXNzLWJlc3QtbGFzdC0yMDI2.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-devils-mouth-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Devil's Mouth
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9kZXZpbHMtbW91dGgtMjAyNg.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-eyes-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Eyes
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9leWVzLTIwMjY.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-mortal-kombat-ii-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Mortal Kombat II
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9tb3J0YWwta29tYmF0LWlpLTIwMjY.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-gentleman-thief-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Gentleman Thief
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9nZW50bGVtYW4tdGhpZWYtMjAyNg.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2025/07/film-the-fantastic-four-first-steps-2025-lk21-d21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Fantastic Four: First Steps
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy90aGUtZmFudGFzdGljLWZvdXItZmlyc3Qtc3RlcHMtMjAyNQ.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2025/05/film-thunderbolts-2025-lk21-d21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Thunderbolts*
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy90aHVuZGVyYm9sdHMtMjAyNQ.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-disclosure-day-2026-lk21-2.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Disclosure Day
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9kaXNjbG9zdXJlLWRheS0yMDI2.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2025/12/film-avatar-fire-ash-2025-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Avatar: Fire and Ash
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9hdmF0YXItZmlyZS1hc2gtMjAyNQ.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-masters-universe-2026-1-lk21-1.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Masters of the Universe
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9tYXN0ZXJzLXVuaXZlcnNlLTIwMjYtMQ.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-lee-cronins-mummy-2026-lk21-1.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Lee Cronin's The Mummy
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9sZWUtY3Jvbmlucy1tdW1teS0yMDI2.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-run-2025-1-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Run
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9ydW4tMjAyNS0x.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-project-hail-mary-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Project Hail Mary
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9wcm9qZWN0LWhhaWwtbWFyeS0yMDI2.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-furious-2025-lk21-2.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Furious
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9mdXJpb3VzLTIwMjU.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-kung-fu-hustle-2004-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Kung Fu Hustle
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9rdW5nLWZ1LWh1c3RsZS0yMDA0.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle-2025-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Demon Slayer: Kimetsu No Yaiba Infinity Castle: Akaza Returns
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9kZW1vbi1zbGF5ZXIta2ltZXRzdS1uby15YWliYS10aGUtbW92aWUtaW5maW5pdHktY2FzdGxlLTIwMjU.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-backrooms-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Backrooms
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9iYWNrcm9vbXMtMjAyNg.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-debt-collector-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Debt Collector
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9kZWJ0LWNvbGxlY3Rvci0yMDI2.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-gayong-2-2026-lk21-1.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Gayong 2
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9nYXlvbmctMi0yMDI2.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-agent-shaan-elite-pursuit-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Agent Shaan Elite Pursuit
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9hZ2VudC1zaGFhbi1lbGl0ZS1wdXJzdWl0LTIwMjY.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-star-wars-mandalorian-grogu-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Star Wars: The Mandalorian and Grogu
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9zdGFyLXdhcnMtbWFuZGFsb3JpYW4tZ3JvZ3UtMjAyNg.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-shelter-2026-lk21-1.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Shelter
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9zaGVsdGVyLTIwMjY.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-son-sara-2025-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Son of Sara
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9zb24tc2FyYS0yMDI1.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/02/film-wrecking-crew-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Wrecking Crew
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy93cmVja2luZy1jcmV3LTIwMjY.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2015/12/film-the-incredible-hulk-2008.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Incredible Hulk
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy90aGUtaW5jcmVkaWJsZS1odWxrLTIwMDg.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2021/05/film-wrath-of-man-2021-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Wrath of Man
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy93cmF0aC1vZi1tYW4tMjAyMQ.m3u8
 #EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-penance-2025-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Penance
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9wZW5hbmNlLTIwMjU.m3u8
+https://stream.playcdn.de/playlist/39206641f0d8c711eb0668ff6b040769/2/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2016/04/film-thor-2011.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Thor
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy90aG9yLTIwMTE.m3u8
+https://stream.playcdn.de/playlist/464cbd7cdac95fc19b57ded291c41426/4/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-man-war-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Man of War
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9tYW4td2FyLTIwMjY.m3u8
+https://stream.playcdn.de/playlist/7c79e006f63c089e7d60a3bfebc52244/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-minions-monsters-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Minions & Monsters
+https://stream.playcdn.de/playlist/743dbbdc501809c146833430c66de467/3/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2016/02/film-captain-america-the-winter-soldier-2014.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Captain America: The Winter Soldier
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9jYXB0YWluLWFtZXJpY2Etd2ludGVyLXNvbGRpZXItMjAxNA.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2019/02/film-spider-man-into-the-spider-verse-2018-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Spider-Man: Into the Spider-Verse
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9zcGlkZXItbWFuLWludG8tdGhlLXNwaWRlci12ZXJzZS0yMDE4.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2022/07/film-thor-love-and-thunder-2022-lk21-d21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Thor: Love and Thunder
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy90aG9yLWxvdmUtYW5kLXRodW5kZXItMjAyMg.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/06/film-blades-guardians-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Blades of the Guardians
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9ibGFkZXMtZ3VhcmRpYW5zLTIwMjY.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-death-robin-hood-2026-lk21-1.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Death of Robin Hood
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9kZWF0aC1yb2Jpbi1ob29kLTIwMjY.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-furious-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Furious
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9mdXJpb3VzLTIwMjY.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2022/08/film-thirteen-lives-2022-lk21-d21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Thirteen Lives
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy90aGlydGVlbi1saXZlcy0yMDIy.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/03/film-once-we-us-2025-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Once We Were Us
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9vbmNlLXdlLXVzLTIwMjU.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2024/04/film-exhuma-2024-lk21-d21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Exhuma
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9leGh1bWEtMjAyNA.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2023/05/film-fast-x-2023-lk21-d21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Fast X
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9mYXN0LXgtMjAyMw.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2021/11/film-shang-chi-and-the-legend-of-the-ten-rings-2021-d21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Shang-Chi and the Legend of the Ten Rings
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9zaGFuZy1jaGktYW5kLXRoZS1sZWdlbmQtb2YtdGhlLXRlbi1yaW5ncy0yMDIx.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-pinocchio-unstrung-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Pinocchio: Unstrung
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9waW5vY2NoaW8tdW5zdHJ1bmctMjAyNg.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2016/01/film-guardians-of-the-galaxy-2014.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Guardians of the Galaxy
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9ndWFyZGlhbnMtZ2FsYXh5LTIwMTQ.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-seven-snipers-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Seven Snipers
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9zZXZlbi1zbmlwZXJzLTIwMjY.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/06/film-husbands-action-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Husbands in Action
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9odXNiYW5kcy1hY3Rpb24tMjAyNg.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-prisoners-paradise-2025-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Prisoners of Paradise
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9wcmlzb25lcnMtcGFyYWRpc2UtMjAyNQ.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-murder-game-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Murder Game
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9tdXJkZXItZ2FtZS0yMDI2.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-ip-man-kung-fu-legend-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Ip Man: Kung Fu Legend
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9pcC1tYW4ta3VuZy1mdS1sZWdlbmQtMjAyNg.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2023/05/film-guardians-of-the-galaxy-vol-3-2023-lk21-d21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Guardians of the Galaxy Vol. 3
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9ndWFyZGlhbnMtb2YtdGhlLWdhbGF4eS12b2wtMy0yMDIz.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2023/04/film-evil-dead-rise-2023-lk21-d21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Evil Dead Rise
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9ldmlsLWRlYWQtcmlzZS0yMDIz.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2016/01/film-harry-potter-and-the-sorcerers-stone-2001.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Harry Potter and the Sorcerer's Stone
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9oYXJyeS1wb3R0ZXItc29yY2VyZXJzLXN0b25lLTIwMDE.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-ribbon-hero-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Ribbon Hero
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9yaWJib24taGVyby0yMDI2.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-back-game-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Back In the Game
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9iYWNrLWdhbWUtMjAyNg.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-scary-movie-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Scary Movie
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9zY2FyeS1tb3ZpZS0yMDI2.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2017/05/film-guardians-of-the-galaxy-vol-2-2017.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Guardians of the Galaxy Vol. 2
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9ndWFyZGlhbnMtZ2FsYXh5LXZvbC0yLTIwMTc.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2017/01/film-hacksaw-ridge-2016.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Hacksaw Ridge
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9oYWNrc2F3LXJpZGdlLTIwMTY.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-convenience-store-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Convenience Store
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9jb252ZW5pZW5jZS1zdG9yZS0yMDI2.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2025/02/film-captain-america-brave-new-world-2025-lk21-d21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Captain America: Brave New World
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9jYXB0YWluLWFtZXJpY2EtYnJhdmUtbmV3LXdvcmxkLTIwMjU.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/01/film-greenland-2-migration-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Greenland 2: Migration
-https://aspaltvpasti.top/Vodlk21/play/aHR0cHM6Ly90djEyLmxrMjFvZmZpY2lhbC5jYy9ncmVlbmxhbmQtMi1taWdyYXRpb24tMjAyNg.m3u8
-
-=================================================================================================================
-
+https://stream.playcdn.de/playlist/53b6ee95422e9aed12a39c765810b73e/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2016/05/film-captain-america-civil-war-2016.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Captain America: Civil War
+https://stream.playcdn.de/playlist/bcf9c2887536bb867817497de8bd96f1/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2019/04/film-avengers-endgame-2019-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Avengers: Endgame
+https://stream.playcdn.de/playlist/153ea0ec867efae5398835a787407b6d/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2018/05/film-avengers-infinity-war-2018.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Avengers: Infinity War
+https://stream.playcdn.de/playlist/3c263196bf30ea494572b60e30045587/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2016/02/film-the-avengers-2012.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Avengers
+https://stream.playcdn.de/playlist/b14821bcf0dbeb2a43bf05c0ac085fe4/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2015/12/film-avengers-age-of-ultron-2015.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Avengers: Age of Ultron
+https://stream.playcdn.de/playlist/939521bfedc9b8c88957e5810ed25da6/4/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-odyssey-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Odyssey
 https://stream.playcdn.de/playlist/6d120519f4a4dd1fdf60b65b1886ac62/2/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-supergirl-2026-lk21-1.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Supergirl
-https://stream.playcdn.de/playlist/cdd5c4e9db57eef9843c3946b5c34aeb/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-obsession-2025-lk21-1.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Obsession
+https://stream.playcdn.de/playlist/1178b40cfbe0ec806e4e1116cfc8ddf3/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-lucky-strike-2026-2-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Lucky Strike
+https://stream.playcdn.de/playlist/09f0e27f57cd4f6201a7c0d6b77a0e79/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-spider-man-brand-new-day-2026-lk21-2.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Spider-Man: Brand New Day
+https://stream.playcdn.de/playlist/ea1f84dda9d31504bca5afa472a164e7/2/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2016/02/film-the-amazing-spider-man-2012.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Amazing Spider-Man
 https://stream.playcdn.de/playlist/dd5958147c92d25fbeae52026f11061f/4/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-kung-fu-soccer-gong-fu-nv-zu-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Kung Fu Soccer: Gong fu nv zu
-https://stream.playcdn.de/playlist/22641f858468626d2e4bdd173218e1b0/2/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2017/07/film-spider-man-homecoming-2017.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Spider-Man: Homecoming
 https://stream.playcdn.de/playlist/61d1356baaa19c7ae8f39bdba894b521/4/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2016/02/film-the-amazing-spider-man-2-2014.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Amazing Spider-Man 2
 https://stream.playcdn.de/playlist/4592a14b2528e00dd534b8ac733f04df/4/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2016/05/film-captain-america-civil-war-2016.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Captain America: Civil War
-https://stream.playcdn.de/playlist/bcf9c2887536bb867817497de8bd96f1/4/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2019/07/film-spider-man-far-from-home-2019-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Spider-Man: Far from Home
 https://stream.playcdn.de/playlist/a0ed2e8bc29f83e77185627212e7120f/4/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2016/02/film-the-avengers-2012.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Avengers
-https://stream.playcdn.de/playlist/b14821bcf0dbeb2a43bf05c0ac085fe4/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2021/12/film-spider-man-no-way-home-2021-lk21-d21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Spider-Man: No Way Home
+https://stream.playcdn.de/playlist/dafb4188069455ca5f34bb36cfbb8570/11/480.m3u8
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2023/06/film-spider-man-across-the-spider-verse-2023-lk21-d21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Spider-Man: Across the Spider-Verse
+https://stream.playcdn.de/playlist/4a2180a34789a413c7464cddb433390e/4/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-all-that-we-never-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", All That We Never Were
 https://stream.playcdn.de/playlist/1d8460e74976f9fb54bb404018b96f69/2/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-malaikat-malam-2026-2-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Malaikat Malam
 https://stream.playcdn.de/playlist/c6d875655602458abbe4e353e2f5b4f9/2/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-spider-man-brand-new-day-2026-lk21-2.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Spider-Man: Brand New Day
-https://stream.playcdn.de/playlist/ea1f84dda9d31504bca5afa472a164e7/2/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-last-house-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Last House
 https://stream.playcdn.de/playlist/68f667c7c0983affb36dd442c6731c6f/2/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-evil-dead-burn-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Evil Dead Burn
 https://stream.playcdn.de/playlist/d4b97ce3101a7e607a267009c48ed80d/2/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-colony-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Colony
 https://stream.playcdn.de/playlist/376543dc6374ddd87ece2c873c4e17ab/2/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2021/12/film-spider-man-no-way-home-2021-lk21-d21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Spider-Man: No Way Home
-https://stream.playcdn.de/playlist/dafb4188069455ca5f34bb36cfbb8570/11/480.m3u8
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2019/04/film-avengers-endgame-2019-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Avengers: Endgame
-https://stream.playcdn.de/playlist/153ea0ec867efae5398835a787407b6d/4/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-lucky-strike-2026-2-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Lucky Strike
-https://stream.playcdn.de/playlist/09f0e27f57cd4f6201a7c0d6b77a0e79/2/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2018/05/film-avengers-infinity-war-2018.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Avengers: Infinity War
-https://stream.playcdn.de/playlist/3c263196bf30ea494572b60e30045587/4/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-isolate-thief-2026-2-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Isolate Thief
 https://stream.playcdn.de/playlist/14541b66b4c057402ceb374e2d09e12f/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-supergirl-2026-lk21-1.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Supergirl
+https://stream.playcdn.de/playlist/cdd5c4e9db57eef9843c3946b5c34aeb/2/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-toy-story-5-2026-lk21-1.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Toy Story 5
 https://stream.playcdn.de/playlist/c4cc52ec309068faa3b4eaef99d3628c/2/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-obsession-2025-lk21-1.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Obsession
-https://stream.playcdn.de/playlist/1178b40cfbe0ec806e4e1116cfc8ddf3/2/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-deep-water-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Deep Water
 https://stream.playcdn.de/playlist/ace88b4f6afc788c96ed56c7f3c080d1/2/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2021/11/film-14-peaks-nothing-is-impossible-2021-lk21-d21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", 14 Peaks: Nothing Is Impossible
 https://pixeldrain.com/api/file/fGc4XLNS?download
-
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-kung-fu-soccer-gong-fu-nv-zu-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Kung Fu Soccer: Gong fu nv zu
+https://stream.playcdn.de/playlist/22641f858468626d2e4bdd173218e1b0/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-kung-fu-hustle-2004-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Kung Fu Hustle
+https://stream.playcdn.de/playlist/115ed6403f36e0e7c8d2141560515046/4/480.m3u8?x=1
+https://stream.playcdn.de/playlist/115ed6403f36e0e7c8d2141560515046/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle-2025-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Demon Slayer: Kimetsu No Yaiba Infinity Castle: Akaza Returns
+https://stream.playcdn.de/playlist/8dab345a1b7fc29ee141e12d4a1c3885/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-legend-aang-last-airbender-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Avatar Aang: The Last Airbender
+https://stream.playcdn.de/playlist/0b438d80baa57f1c409f794a98167997/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-jackass-best-last-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Jackass: Best and Last
+https://stream.playcdn.de/playlist/7ea32cde50b55e0d28df4953fb2cf9cf/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-devils-mouth-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Devil's Mouth
+https://stream.playcdn.de/playlist/681a2ce7f59f23b412aa72f159c68e6d/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-eyes-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Eyes
+https://stream.playcdn.de/playlist/f09725e7485c9bb6f51ff0d2d16c0c90/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-lenin-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Lenin
+https://stream.playcdn.de/playlist/c8cc736de916a72ed375ff89e36c2274/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-gentleman-thief-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Gentleman Thief
+https://stream.playcdn.de/playlist/789be48b523ff7e3f5cdd03d4bc1e556/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2025/07/film-the-fantastic-four-first-steps-2025-lk21-d21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Fantastic Four: First Steps
+https://stream.playcdn.de/playlist/c04520ada6ec9849fd8ea7df1f436eb1/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2025/05/film-thunderbolts-2025-lk21-d21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Thunderbolts*
+https://stream.playcdn.de/playlist/e16a3452d86ceee7610550aab1fa0f85/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/05/film-punisher-one-last-kill-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Punisher: One Last Kill
+https://stream.playcdn.de/playlist/771d4fc7f4f4f74ffe170bffea109d53/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/06/film-blades-guardians-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Blades of the Guardians
+https://stream.playcdn.de/playlist/5cbf6795d352c0727fa650959d0eb429/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-death-robin-hood-2026-lk21-1.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Death of Robin Hood
+https://stream.playcdn.de/playlist/b3d49b2a3681d8a1edddd97758a95cdf/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2022/08/film-thirteen-lives-2022-lk21-d21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Thirteen Lives
+https://stream.playcdn.de/playlist/f0cf560eb9b5dc83f7f6f9076ca48934/3/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/03/film-once-we-us-2025-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Once We Were Us
+https://stream.playcdn.de/playlist/d85690f883368e7255051242b19bde4c/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2024/04/film-exhuma-2024-lk21-d21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Exhuma
+https://stream.playcdn.de/playlist/9c22520ca6320733621164cd05c46d0c/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2016/01/film-captain-america-the-first-avenger-2011.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Captain America: The First Avenger
+https://stream.playcdn.de/playlist/a00a77b725db40863099ab4ead323f15/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2015/12/film-interstellar-2014.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Interstellar
+https://stream.playcdn.de/playlist/df55b7cc6a4e14f9a1b4823f31568f72/3/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-debt-collector-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Debt Collector
+https://stream.playcdn.de/playlist/4b09f31be5a0924014b466e583a6e7f3/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-backrooms-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Backrooms
+https://stream.playcdn.de/playlist/fcdd16b0d7673dd1dc3ae22a156f11ee/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-gayong-2-2026-lk21-1.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Gayong 2
+https://stream.playcdn.de/playlist/ead40f0fcbd6d44b5dae6fa91051d6e0/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-agent-shaan-elite-pursuit-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Agent Shaan Elite Pursuit
+https://stream.playcdn.de/playlist/0d69bb97d76c259b7990a8b86948c4e1/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-star-wars-mandalorian-grogu-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Star Wars: The Mandalorian and Grogu
+https://stream.playcdn.de/playlist/97068cacc08f1a644050a3934b8d34f5/1/0.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-shelter-2026-lk21-1.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Shelter
+https://stream.playcdn.de/playlist/aade3f796963ed292fd94b014559e03d/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/02/film-wrecking-crew-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Wrecking Crew
+https://stream.playcdn.de/playlist/17abf94232adfa20b088fcbaf9ad05f9/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-son-sara-2025-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Son of Sara
+https://stream.playcdn.de/playlist/198f060e86c0cbc83f10ef3b053a33cd/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2021/05/film-wrath-of-man-2021-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Wrath of Man
+https://stream.playcdn.de/playlist/6fc40f67c3979f49df1e124ba46e7ec0/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-disclosure-day-2026-lk21-2.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Disclosure Day
+https://stream.playcdn.de/playlist/a9dd119abae8c4189dadf957b13ccec0/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-masters-universe-2026-1-lk21-1.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Masters of the Universe
+https://stream.playcdn.de/playlist/1c05ce0aed1b73a6f8295a270cfd6713/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-lee-cronins-mummy-2026-lk21-1.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Lee Cronin's The Mummy
+https://stream.playcdn.de/playlist/9dcb869e18f971fec28f2b4903a6c24f/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-run-2025-1-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Run
+https://stream.playcdn.de/playlist/e1402e6e2afbbb5987cf658e311947f1/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-project-hail-mary-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Project Hail Mary
+https://stream.playcdn.de/playlist/f9dc1e3abe0f4abacb40b7b235c56d99/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-furious-2025-lk21-2.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Furious
+https://stream.playcdn.de/playlist/e8c0fe26202f0c6592faafea25e2ed6c/2/480.m3u8?x=1
 
 
 ======================== VOD FILM SERIES =====================
@@ -6728,172 +6654,255 @@ https://47228.ohflix.workers.dev/0:/x32/NewVersion/25/Insurgent%202015.mp4
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/sbJwoKJ6pzWwdzRioUV0euIMv62.jpg" group-title="▶ VOD FILM SERIES", Allegiant (2016)
 https://47228.ohflix.workers.dev/0:/x32/NewVersion/25/Allegiant%202016.mp4
 
+=============== VOD 2026 ====================
+#EXTINF:-1 type="movie" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/09/film-resident-evil-2026-2-lk21.jpg.webp" group-title="▶ VOD ENGLISH 2026", Resident Evil (2026)
+https://www.googleapis.com/drive/v3/files/1YMHdSKIZF5ZsGyT0Y7FRpUK5xfO-lq9k?alt=media&key=AIzaSyDDPOgiDgRJXq2pqwY4CoKA56vnjxO3ZIc
+
+#EXTINF:-1 type="movie" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/09/film-mongoose-2026-2-lk21.jpg.webp" group-title="▶ VOD ENGLISH 2026", The Mongoose (2026)
+https://www.googleapis.com/drive/v3/files/1pRbxpzxCGRw5qUr_LTM9Eu3uJh6XbwCN?alt=media&key=AIzaSyDDPOgiDgRJXq2pqwY4CoKA56vnjxO3ZIc
+
+#EXTINF:-1 type="movie" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/08/film-facing-el-chapo-2026-lk21.jpg" group-title="▶ VOD ENGLISH 2026", Facing El Chapo (2026)
+https://www.googleapis.com/drive/v3/files/1Tq574ygQ6XzDeI3_7bmuiqTW60xIIsbz?alt=media&key=AIzaSyDDPOgiDgRJXq2pqwY4CoKA56vnjxO3ZIc
+
+#EXTINF:-1 type="movie" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/07/film-mortal-kombat-ii-2026-lk21.jpg.webp" group-title="▶ VOD ENGLISH 2026", Mortal Kombat II (2026)
+https://www.googleapis.com/drive/v3/files/1EPZYySOb8-ml3RwsDvwdUAZnJDJR9q7c?alt=media&key=AIzaSyDDPOgiDgRJXq2pqwY4CoKA56vnjxO3ZIc
+
+#EXTINF:-1 type="movie" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/08/film-facing-el-chapo-2026-lk21.jpg" group-title="▶ VOD ENGLISH 2026", Project Hail Mary (2026)
+https://www.googleapis.com/drive/v3/files/1bxxieMWbbGpAWSGrF55-f_8mQ6DDJKT_?alt=media&key=AIzaSyDDPOgiDgRJXq2pqwY4CoKA56vnjxO3ZIc
+
+=========== Film Horor ==============
+#EXTINF:-1 type="movie" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/08/film-last-house-2026-lk21.jpg.webp" group-title="▶ VOD ENGLISH 2026", The Last House (2026)
+https://www.googleapis.com/drive/v3/files/1i9fgb9GweqWrLsKBUmBtjg135ShsUqYr?alt=media&key=AIzaSyDDPOgiDgRJXq2pqwY4CoKA56vnjxO3ZIc
+
+#EXTINF:-1 type="movie" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/08/film-insidious-out-further-2026-lk21.jpg.webp" group-title="▶ VOD ENGLISH 2026", Insidious Out of the Further (2026)
+https://www.googleapis.com/drive/v3/files/124Md1RUKI-2JQuhi_hsEdIK2FZXZyezB?alt=media&key=AIzaSyDDPOgiDgRJXq2pqwY4CoKA56vnjxO3ZIc
+
+#EXTINF:-1 type="movie" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/08/film-narsata-sekutu-setan-2026-lk21.jpg.webp" group-title="▶ VOD ENGLISH 2026", Sekutu Setan (2026)
+https://www.googleapis.com/drive/v3/files/1tSzlCxfV60CoozqD4dStmek2JipKNl_1?alt=media&key=AIzaSyDDPOgiDgRJXq2pqwY4CoKA56vnjxO3ZIc
+
+============ Film Perang ==============
+#EXTINF:-1 type="movie" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/03/film-war-machine-2026-lk21.jpg.webp" group-title="▶ VOD ENGLISH 2026", War Machine (2026)
+https://www.googleapis.com/drive/v3/files/12fiWs21Ghm4xMA_KUQFvnx7CoPg0IfQ_?alt=media&key=AIzaSyDDPOgiDgRJXq2pqwY4CoKA56vnjxO3ZIc
+
+#EXTINF:-1 type="movie" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/07/film-man-war-2026-lk21.jpg" group-title="▶ VOD ENGLISH 2026", Man Of War (2026)
+https://www.googleapis.com/drive/v3/files/1h8V3RoaxXFyAYEkMIbDKPbTbXAeb12Sf?alt=media&key=AIzaSyDDPOgiDgRJXq2pqwY4CoKA56vnjxO3ZIc
+
+#EXTINF:-1 type="movie" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/08/film-lucky-strike-2026-2-lk21.jpg.webp" group-title="▶ VOD ENGLISH 2026", Lucky Strike (2026)
+https://www.googleapis.com/drive/v3/files/1Pty_SU3pQObCWUzSu_f65SG2oM-CzdEX?alt=media&key=AIzaSyDDPOgiDgRJXq2pqwY4CoKA56vnjxO3ZIc
+
+#EXTINF:-1 type="movie" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2026/07/film-shelter-2026-lk21-1.jpg" group-title="▶ VOD ENGLISH 2026", Shelter (2026)
+https://www.googleapis.com/drive/v3/files/1nv8b6NqJmXo_eZPAv-MJexVT6acZCb0u?alt=media&key=AIzaSyDDPOgiDgRJXq2pqwY4CoKA56vnjxO3ZIc
 
 ================================================================▶ VOD ENGLISH =====================================================================
 
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/6Goo3liSaqTTnwCJ2rMlxf9sPVc.jpg" group-title="▶ VOD ENGLISH",The Sheriffs of Savage Wells (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/6Goo3liSaqTTnwCJ2rMlxf9sPVc.jpg" group-title="▶ VOD ENGLISH 2026",The Sheriffs of Savage Wells (2026)
 https://stream.playcdn.de/playlist/daf5ec32f7a7d80ba9b334341910bcef/1/480.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/r0hCOPsYHFc7qok51canND9TVoN.jpg" group-title="▶ VOD ENGLISH",Pinocchio Unstrung (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/r0hCOPsYHFc7qok51canND9TVoN.jpg" group-title="▶ VOD ENGLISH 2026",Pinocchio Unstrung (2026)
 https://stream.playcdn.de/playlist/56791e0daeeb2c96a52ed6dd3836d981/1/480.m3u8?x=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/aAnTt6KpmbbHbd6xH3FQFlppZjc.jpg" group-title="▶ VOD ENGLISH",Mutiny (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/aAnTt6KpmbbHbd6xH3FQFlppZjc.jpg" group-title="▶ VOD ENGLISH 2026",Mutiny (2026)
 https://stream.playcdn.de/playlist/f076a7a7d091ec197c1bfb71d211183d/1/480.m3u8
 https://www.dropbox.com/scl/fi/e84lhzmarcjyurq1ccgyu/Mutiny.2026.mp4?rlkey=2fj8f7bacfway93iysl17phce&st=4z8kb0c4&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/6CdoTKnRQHJkjRGxTefFGkPQplB.jpg" group-title="▶ VOD ENGLISH",Young Washington (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/6CdoTKnRQHJkjRGxTefFGkPQplB.jpg" group-title="▶ VOD ENGLISH 2026",Young Washington (2026)
 https://stream.playcdn.de/playlist/Oxc8ICJUACAxOR4iJEQ5Nm9KeXxzVCAEABU7ExtvM2h2Tnx8dEw/43/480.m3u8
 https://www.dropbox.com/scl/fi/q9zrpkd0eyuvtrzvxlq6u/Young-Washington-2026.mp4?rlkey=v8g02r1url6lcfbrspo5heucn&st=7x2whytn&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/kzRAd7mj39ZY3FGNrDdZjqx56tn.jpg" group-title="▶ VOD ENGLISH",Lucky Strike (2026)
-https://stream.playcdn.de/playlist/Lg0qJTxUBDUwOBwpbgJmanRVHgsHPTseGg5GKXRSYjl2Hg/43/480.m3u8
-https://www.dropbox.com/scl/fi/rxtzr0il1rcdhtjbe2yzl/Lucky.Strike.2026.mp4?rlkey=od7a7fv2j4kpj8lxspqhpeu02&st=mitvult1&dl=1
-
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/6JU7E8Vv2M11egkctWVOScxWR75.jpg" group-title="▶ VOD ENGLISH",The Last House (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/6JU7E8Vv2M11egkctWVOScxWR75.jpg" group-title="▶ VOD ENGLISH 2026",The Last House (2026)
 https://stream.playcdn.de/playlist/Lhk6OmgRGDQxNFp-cwJgdRU9CwoJJi8eJGMUKXQHN2w/43/480.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/bNErActDctl6cdUGw9pnjSCmyhQ.jpg" group-title="▶ VOD ENGLISH",Soulm8te (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/bNErActDctl6cdUGw9pnjSCmyhQ.jpg" group-title="▶ VOD ENGLISH 2026",Soulm8te (2026)
 https://stream.playcdn.de/playlist/MRc8IihBAyRvY0d-dR0BHQA8BREdJhEncjMUf3MD/43/480.m3u8
 https://www.dropbox.com/scl/fi/6gr6tnnbz1q2cgrttioow/Soulm8te.2026.mp4?rlkey=yzk1xn0pbsfq40li4pdcaxglh&st=utcbwrrs&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg" group-title="▶ VOD ENGLISH",Evil Dead Burn (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg" group-title="▶ VOD ENGLISH 2026",Evil Dead Burn (2026)
 https://stream.playcdn.de/playlist/Jw4gImgdEiAmfBU5MV57anJKf2MSPDUFDg4vEyACZj1wHS94/43/480.m3u8
 https://www.dropbox.com/scl/fi/3cvmsb9al37lvkvggxq3a/Evil.Dead.Burn.2026.mp4?rlkey=knlolskhkt96hka9btrkeaxkw&st=vll6pi10&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg" group-title="▶ VOD ENGLISH",The Devils Mouth (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg" group-title="▶ VOD ENGLISH 2026",The Devils Mouth (2026)
 https://stream.playcdn.de/playlist/Jh0_JykKWiwtJAMkbgJmanRVHgsHPTseGg5DeyIAY29wSg/43/480.m3u8
 https://www.dropbox.com/scl/fi/q3acrxp3u7ftisb8qg1lf/The.Devils.Mouth.2026.mp4?rlkey=k3bjht7k4qo687ykh8h40nfgj&st=4utp5ie0&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/znHT8peERZRWG1ME3r0Db0EV8k8.jpg" group-title="▶ VOD ENGLISH",Scary Movie (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/znHT8peERZRWG1ME3r0Db0EV8k8.jpg" group-title="▶ VOD ENGLISH 2026",Scary Movie (2026)
 https://stream.playcdn.de/playlist/MRsoPDxUGi40OBJhcQBkbm8vDAwBNSgZHWhCeHEEMmsm/42/480.m3u8
 https://www.dropbox.com/scl/fi/bc35xzgg5cyandiewos0p/Scary-Movie-2026.mp4?rlkey=dds3khri8yel45119rv7d0tj8&st=1mns5hs8&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg" group-title="▶ VOD ENGLISH",Mayday (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg" group-title="▶ VOD ENGLISH 2026",Mayday (2026)
 https://stream.playcdn.de/playlist/e30393245917ce0b10d6c6b4d0d2c68e/1/0.m3u8?x=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg" group-title="▶ VOD ENGLISH",The Mongoose (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg" group-title="▶ VOD ENGLISH 2026",The Mongoose (2026)
 https://stream.playcdn.de/playlist/38e7a760d354fc4a12d434df791635f2/1/0.m3u8?x=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/AnJ8IQJI23hNpYXVNaythu061Ru.jpg" group-title="▶ VOD ENGLISH",Disclosure Day (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/AnJ8IQJI23hNpYXVNaythu061Ru.jpg" group-title="▶ VOD ENGLISH 2026",Disclosure Day (2026)
 https://stream.playcdn.de/playlist/JhE6LSkWBDQwNFooIkl7anJKf2MSPDUFDg4vE3dSYGhwGyt_/42/480.m3u8
 https://www.dropbox.com/scl/fi/79j150oy1o2wwkffu71p4/Disclosure-Day.mp4?rlkey=p3s0lls0f6ydcfmj150b8rds1&st=bwr1guli&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg" group-title="▶ VOD ENGLISH",Masters of the Universe (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg" group-title="▶ VOD ENGLISH 2026",Masters of the Universe (2026)
 https://stream.playcdn.de/playlist/Lxk6OiALBGw3Px46JkIlPW9KeXxzVEZsFRQ1CA9vDgd6TH0rdRgVcA/42/480.m3u8
 https://www.dropbox.com/scl/fi/6j7rs8swrppws5yi6efcu/Masters-of-the-Universe.mp4?rlkey=8w8fhx1q11hqbfxhvf67bl1ct&st=8plxi61o&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg" group-title="▶ VOD ENGLISH",Moana (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg" group-title="▶ VOD ENGLISH 2026",Moana (2026)
 https://cdn1.khflixcdnvideos.top/Moana.2026.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/3bEqHqeaQlFykaLQ7N4gDkIvL5w.jpg" group-title="▶ VOD ENGLISH",Desire (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/3bEqHqeaQlFykaLQ7N4gDkIvL5w.jpg" group-title="▶ VOD ENGLISH 2026",Desire (2026)
 https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Desire%202026-1-720.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mwmfEqWXZG6HmAUuN5SjO8s7UNV.jpg" group-title="▶ VOD ENGLISH",Beast Race (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/mwmfEqWXZG6HmAUuN5SjO8s7UNV.jpg" group-title="▶ VOD ENGLISH 2026",Beast Race (2026)
 https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Beast%20Race%202026-1-720.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg" group-title="▶ VOD ENGLISH",Backrooms (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg" group-title="▶ VOD ENGLISH 2026",Backrooms (2026)
 https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Backrooms%202026-1-720.mp4
 https://www.dropbox.com/scl/fi/n18940szkfrbyb277kzdw/Backrooms.2026.mp4?rlkey=djse9kzhs52lsxx5ibs38kb2x&st=3p0v4erk&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/reeKdj7BSznr7wSGzAtIMrPFgKo.jpg" group-title="▶ VOD ENGLISH",Colors of Evil Black (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/reeKdj7BSznr7wSGzAtIMrPFgKo.jpg" group-title="▶ VOD ENGLISH 2026",Colors of Evil Black (2026)
 https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Colors%20Of%20Evil%20%20Black%202026-1-720.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/2PFgFMnrdCPXWiZl1PUvky7Mo9D.jpg" group-title="▶ VOD ENGLISH",undertone (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/2PFgFMnrdCPXWiZl1PUvky7Mo9D.jpg" group-title="▶ VOD ENGLISH 2026",undertone (2026)
 https://stream.playcdn.de/playlist/NxYtKzcNGC8nfEV8cQV7Dwc6DQIaISh1cDROLXIGNQ/40/480.m3u8
 https://www.dropbox.com/scl/fi/yaqdmnt3rs6gveznlh953/Undertone.2025.mp4?rlkey=xlkfvkr7jh0ry43rsegw7pghy&st=pnfz2nn7&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/niSvU02l2BONH9ivubV6K1a5QiK.jpg" group-title="▶ VOD ENGLISH",Supergirl (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/niSvU02l2BONH9ivubV6K1a5QiK.jpg" group-title="▶ VOD ENGLISH 2026",Supergirl (2026)
 https://stream.playcdn.de/playlist/MQ05KzceHjMufEV8cQZ7Dwc6DQIaISh1IDdPdXQGNQ/42/480.m3u8
 https://www.dropbox.com/scl/fi/4uflpqu4og3ee8wnnebkm/Supergirl.2026.mp4?rlkey=kgdm1tdrv6x5ckt4bt4uimjyb&st=5azr7cml&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg" group-title="▶ VOD ENGLISH",Passenger (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg" group-title="▶ VOD ENGLISH 2026",Passenger (2026)
 https://stream.playcdn.de/playlist/Mhk6PSAXECQwfEV8cQZ7Dwc6DQIaISgkdTIVeyFRYw/42/480.m3u8
 https://www.dropbox.com/scl/fi/82lzrkfjwyaaby9y1k1po/Passenger.2026.mp4?rlkey=3eimf542y3x9otskkvohv9dst&st=o3xzig9g&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/kjcuS7xaRyqRjVaVcH4t0qHshuX.jpg" group-title="▶ VOD ENGLISH",Deep Water (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/kjcuS7xaRyqRjVaVcH4t0qHshuX.jpg" group-title="▶ VOD ENGLISH 2026",Deep Water (2026)
 https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Deep%20Water%202026-1-720.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/vt0RqHlqfUzeiBEVQvp43yY2076.jpg" group-title="▶ VOD ENGLISH",Man of War (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/vt0RqHlqfUzeiBEVQvp43yY2076.jpg" group-title="▶ VOD ENGLISH 2026",Man of War (2026)
 https://stream.playcdn.de/playlist/LxknYzIYBWxwYUV6bmcTGgY0FhYaSxRxJzUVL3U/42/480.m3u8
 https://cdn1.khflixcdnvideos.top/Man.Of.War.2026.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg" group-title="▶ VOD ENGLISH",Citizen Vigilante (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg" group-title="▶ VOD ENGLISH 2026",Citizen Vigilante (2026)
 https://stream.playcdn.de/playlist/IRE9Jz8cGWw0OBAlL1E4LCdVe353T1oWBxMzABxoCWAgTC8qcxxE/42/480.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/sIwakdbMGS1krtgendTWpxTY9Hw.jpg" group-title="▶ VOD ENGLISH",Iron Lung (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/sIwakdbMGS1krtgendTWpxTY9Hw.jpg" group-title="▶ VOD ENGLISH 2026",Iron Lung (2026)
 https://stream.playcdn.de/playlist/KwomIGgVAi8lfEV8cQZ7Dwc6DQIaISh1cjAWe3JVNQ/41/480.m3u8
 https://hls.khflix.top/Iron%20Lung/index.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/nPPIufTBnzEg0d7NoR5RLL1oPra.jpg" group-title="▶ VOD ENGLISH",In the Hand of Dante (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/nPPIufTBnzEg0d7NoR5RLL1oPra.jpg" group-title="▶ VOD ENGLISH 2026",In the Hand of Dante (2026)
 https://stream.playcdn.de/playlist/KhknKmgdFi82NFp-cwJjdRU9CwoJJi8eJmYTdHtTMDo/42/480.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/5ps8VwOweM37Qxnpd5fzDxX09i2.jpg" group-title="▶ VOD ENGLISH",Power Ballad (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/5ps8VwOweM37Qxnpd5fzDxX09i2.jpg" group-title="▶ VOD ENGLISH 2026",Power Ballad (2026)
 https://stream.playcdn.de/playlist/Mhc-KzdUFSAuPRYobgJmanRVHgsHPTseGg5PLycGMmBzSg/42/480.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/iKy5460GdsoknM8ppmGlJbKxAKa.jpg" group-title="▶ VOD ENGLISH",The Sheep Detectives (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/iKy5460GdsoknM8ppmGlJbKxAKa.jpg" group-title="▶ VOD ENGLISH 2026",The Sheep Detectives (2026)
 https://stream.playcdn.de/playlist/MRAsKzVUEyQ2NBQ4KkYzK29KeXxzVCAEABU7ExtvZjt2Syh7Ixs/42/480.m3u8
 https://www.dropbox.com/scl/fi/psylrakzbt2ider1s28jv/The-Sheep-Detectives-2026.mp4?rlkey=sqnyzwligtdllmpl1bozw5vrd&st=dkeysg5h&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg" group-title="▶ VOD ENGLISH",Tuner (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg" group-title="▶ VOD ENGLISH 2026",Tuner (2026)
 https://stream.playcdn.de/playlist/Ng0nKzdURXFwZFobBnISFB0gFnknThF2J2YR/42/480.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/oMFdQE5hMJ9JjhNORegwTo0GKmh.jpg" group-title="▶ VOD ENGLISH",Fuze (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/oMFdQE5hMJ9JjhNORegwTo0GKmh.jpg" group-title="▶ VOD ENGLISH 2026",Fuze (2026)
 https://stream.playcdn.de/playlist/JA0zK2hLR3N3fCAJAXQaBxonfy1xHBZ5ejA/41/480.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/4KdmT71AGzDMp5hJbAu9vysKQKT.jpg" group-title="▶ VOD ENGLISH",Maternal Instinct (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/4KdmT71AGzDMp5hJbAu9vysKQKT.jpg" group-title="▶ VOD ENGLISH 2026",Maternal Instinct (2026)
 https://stream.playcdn.de/playlist/Lxk9KzcXFi1vOBk_N1k4OzZVe353T1oWBxMzABxoCTwgT3p4dU4S/42/480.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/canZTWSxACSnAluir3dCtMxKpA1.jpg" group-title="▶ VOD ENGLISH",Voicemails for Isabelle (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/canZTWSxACSnAluir3dCtMxKpA1.jpg" group-title="▶ VOD ENGLISH 2026",Voicemails for Isabelle (2026)
 https://stream.playcdn.de/playlist/NBcgLSAUFiguIlolMFE0PS4ULGN3SUV3bwYyDgd8CQAdHX52IxxBInI/42/480.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/gFjEggtrejCN79r6SXRjM269OtG.jpg" group-title="▶ VOD ENGLISH",Pressure (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/gFjEggtrejCN79r6SXRjM269OtG.jpg" group-title="▶ VOD ENGLISH 2026",Pressure (2026)
 https://stream.playcdn.de/playlist/MgosPTYMBSRvY0d-dR0UNDcqKDcaIShxcGBHenBRYw/42/480.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/nLxu237EJAisFCYKK48hN9Plobx.jpg" group-title="▶ VOD ENGLISH",Your Fault London (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/nLxu237EJAisFCYKK48hN9Plobx.jpg" group-title="▶ VOD ENGLISH 2026",Your Fault London (2026)
 https://stream.playcdn.de/playlist/Oxc8PGgfFjQuJVogLF4yNyxVe353T1oWBxMzABxoCWFwGy8vJk4R/42/480.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg" group-title="▶ VOD ENGLISH",They Will Kill You (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg" group-title="▶ VOD ENGLISH 2026",They Will Kill You (2026)
 https://stream.playcdn.de/playlist/NhAsN2gOHi0ufBwlL1x7IS0NZHx1S0FsFRQ1CA9vDgcgHix2cUhAeQ/40/480.m3u8
 https://cdn1.khflixcdnvideos.top/They.Will.Kill.You.2026.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/1vpNS7FcsW12NRenyp9RuluvJ4t.jpg" group-title="▶ VOD ENGLISH",Ruthless Bastards (2025)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/1vpNS7FcsW12NRenyp9RuluvJ4t.jpg" group-title="▶ VOD ENGLISH 2026",Ruthless Bastards (2025)
 https://stream.playcdn.de/playlist/MA09JikcBDJvMxY_N1EkPDFVe353TFoWBxMzABxoCWl3Hn9_fRxP/41/480.m3u8
 
 EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/gkscqnZZrCT5lLsniw1KNL9iiJ0.jpg" group-title="▶ VOD ENGLISH",On The Hunt (2026)
 https://stream.playcdn.de/playlist/Kg0nOmhLR3N0fEZhFHUUHA4nERF9TUUlcWMUfQ/41/480.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/kZCauMzAt9eMAhLMopCqnFw1Q5k.jpg" group-title="▶ VOD ENGLISH",Over Your Dead Body (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/kZCauMzAt9eMAhLMopCqnFw1Q5k.jpg" group-title="▶ VOD ENGLISH 2026",Over Your Dead Body (2026)
 https://stream.playcdn.de/playlist/LQ4sPGgAGDQwfBMpIlR7Oi0cMGN3SUV3bwYyDgd8CQAdTX1-Jx8TdHU/41/480.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg" group-title="▶ VOD ENGLISH",Michael (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg" group-title="▶ VOD ENGLISH 2026",Michael (2026)
 https://stream.playcdn.de/playlist/LxEqJiQcG2xwYUV6bnI6LRAZMBEdJkEicmROe3sC/42/480.m3u8
 https://cdn1.khflixcdnvideos.top/Michael.2026.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg" group-title="▶ VOD ENGLISH",Office Romance (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg" group-title="▶ VOD ENGLISH 2026",Office Romance (2026)
 https://stream.playcdn.de/playlist/LR4vJyYcWjMtPBYiIFV7anJKf2MSPDUFDg4vE3cBb2lySXh9/41/480.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/dj4MbmBrZXzNQpxsLBIxKohRp9b.jpg" group-title="▶ VOD ENGLISH",Mexico 86 (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/dj4MbmBrZXzNQpxsLBIxKohRp9b.jpg" group-title="▶ VOD ENGLISH 2026",Mexico 86 (2026)
 https://stream.playcdn.de/playlist/Lx0xJyYWWnl0fEV8cQZ7Dwc6DQIaISgjIGhDLiYGbg/41/480.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/dyUZ6IKbzmgtdshHevJahpH51Eq.jpg" group-title="▶ VOD ENGLISH",The Marked Woman (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/dyUZ6IKbzmgtdshHevJahpH51Eq.jpg" group-title="▶ VOD ENGLISH 2026",The Marked Woman (2026)
 https://stream.playcdn.de/playlist/Lxk7JSAdWjYtPBYibgJmanRVHgsHPTseGg5Oe3UFZTwnTQ/41/480.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg" group-title="▶ VOD ENGLISH",In the Grey (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg" group-title="▶ VOD ENGLISH 2026",In the Grey (2026)
 https://stream.playcdn.de/playlist/JQosN3RURXFwZ1oOL0UEOTsnERF8HEdzJ2NOeg/42/480.m3u8
 https://www.dropbox.com/scl/fi/plb4ibeqd9812h5pz458h/In-the-Grey-2026.mp4?rlkey=yjktv5ixldhkdyhxozawq8qy3&st=xwu6r2u2&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg" group-title="▶ VOD ENGLISH",Hokum (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/82Vh8PSzWtBi0CLWrnJdRhGYxEr.jpg" group-title="▶ VOD ENGLISH 2026",Clika (2026)
+https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Clika%202026-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/udXvLxC5gAqN8SinemyFBEcHpTf.jpg" group-title="▶ VOD ENGLISH 2026",The Magic Faraway Tree (2026)
+https://stream.playcdn.de/playlist/LxkuJyZUESAwMAAtOh0iKicdZHx1S0FsFRQ1CA9vDgdxHHArIU8TIw/41/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg" group-title="▶ VOD ENGLISH 2026",Hokum (2026)
 https://stream.playcdn.de/playlist/KhciOyhURXFwZ1obBnISFB0gFnhyG0FwcjBC/41/480.m3u8
 https://hls.khflix.top/Hokum/index.m3u8
 
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg" group-title="▶ VOD ENGLISH 2026",The Bride! (2026)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/The%20Bride%202026-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg" group-title="▶ VOD ENGLISH 2026",Send Help (2026)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru53/Send%20Help%202026-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg" group-title="▶ VOD ENGLISH 2026",Beast (2026)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru53/Beast%202026-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/4vWqIdoBavo1htxmxlScDniOS9C.jpg" group-title="▶ VOD ENGLISH 2026",In the Blink of an Eye (2026)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru53/In%20the%20Blink%20of%20an%20Eye%202026-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/3YBce6dTh1D5oCMITXk2S5QhPt.jpg" group-title="▶ VOD ENGLISH 2026",Wuthering Heights (2026)
+https://stream.playcdn.de/playlist/NQ09JiALHi8lfB8pKlc-LDFVe353T1oDLiQlLTpvDgd6QSotcEpCIg/41/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/kjR56Yv17pbjTVBTMjqepvcus4f.jpg" group-title="▶ VOD ENGLISH 2026",Ladies First (2026)
+https://stream.playcdn.de/playlist/LhktJyAKWicrIwQ4bgJmanRVHgsHPTseGg5PdXpVbmkmGw/41/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/AvvGLXrmby04BXQKjDRhj9FRQL1.jpg" group-title="▶ VOD ENGLISH 2026",Little Brother (2026)
+https://stream.playcdn.de/playlist/LhE9OikcWiMwPgMkJkJ7anJKf2MSPDUFDg4vEyYCbmp2TSx5/42/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/kHbUXJhXYV7UGiStIgCyplWsYKd.jpg" group-title="▶ VOD ENGLISH 2026",Hungry (2026)
+https://stream.playcdn.de/playlist/Kg0nKTcAWnNyY0FhFHUUHA4nERF9TxF1emhDfQ/42/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg" group-title="▶ VOD ENGLISH 2026",Obsession (2026)
+https://stream.playcdn.de/playlist/LRo6KzYKHi4sfEV8cQV7Gi4NGy88Ji8edmRCe3oIb2o/42/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg" group-title="▶ VOD ENGLISH 2026",Tom Clancys Jack Ryan Ghost War (2026)
+https://stream.playcdn.de/playlist/NhckYyYVFi8hKARhKVE1M28KMC8rVBApLSIDYTRRJHVwSHt4aC4yAwYdKBQcCDVockwqKHM/41/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/vPVY3S57lEooBLJCg6KGdMHkUxm.jpg" group-title="▶ VOD ENGLISH 2026",Faces of Death (2026)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru53/Faces%20of%20Death%202026-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/rsNdDcCKjCZm9RBMAxL3vMUokKU.jpg" group-title="▶ VOD ENGLISH 2026",Normal (2026)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru53/Normal%202025-1-720.mp4
+
+=========================================
+#EXTINF:-1 type="movie" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2022/10/film-all-quiet-on-the-western-front-2022-lk21-d21.jpg" group-title="▶ VOD ENGLISH", All Quiet Western Front (2022)
+https://www.googleapis.com/drive/v3/files/1vrfWNKGYxTAubuD7V5DScBxdznww9Y3M?alt=media&key=AIzaSyDDPOgiDgRJXq2pqwY4CoKA56vnjxO3ZIc
+
+#EXTINF:-1 type="movie" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2016/02/film-fury-2014.jpg" group-title="▶ VOD ENGLISH", Fury (2014)
+https://www.googleapis.com/drive/v3/files/17MnL2-VwKlBmyq3cHbBUPK0JX6GhyRA2?alt=media&key=AIzaSyDDPOgiDgRJXq2pqwY4CoKA56vnjxO3ZIc
+
+#EXTINF:-1 type="movie" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2015/12/film-american-sniper-2014.jpg" group-title="▶ VOD ENGLISH", American Sniper (2014)
+https://www.googleapis.com/drive/v3/files/1XlmHDTpw43l97yLhj-buFlVXCBZN4CGj?alt=media&key=AIzaSyDDPOgiDgRJXq2pqwY4CoKA56vnjxO3ZIc
+
+#EXTINF:-1 type="movie" tvg-logo="https://poster.assetsy.de/wp-content/uploads/2016/07/film-valkyrie-2008.jpg" group-title="▶ VOD ENGLISH", Valkyrie (2008)
+https://www.googleapis.com/drive/v3/files/1Qgh94IZfpoEnDQtaR9wZHNpYL3u7fS9K?alt=media&key=AIzaSyDDPOgiDgRJXq2pqwY4CoKA56vnjxO3ZIc
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/eUrHhD3sXiFxEXmRfDAcTpuDz9a.jpg" group-title="▶ VOD ENGLISH",Anemone (2025)
 https://stream.playcdn.de/playlist/IxYsIyoXEmxwYUV5bmcTGgY0FhYaSUIjJ2kUf3s/25/480.m3u8
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/udXvLxC5gAqN8SinemyFBEcHpTf.jpg" group-title="▶ VOD ENGLISH",The Magic Faraway Tree (2026)
-https://stream.playcdn.de/playlist/LxkuJyZUESAwMAAtOh0iKicdZHx1S0FsFRQ1CA9vDgdxHHArIU8TIw/41/480.m3u8
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/82Vh8PSzWtBi0CLWrnJdRhGYxEr.jpg" group-title="▶ VOD ENGLISH",Clika (2026)
-https://47246.ohflix.workers.dev/0:/x41/NewVersion5/baru55/Clika%202026-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/9KCOv0hL37IN3tWG3j86eZg3xDH.jpg" group-title="▶ VOD ENGLISH",Eagle Eye (2008)
 https://stream.playcdn.de/playlist/855bbbd4a156f94537734da6415c0274/2/480.m3u8
@@ -6918,6 +6927,58 @@ https://www.dropbox.com/scl/fi/7bs23ydyjccvocefx7yij/Dredd.mp4?rlkey=py0jf0dd43c
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/p35IoKfBtJDNiWJMO8ZEtIMZSfW.jpg" group-title="▶ VOD ENGLISH",The Devil Wears Prada 2 (2026)
 https://stream.playcdn.de/playlist/Jh0_JylUACQjIwRhM0I3PCNVe2N3SUV3bxMbORFRLwcaJ3F5ch9Cc3Nn/42/480.m3u8
 https://cdn1.khflixcdnvideos.top/The.Devil.Wears.Prada.2.2026.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/jRf89HVEtBZiSnOXXWDhZOfuTwW.jpg" group-title="▶ VOD ENGLISH",Ready or Not: Here I Come (2026)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru53/Ready%20or%20Not%202%20Here%20I%20Come%202026-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg" group-title="▶ VOD ENGLISH",Enola Holmes 3 (2026)
+https://stream.playcdn.de/playlist/JxYmIiRUHy4uPBI_bgN7anJKf2MSPDUFDg4vEyJSb2omQS8v/42/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg" group-title="▶ VOD ENGLISH",Apex (2026)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Apex%202026-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg" group-title="▶ VOD ENGLISH",War Machine (2026)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/War%20Machine%202026-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/sojEzvfxR2DBcDSJyAisX8TWjov.jpg" group-title="▶ VOD ENGLISH",The Bluff (2026)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/The%20Bluff%202026-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/2HoR2x23bqKpopluoBD1FH3tBi7.jpg" group-title="▶ VOD ENGLISH",Crime 101 (2026)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Crime%20101%202026-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/knh3c8LzL9fMhjc5SZPAOotXyiy.jpg" group-title="▶ VOD ENGLISH",Firebreak (2026)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Firebreak%202026-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg" group-title="▶ VOD ENGLISH",Mercy (2026)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Mercy%202026-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/hGH8Ji7pG2ytHxo7ABqHM3TpzFA.jpg" group-title="▶ VOD ENGLISH",The Dreadful (2026)
+https://stream.playcdn.de/playlist/JgosLyEfAi1vY0d-dR0BHQA8BREdJkYkdmZOe3EE/39/480.m3u8
+https://www.dropbox.com/scl/fi/b6g55ic7m1o4dehtlp84t/The-Dreadful-2026.mp4?rlkey=3cgs7gj4ziq2zm5v8g71g6lmq&st=puypv26w&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg" group-title="▶ VOD ENGLISH",28 Years Later: The Bone Temple (2026)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/28%20Years%20Later%20The%20Bone%20Temple%202026-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/760SP4VsZagpyB9WLfeZykE3DFg.jpg" group-title="▶ VOD ENGLISH",Sleepwalker (2026)
+https://www.dropbox.com/scl/fi/icvs8hw92dyj467nv6xz3/Sleepwalker-2026.mp4?rlkey=ptf9a01w8m6j7fijmicrba71i&st=by5gt7mh&dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/ag5TZNcK3vHdCCpZIY8syjwzgfr.jpg" group-title="▶ VOD ENGLISH",Queen of Chess (2026)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Queen%20Of%20Chess%202026-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/qhNThwc72GqihJhXaP29Af5hJ2A.jpg" group-title="▶ VOD ENGLISH",The Investigation of Lucy Letby (2026)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/The%20Investigation%20Of%20Lucy%20Letby%202026-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/o7dVxvZIKnAB7k1eeeWp2k14Es7.jpg" group-title="▶ VOD ENGLISH",Relationship Goals (2026)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Relationship%20Goals%202026-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg" group-title="▶ VOD ENGLISH",Return to Silent Hill (2026)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Return%20to%20Silent%20Hill%202026-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg" group-title="▶ VOD ENGLISH",Greenland 2 Migration (2026)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Grenland%202%20Migration%202026-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg" group-title="▶ VOD ENGLISH",The Wrecking Crew (2026)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/The%20Wrecking%20Crew%202026-1-720.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuA2fcgeyjp8ZoMzbCmFlHisI3vB_gRYatgrdaGOG3hw&s=10" group-title="▶ VOD ENGLISH",Antrum (2018)
 https://www.dropbox.com/s/jer0jgibfva5op9/driveid-104575-terbit21-com-antrum-the-deadliest-film-ever-made-2018.mp4?dl=1
@@ -7124,18 +7185,6 @@ https://47244.ohflix.workers.dev/0:/x40/NewVersion5/baru47/Mickey%2017%202025-1-
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/6sJcVzGCwrDCBMV0DU6eRzA2UxM.jpg" group-title="▶ VOD ENGLISH",Amsterdam (2022)
 https://47246.ohflix.workers.dev/0:/x40/NewVersion5/baru49/Amsterdam%202022-1-720.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg" group-title="▶ VOD ENGLISH",The Bride! (2026)
-https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/The%20Bride%202026-1-720.mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg" group-title="▶ VOD ENGLISH",Send Help (2026)
-https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru53/Send%20Help%202026-1-720.mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg" group-title="▶ VOD ENGLISH",Beast (2026)
-https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru53/Beast%202026-1-720.mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/4vWqIdoBavo1htxmxlScDniOS9C.jpg" group-title="▶ VOD ENGLISH",In the Blink of an Eye (2026)
-https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru53/In%20the%20Blink%20of%20an%20Eye%202026-1-720.mp4
-
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/m5h3NtZ2ZfryIHl1MvatmANvIqQ.jpg" group-title="▶ VOD ENGLISH",Dracula Untold (2014)
 https://47228.ohflix.workers.dev/0:/x32/NewVersion/20/Dracula%20Untold%20(2014).mp4
 
@@ -7149,31 +7198,6 @@ https://www.dropbox.com/scl/fi/w228x19g0q9xscugqjym5/Reign-of-Fire-2002.mp4?rlke
 #EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/z6O1KDhfWDTm5ZBr6Ovr0eg8LqO.jpg" group-title="▶ VOD ENGLISH",American Hustle (2013)
 https://stream.playcdn.de/playlist/8d75ad3846898d753d75a4753721735d/4/480.m3u8?x=1
 https://www.dropbox.com/scl/fi/dovskra9c7rg74nj46pko/American-Hustle-2013.mp4?rlkey=nulkm3zourvhpi2odbqeu8b91&st=9v7uf384&dl=1
-
-#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/dPyWMlQd54r3pK17GKG3iqjvNZ7.jpg" group-title="▶ VOD ENGLISH",The New World (2005)
-https://stream.playcdn.de/playlist/ecd499fb4c9999f9ef81bc258956be7a/6/480.m3u8
-https://www.dropbox.com/scl/fi/7uxtnok30eiufmnb1itbg/New-World-2005.mp4?rlkey=fpzqnkqehm31tnwk6f5af62qv&st=qnx2h5m2&dl=1
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg" group-title="▶ VOD ENGLISH",Mortal Kombat II (2026)
-https://stream.playcdn.de/playlist/Lxc7OiQVWiotPBUtNx0_MW9KeXxzVDUtNwMWNRxoCWl7Ty95dkkT/42/480.m3u8
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/3YBce6dTh1D5oCMITXk2S5QhPt.jpg" group-title="▶ VOD ENGLISH",Wuthering Heights (2026)
-https://stream.playcdn.de/playlist/NQ09JiALHi8lfB8pKlc-LDFVe353T1oDLiQlLTpvDgd6QSotcEpCIg/41/480.m3u8
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/kjR56Yv17pbjTVBTMjqepvcus4f.jpg" group-title="▶ VOD ENGLISH",Ladies First (2026)
-https://stream.playcdn.de/playlist/LhktJyAKWicrIwQ4bgJmanRVHgsHPTseGg5PdXpVbmkmGw/41/480.m3u8
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/AvvGLXrmby04BXQKjDRhj9FRQL1.jpg" group-title="▶ VOD ENGLISH",Little Brother (2026)
-https://stream.playcdn.de/playlist/LhE9OikcWiMwPgMkJkJ7anJKf2MSPDUFDg4vEyYCbmp2TSx5/42/480.m3u8
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/kHbUXJhXYV7UGiStIgCyplWsYKd.jpg" group-title="▶ VOD ENGLISH",Hungry (2026)
-https://stream.playcdn.de/playlist/Kg0nKTcAWnNyY0FhFHUUHA4nERF9TxF1emhDfQ/42/480.m3u8
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg" group-title="▶ VOD ENGLISH",Obsession (2026)
-https://stream.playcdn.de/playlist/LRo6KzYKHi4sfEV8cQV7Gi4NGy88Ji8edmRCe3oIb2o/42/480.m3u8
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg" group-title="▶ VOD ENGLISH",Tom Clancys Jack Ryan Ghost War (2026)
-https://stream.playcdn.de/playlist/NhckYyYVFi8hKARhKVE1M28KMC8rVBApLSIDYTRRJHVwSHt4aC4yAwYdKBQcCDVockwqKHM/41/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/7FR4RfIe3vRDZlrsg6DFysluSRa.jpg" group-title="▶ VOD ENGLISH",The Golden Compass (2007)
 https://stream.playcdn.de/playlist/dede0481944e925d69d7a801551ecfda/4/480.m3u8
@@ -7223,11 +7247,9 @@ https://47228.ohflix.workers.dev/0:/x32/NewVersion/30/The%20Proposal%20(2009).mp
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/4FuN9nBJ7ttO4BUopJCpT6B0yhH.jpg" group-title="▶ VOD ENGLISH",Definitely Maybe (2008)
 https://47228.ohflix.workers.dev/0:/x32/NewVersion/26/Definitely,Maybe%202008.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/vPVY3S57lEooBLJCg6KGdMHkUxm.jpg" group-title="▶ VOD ENGLISH",Faces of Death (2026)
-https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru53/Faces%20of%20Death%202026-1-720.mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/rsNdDcCKjCZm9RBMAxL3vMUokKU.jpg" group-title="▶ VOD ENGLISH",Normal (2026)
-https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru53/Normal%202025-1-720.mp4
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/dPyWMlQd54r3pK17GKG3iqjvNZ7.jpg" group-title="▶ VOD ENGLISH",The New World (2005)
+https://stream.playcdn.de/playlist/ecd499fb4c9999f9ef81bc258956be7a/6/480.m3u8
+https://www.dropbox.com/scl/fi/7uxtnok30eiufmnb1itbg/New-World-2005.mp4?rlkey=fpzqnkqehm31tnwk6f5af62qv&st=qnx2h5m2&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/gdYIJDXFKeTDNeYQ4Z2B8whCq5P.jpg" group-title="▶ VOD ENGLISH",6 Underground (2019)
 https://47227.ohflix.workers.dev/0:/x21/NewVersion/8/6%20Underground%20(2019).mp4
@@ -7247,48 +7269,23 @@ https://47229.ohflix.workers.dev/0:/x32/NewVersion/44/Tracers%202015.mp4
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/vOl6shtL0wknjaIs6JdKCpcHvg8.jpg" group-title="▶ VOD ENGLISH",Ready or Not (2019)
 https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru44/Ready%20or%20Not%20(2019)-1-720.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/jRf89HVEtBZiSnOXXWDhZOfuTwW.jpg" group-title="▶ VOD ENGLISH",Ready or Not: Here I Come (2026)
-https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru53/Ready%20or%20Not%202%20Here%20I%20Come%202026-1-720.mp4
-
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/riYInlsq2kf1AWoGm80JQW5dLKp.jpg" group-title="▶ VOD ENGLISH",Enola Holmes (2020)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Enola%20Holmes%201%202020-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg" group-title="▶ VOD ENGLISH",Enola Holmes 2 (2022)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Enola%20Holmes%202%202022-1-720.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg" group-title="▶ VOD ENGLISH",Enola Holmes 3 (2026)
-https://stream.playcdn.de/playlist/JxYmIiRUHy4uPBI_bgN7anJKf2MSPDUFDg4vEyJSb2omQS8v/42/480.m3u8
-
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/5EufsDwXdY2CVttYOk2WtYhgKpa.jpg" group-title="▶ VOD ENGLISH",The Invisible Man (2020)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/The%20Invisible%20Man%202020-1-720.mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg" group-title="▶ VOD ENGLISH",Apex (2026)
-https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Apex%202026-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/2aWGxo1E5polpBjPvtBRkWp7qaS.jpg" group-title="▶ VOD ENGLISH",Shooter (2007)
 https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/69/Shooter%202007-1-720.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg" group-title="▶ VOD ENGLISH",War Machine (2026)
-https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/War%20Machine%202026-1-720.mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/sojEzvfxR2DBcDSJyAisX8TWjov.jpg" group-title="▶ VOD ENGLISH",The Bluff (2026)
-https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/The%20Bluff%202026-1-720.mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/2HoR2x23bqKpopluoBD1FH3tBi7.jpg" group-title="▶ VOD ENGLISH",Crime 101 (2026)
-https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Crime%20101%202026-1-720.mp4
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/pWt1iRuhNpeVDNP2QiUT2C5OiBt.jpg" group-title="▶ VOD ENGLISH",Downton Abbey (2019)
+https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/baru36/Downton%20Abbey%202019.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/z4gVnxTaks3anTycwKjDmvQSuWt.jpg" group-title="▶ VOD ENGLISH",Regretting You (2025)
 https://47247.ohflix.workers.dev/0:/x40/NewVersion5/baru50/Regretting%20You%202025-1-720.mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/hGH8Ji7pG2ytHxo7ABqHM3TpzFA.jpg" group-title="▶ VOD ENGLISH",The Dreadful (2026)
-https://stream.playcdn.de/playlist/JgosLyEfAi1vY0d-dR0BHQA8BREdJkYkdmZOe3EE/39/480.m3u8
-https://www.dropbox.com/scl/fi/b6g55ic7m1o4dehtlp84t/The-Dreadful-2026.mp4?rlkey=3cgs7gj4ziq2zm5v8g71g6lmq&st=puypv26w&dl=1
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/760SP4VsZagpyB9WLfeZykE3DFg.jpg" group-title="▶ VOD ENGLISH",Sleepwalker (2026)
-https://www.dropbox.com/scl/fi/icvs8hw92dyj467nv6xz3/Sleepwalker-2026.mp4?rlkey=ptf9a01w8m6j7fijmicrba71i&st=by5gt7mh&dl=1
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/pWt1iRuhNpeVDNP2QiUT2C5OiBt.jpg" group-title="▶ VOD ENGLISH",Downton Abbey (2019)
-https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/baru36/Downton%20Abbey%202019.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/r5n4CLoIjUcnT3shWDi6MHdJ25a.jpg" group-title="▶ VOD ENGLISH",Downton Abbey: A New Era (2022)
 https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/baru36/Downton%20Abbey%20A%20New%20Era%202022.mp4
@@ -7296,17 +7293,8 @@ https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/baru36/Downton
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/m1tLlMTCwc6oK6OjWTOI4b32wnA.jpg" group-title="▶ VOD ENGLISH",Downton Abbey: The Grand Finale (2025)
 https://47247.ohflix.workers.dev/0:/x40/NewVersion5/baru50/Downton%20Abbey%20The%20Grand%20Finale%202025-1-720.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/knh3c8LzL9fMhjc5SZPAOotXyiy.jpg" group-title="▶ VOD ENGLISH",Firebreak (2026)
-https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Firebreak%202026-1-720.mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg" group-title="▶ VOD ENGLISH",Mercy (2026)
-https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Mercy%202026-1-720.mp4
-
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/n5FygjEppOvac6yEaowi26nTyw3.jpg" group-title="▶ VOD ENGLISH",28 Years Later (2025)
 https://47246.ohflix.workers.dev/0:/x40/NewVersion5/baru49/28%20Years%20Later%202025-1-720.mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg" group-title="▶ VOD ENGLISH",28 Years Later: The Bone Temple (2026)
-https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/28%20Years%20Later%20The%20Bone%20Temple%202026-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/fGodXWqJkkkbSebPIlxLSygV8GY.jpg" group-title="▶ VOD ENGLISH",Playdate (2025)
 https://47247.ohflix.workers.dev/0:/x40/NewVersion5/baru50/Playdate%202025-1-720.mp4
@@ -7343,20 +7331,8 @@ https://www.dropbox.com/scl/fi/tghwn59wejn6hh91ara83/The-Woman-in-the-Yard-2025-
 https://stream.playcdn.de/playlist/Lxk7OjxUBDQyIxIhJh1kaHBNZBkAOzMNHQkoe3sINzp0Sis/39/480.m3u8
 https://www.dropbox.com/scl/fi/avepr6kr0yu4jl717l69b/Marty-Supreme-2025.mkv?rlkey=8a8qqr0h6pftcoff91isqqtr7&st=xp4zuy3v&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg" group-title="▶ VOD ENGLISH",Return to Silent Hill (2026)
-https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Return%20to%20Silent%20Hill%202026-1-720.mp4
-
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg" group-title="▶ VOD ENGLISH",The Running Man (2025)
 https://47247.ohflix.workers.dev/0:/x40/NewVersion5/baru50/The%20Running%20Man%202025-1-720.mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/ag5TZNcK3vHdCCpZIY8syjwzgfr.jpg" group-title="▶ VOD ENGLISH",Queen of Chess (2026)
-https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Queen%20Of%20Chess%202026-1-720.mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/qhNThwc72GqihJhXaP29Af5hJ2A.jpg" group-title="▶ VOD ENGLISH",The Investigation of Lucy Letby (2026)
-https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/The%20Investigation%20Of%20Lucy%20Letby%202026-1-720.mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/o7dVxvZIKnAB7k1eeeWp2k14Es7.jpg" group-title="▶ VOD ENGLISH",Relationship Goals (2026)
-https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Relationship%20Goals%202026-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/wXDFtcnYtevleGzCmAD2ReQnJ4l.jpg" group-title="▶ VOD ENGLISH",Roofman (2025)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Roofman%202025-1-720.mp4
@@ -7431,9 +7407,6 @@ https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/baru38/Hidden%
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/bfXjFTytfFTdo9WeO7lYqzkHG7g.jpg" group-title="▶ VOD ENGLISH",The Bank Job (2008)
 https://47242.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/76/The%20Bank%20Job%202008-1-720.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg" group-title="▶ VOD ENGLISH",The Wrecking Crew (2026)
-https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/The%20Wrecking%20Crew%202026-1-720.mp4
-
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/uN7MUMaCXfa8DbMMp61A8iXEcEG.jpg" group-title="▶ VOD ENGLISH",The Spiderwick Chronicles (2008)
 https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/68/The%20Spiderwick%20Chronicles%20(2008)-1-720.mp4
 
@@ -7469,9 +7442,6 @@ https://47226.ohflix.workers.dev/0:/x11/Random1%20Movies%20Malay%20Sub/Undispute
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/bNo2mcvSwIvnx8K6y1euAc1TLVq.jpg" group-title="▶ VOD ENGLISH",Greenland (2020)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Greenland%202020-1-720.mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg" group-title="▶ VOD ENGLISH",Greenland 2 Migration (2026)
-https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Grenland%202%20Migration%202026-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/fj21HwUprqjjwTdkKC1XZurRSpV.jpg" group-title="▶ VOD ENGLISH",Green Lantern (2011)
 https://47229.ohflix.workers.dev/0:/x32/NewVersion/51/Green%20Lantern%20(2011).mp4
@@ -8578,6 +8548,193 @@ https://stream.playcdn.de/playlist/Kh0oKjZUGCdvIgMtN1V7anJKfGMyHBUlLg4vEyZTYmx3H
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/blQaj6biyBMLo34cuFKKwbgjIBz.jpg" group-title="▶ VOD ENGLISH",Locked In (2023)
 https://stream.playcdn.de/playlist/e200da22a4bcb590b6e2e9bc4d74572a/21/480.m3u8
+
+
+====================================
+#EXTINF:-1 tvg-name="HUMINT(2026)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvl4GdENi304yMvVnoZ89YL2dRx9_Hdta9wUZSTwlEduSplgYrQfAKWVMa&s=10" group-title="VOD | KOREAN MOVIE",HUMINT(2026)
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/HUM.m3u8
+#EXTINF:-1 tvg-id="mnts12" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0BQyfmS-U22fZe8laoPW8AmrwOa8nk7hrzNd_acrCnw&s=10" group-title="VOD | KOREAN MOVIE",MANTIS
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/MAN1.m3u8
+#EXTINF:-1 tvg-id="tkw" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE9wUuL5fwnnxi9du0oeoJRWlFe5GFbmP40D2HmYIW5u5PNslffh3ECqM&s=10" group-title="VOD | KOREAN MOVIE ",THE KING’S WARDEN
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/The%20King%E2%80%99s%20Warden2.m3u8
+#EXTINF:-1 tvg-id="py" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_ABnm-gg8y_ZIGV-SY8W61fxlXkkHvtEyJjukY8Kv9w&s=10" group-title="VOD | KOREAN MOVIE ",PROJECT Y
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/PROJECT%20Y%203.m3u8
+#EXTINF:-1 tvg-id="tu" tvg-logo="https://down-id.img.susercontent.com/file/id-11134207-8224t-mh25pufv14i37c" group-title="VOD | KOREAN MOVIE ",THE UGLY
+https://pixeldrain.com/api/file/dhVuQptM?download
+#EXTINF:-1 tvg-id="thefirstride" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/ed/First_Ride_film_poster.jpg/250px-First_Ride_film_poster.jpg" group-title="VOD | KOREAN MOVIE", THE FIRST RIDE
+https://pixeldrain.com/api/file/eCQmmExF?download
+#EXTINF:-1 tvg-id="boss9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzu8L4-FeLBhrikOID4G5Gd2FMUEpXYut0-kigErkkVxqqJfhbMH8gJZMb&s=10" group-title="VOD | KOREAN MOVIE",BOSS
+https://pixeldrain.com/api/file/wLbZkiv3?download
+#EXTINF:-1 tvg-id="jeongbongwon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAF-PPxR8uZH5Wb5HpQ8E8Ry7Sx9RmNQY8VG2XGiXjJLfAZ2o-FH-PkuU&s=10" group-title="VOD | KOREAN MOVIE",JEONGBOWON 
+https://pixeldrain.com/api/file/DXnyTY5J?download
+#EXTINF:-1 tvg-name="SAVIOR(2025)" tvg-logo="https://i.namu.wiki/i/xLRZoURhKE8k9JnZ6u4tSeR5xBxBnaBVcVtGLMJdCelXiyKxP67QaqgsAonGMxKP8F1dOZReMZcDcUqBYLjEVraIjqnBrh95AUAD4v753ehHFqPN_BGXZcQDex3TRk35XIN2IL4wtHLTkJD9yXkOZw.webp" group-title="VOD | KOREAN MOVIE",SAVIOR(2025)
+https://pixeldrain.com/api/file/KVx1XLSV?download
+#EXTINF:-1 tvg-id="sgr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-GfMORRTU7IUaBVZB_cWqrb41MKPVn3kCwrP8un9-2w&s=10" group-title="VOD | KOREAN MOVIE ",SUGAR
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/SUGAR3.m3u8
+#EXTINF:-1 tvg-id="twol" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMXFceXJrZcxOOvpVIDPWouHv0S7thyNAn62CSTYyjOg&s=10" group-title="VOD | KOREAN MOVIE ",THE WORLD OF LOVE
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/The%20World%20of%20Love3.m3u8
+#EXTINF:-1 tvg-id="slmkj" tvg-logo="https://jadwalnonton.com/data/upload/movies/2026/salmokji-whispering-water-cnp.jpg" group-title="VOD | KOREAN MOVIE",SALMOKJI: WHISPERING WATER 
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/SALMOKJI2.m3u8
+#EXTINF:-1 tvg-id="clny" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdFd3GErzAVpEskY9BZwSX5yNgJ4aSAPs9jOGNhv_y9w&s" group-title="VOD | KOREAN MOVIE",COLONY
+https://pixeldrain.com/api/file/2pSX7nYG?download
+#EXTINF:-1 tvg-id="sstr" tvg-logo="https://a.ltrbxd.com/resized/film-poster/1/2/7/8/2/7/5/1278275-sister-2026-0-230-0-345-crop.jpg?v=6e0527c44e" group-title="VOD | KOREAN MOVIE",SISTER
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/SISTER.m3u8
+#EXTINF:-1 tvg-id="mdiaz" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTk2YjMxNjQtY2ZlOC00Nzg5LWI5YjUtMWVhMzY4YWZmNmE1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="VOD | KOREAN MOVIE",MY DAUGHTER IS A ZOMBIE
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/My%20Daughter%20is%20a%20Zombie%20(2025)_.m3u8
+#EXTINF:-1 tvg-id="thf" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5e/Poster_film_The_Great_Flood.png" group-title="VOD | KOREAN MOVIE",THE GREAT FLOOD
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/THE%20GREAT%20FLOOD.m3u8
+
+===============================
+#EXTINF:-1 tvg-logo="https://cdn.teater.co/imgs/banner-sadali-2026_600_880.webp" group-title="VOD | INDONESIAN MOVIE",SADALI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsadali.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.teater.co/imgs/banner-musuh-dalam-selimut-2026_600_880.webp" group-title="VOD | INDONESIAN MOVIE",MUSUH DALAM SELIMUT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDmusuhDalam-Selimut1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/3zP_qB1uNqQ/hq720.jpg" group-title="VOD | INDONESIAN MOVIE",UANG PASSOLO - AMPLOP KONDANGAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDuang-Passolo.m3u8
+#EXTINF:-1 tvg-logo="https://media.suara.com/pictures/970x544/2025/12/06/32923-poster-film-wasiat-warisan-instagramcomfilm-wasiatwarisan.jpg" group-title="VOD | INDONESIAN MOVIE",WASIAT WARISAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDwasiat-Warisan.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/XO4l2zUeL84/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",MERTUA NGERI KALI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDmertuaNgeri-Kali.m3u8
+#EXTINF:-1 tvg-logo="https://www.inibalikpapan.com/wp-content/uploads/2025/10/54899-film-air-mata-mualaf-instagram.webp" group-title="VOD | INDONESIAN MOVIE",AIR MATA MUALAF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDairMata-Mualaf.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.teater.co/imgs/review-sampai-titik-terakhirmu-2025_890_490.webp" group-title="VOD | INDONESIAN MOVIE",SAMPAI TITIK TERAKHIRMU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsampaiTitik-Terakhirmu.m3u8
+#EXTINF:-1 tvg-logo="https://media.suara.com/pictures/653x366/2025/11/30/24386-foto-teaser-film-legenda-kelam-malin-kundang.jpg" group-title="VOD | INDONESIAN MOVIE",MALIN KUNDANG (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDmalin-Kundang.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/YZ95gKwbeAc/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",GAK NYANGKA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDgak-Nyangka.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZBfAWdV_m-M/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",LOSMEN BU BROTO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDlosmen-BuBroto.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tHO7uDPXAXE/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",SEMUSIM SETELAH KEMARAU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsemusimSetelah-Kemarau.m3u8
+#EXTINF:-1 tvg-logo="https://cinemaylo.id/wp-content/uploads/2025/10/The-Period-of-her-Cover.jpg" group-title="VOD | INDONESIAN MOVIE",THE PERIOD OF HER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDThePeriod-OfHer.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/LXRnwwpXz6s/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",KAKA BOSS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDkaka-Bos.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/48b12d297087ee9d94504ac7007f042d9b5b0654b1e3913ac5cfe73ff42cc221.png" group-title="VOD | INDONESIAN MOVIE",YOWIS BEN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDyowis-Ben2.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.teater.co/imgs/review-cocote-tonggo-2025_890_490.webp" group-title="VOD | INDONESIAN MOVIE",COCOTE TONGGO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer="https://hls-bekop.layarwibu.com/player2/aHR0cHM6Ly9obHMtYmVrb3AubGF5YXJ3aWJ1LmNvbS9kcml2ZS9obHMvemdkLUk5bi1xU3ItS25nL21hc3Rlci5tM3U4"}
+https://hls-bekop.layarwibu.com/drive/hls/zgd-I9n-qSr-Kng/master.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/VhWZK7kD-t5NDffiKzLhG8DzQC8=/1920x1080/filters:quality(70)/vidio-media-production/uploads/image/source/50708/0f3377.jpg" group-title="VOD | INDONESIAN MOVIE",GJLS: IBUKU IBU IBU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDGjls-ibuku-IbuIbu.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/m52r8kXdfBs/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",CINTA TAK SEINDAH DRAMA KOREA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=121759
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/E5Jdw9alAKM/mqdefault.jpg" group-title="VOD | INDONESIAN MOVIE",SURGA DI TELAPAK KAKI BAPAK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=121473
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/soqYtgjfzFk/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",HIDUP INI TERLALU BANYAK KAMU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=121409
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Qa1YwXc9K8d2i6yww8vP3js9vpU=/1920x1080/filters:quality(70)/vidio-web-prod-film/uploads/film/image_landscape/11721/angel-pol-837a40.png" group-title="VOD | INDONESIAN MOVIE",ANGEL POOLLL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=129411
+#EXTINF:-1 tvg-logo="https://cdn.teater.co/imgs/banner-tak-ingin-usai-di-sini-2025_600_880.webp" group-title="VOD | INDONESIAN MOVIE",TAK INGIN USAI DI SINI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=126285
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/u7SRMGoJ9b9TsVtKm5WRvVz-bjo=/1280x720/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8865733/mendadak-dangdut_upload-979150.jpg" group-title="VOD | INDONESIAN MOVIE",MENDADAK DANGDUT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDmendadak-Dangdut.m3u8
+#EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/api/wm/2023/09/25/poster-film-imam-tanpa-makmum_169.jpeg?w=1200" group-title="VOD | INDONESIAN MOVIE",IMAM TANPA MAKMUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=106724
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/SrSiTa_Kiwg/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",SAH: KATA NYA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=124261
+#EXTINF:-1 tvg-logo="https://img.merahputih.com/media/cc/ae/a6/ccaea608cb6507fa0d6af372d8c65073.jpg" group-title="VOD | INDONESIAN MOVIE",SERIBU BAYANG PURNAMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=135434
+#EXTINF:-1 tvg-logo="https://gayatekno.id/wp-content/uploads/2024/06/images-4-1.jpeg" group-title="VOD | INDONESIAN MOVIE",SEKAWAN LIMO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=112281
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/s6Kz_94zdHQ/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",KUN ANA WA ANTA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=113967
+#EXTINF:-1 tvg-logo="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,f_auto,q_auto:best,w_640/v1634025439/01jxv9vw5dx1dze9bz55pkggcc.jpg" group-title="VOD | INDONESIAN MOVIE",JODOH 3 BUJANG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=126981
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/5DbFY0Fq-Vs/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",LEBIH DARI SELAMA NYA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=127488
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/nLjzzjfwwvg/hq720.jpg" group-title="VOD | INDONESIAN MOVIE",PANGGIL AKU AYAH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://itu.linkzhe.eu.org/api/rebahin/play2.m3u8?id=128955
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500_and_h282_face/u6B4OIoT4lnWqIxy3lEEVcnleY4.jpg", group-title="VOD | INDONESIAN MOVIE",5 CM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://dl.dropboxusercontent.com/s/m64grw66otbicfw/5cm.%282012%29.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/xlvSRI6t_PU/maxresdefault.jpg" group-title="VOD | INDONESIAN MOVIE",SEBELUM DIJEMPUT NENEK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsebelum-DijemputNenek.m3u8
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/1200x675/webp/photo/2024/08/01/1604763664.jpg" group-title="VOD | INDONESIAN MOVIE",SAKARATUL MAUT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsakaratul-Maut.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-jpr.jawapos.com/images/43/2025/06/27/mitos-malam-satu-suro-466849331.jpg" group-title="VOD | INDONESIAN MOVIE",SATU SURO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsatu-Suro.m3u8
+#EXTINF:-1 tvg-logo="bed5cd37981b93fae351137e7e25a25e.jpg@720w_405h_1e_1c_90q.webp">https://pic.bstarstatic.com/ugc/bed5cd37981b93fae351137e7e25a25e.jpg@720w_405h_1e_1c_90q.webp" group-title="VOD | INDONESIAN MOVIE",MARIABAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDmariaban.m3u8
+#EXTINF:-1 tvg-logo="https://media.suara.com/pictures/653x366/2025/10/22/52437-film-kuncen.jpg" group-title="VOD | INDONESIAN MOVIE",KUNCEN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDkun-Cen01.m3u8
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2026/03/26/3231857517.jpg" group-title="VOD | INDONESIAN MOVIE",PESUGIHAN SATE GAGAK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDpesugihan-SateGagak01.m3u8
+#EXTINF:-1 tvg-id="idmp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-Mwmc7oAeR-obt9nWviM-Ck9QhJzzP5mIGg&s" group-title="VOD | INDONESIAN MOVIE",SORE : ISTRI DARI MASA DEPAN
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Sore%2C%20Istri%20Dari%20Masa%20Depan.m3u8
+#EXTINF:-1 tvg-id="stt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-5LINiFoxsgYcC64dB6En-qw14f2OyZNm09BQLSrH&s" group-title="VOD | INDONESIAN MOVIE ",SAMPAI TITIK TERAKHIRMU
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Sampai%20Titik%20Terakhirmu.m3u8
+#EXTINF:-1 tvg-id="dbi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvvTNlc989yqLkIpkXbgdMrSIn578B7lSNcz3ysD8EAg&s" group-title="VOD | INDONESIAN MOVIE",DIA BUKAN IBU (2025)
+https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Dia%20Bukan%20Ibu%20(2025).m3u8
+#EXTINF:-1 tvg-id="auto.13.bomb.di.jakarta" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/27/Poster_13_Bom_di_Jakarta.jpg" group-title="VOD | INDONESIAN MOVIE",13 BOMB DI JAKARTA
+https://pixeldrain.com/api/file/ezqDwxkK?download
+#EXTINF:-1 tvg-id="auto.layangan.putus.the.movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXGuoL8zAZDlf0v9ut47HLFPfiEKSF6z_nboQlKVTUnnmxlI4lXyvw35M&s=10" group-title="VOD | INDONESIAN MOVIE",LAYANGAN PUTUS THE MOVIE
+https://pixeldrain.com/api/file/6fwxFxx9?download
+#EXTINF:-1 tvg-id="auto.mohon.doa.restu" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c6/Poster_MDR.jpg" group-title="VOD | INDONESIAN MOVIE ",MOHON DOA RESTU
+https://pixeldrain.com/api/file/fNKYLoB8?download
+#EXTINF:-1 tvg-id="auto.surga.di.bawah.langit" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2Yll3zF2BJKQnk-BYsPpwMa3Bj1aLWCyU9TInYcOmdYBzgz92Rud65WxjjMdVaK0XSVS9SzeFRlDzi8Lrc5PQepzdTy2PAeeslwb2gWU&s=10" group-title="VOD | INDONESIAN MOVIE",SURGA DI BAWAH LANGIT
+https://pixeldrain.com/api/file/wbFWgdQ1?download
+#EXTINF:-1 tvg-id="auto.agak.laen" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Agak_Laen_film_poster.jpg/250px-Agak_Laen_film_poster.jpg" group-title="VOD | INDONESIAN MOVIE",AGAK LAEN
+https://pixeldrain.com/api/file/st9vqZYF?download
+#EXTINF:-1 tvg-id="auto.algrafi" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/9d/1015066-algrafi-0-1000-0-1500-crop.jpg/250px-1015066-algrafi-0-1000-0-1500-crop.jpg" group-title="VOD | INDONESIAN MOVIE",ALGRAFI
+https://pixeldrain.com/api/file/QXa6Czx5?download
+#EXTINF:-1 tvg-id="auto.ali.topan" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/19/Poster_Ali_Topan_%282023%29.jpg/250px-Poster_Ali_Topan_%282023%29.jpg" group-title="VOD | INDONESIAN MOVIE",ALI TOPAN
+https://pixeldrain.com/api/file/MkWPhQ5s?download
+#EXTINF:-1 tvg-id="auto.ancika" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32WN9epalvDpOW0i18gh6vKq8a7vYtjZKquj7KxCj2g&s=10" group-title=" VOD | INDONESIAN MOVIE",ANCIKA
+https://pixeldrain.com/api/file/owtfAL5s?download
+#EXTINF:-1 tvg-id="auto.ayo.balikan" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzUwNzJlMTItOTAxNy00YTBiLTk3YTAtMjYzZGI5ZWFlNDhjXkEyXkFqcGc@._V1_.jpg" group-title="VOD | INDONESIAN MOVIE",AYO BALIKAN
+https://pixeldrain.com/api/file/VxqRRQ1B?download
+#EXTINF:-1 tvg-id="auto.bu.tejo.sowan.jakarta" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f3/Poster_Bu_Tejo_Sowan_Jakarta_%282024%29.jpg/250px-Poster_Bu_Tejo_Sowan_Jakarta_%282024%29.jpg" group-title="VOD | INDONESIAN MOVIE",BU TEJO SOWAN JAKARTA
+https://pixeldrain.com/api/file/tzav6YZV?download
+#EXTINF:-1 tvg-id="auto.cek.ombak.lagi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZh9qZi7ziUeKAGJWjsPkEJiT7xVt4qpW25tDUBO-p-gmVvDDSVArSpHA&s=10" group-title="VOD | INDONESIAN MOVIE ",CEK OMBAK ( LAGI )
+https://pixeldrain.com/api/file/zUBcXqQw?download
+#EXTINF:-1 tvg-id="auto.demi.si.buah.hati" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-xYyTNpRJUyTo-39aJaxtquupt_871CKvLe92cUvV7UyY3OH0R4IxzDVy10n0Ip-_zIBTTXawTdFGl0jcj41z3Kb3ouOCkBPTSDYRG1Y&s=10" group-title="VOD | INDONESIAN MOVIE",DEMI SI BUAH HATI
+https://pixeldrain.com/api/file/c57W6uEZ?download
+#EXTINF:-1 tvg-id="auto.dinda" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/2c/Poster_Dinda_%282024%29.jpg/250px-Poster_Dinda_%282024%29.jpg" group-title="VOD | INDONESIAN MOVIE",DINDA
+https://pixeldrain.com/api/file/j1HPSh9x?download
+#EXTINF:-1 tvg-id="auto.kereta" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3uKvCVIObPI6MBueY7YBPqjQu4YokVqOz-9u6Idz-f2yw1-Niq8oUo5WK&s=10" group-title="VOD | INDONESIAN MOVIE",KERETA
+https://pixeldrain.com/api/file/oCpSqqah?download
+#EXTINF:-1 tvg-id="auto.ali.topan" tvg-logo="https://a.ltrbxd.com/resized/film-poster/1/0/7/9/6/8/9/1079689-melukis-luka-0-230-0-345-crop.jpg?v=f808c75fd0" group-title="VOD | INDONESIAN MOVIE",MELUKIS LUKA
+https://pixeldrain.com/api/file/nXDb1hSE?download
+#EXTINF:-1 tvg-id="auto.mukidi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh7IXx88sGxEVWe2-wroOqUK-JHN4nOFXL1lyXung3vIFSLmQk0QOeIpDB&s=10" group-title=" VOD | INDONESIAN MOVIE",MUKIDI
+https://pixeldrain.com/api/file/xDtZjqYB?download
 
 
 ======================================================== END LIST ====================================================================
