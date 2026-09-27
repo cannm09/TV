@@ -94,16 +94,6 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://a166aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 
-#EXTINF:-1 tvg-name="Dazn.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkJ_Kq8ag51Q9wFLfUKc9N7TZBdriqv8vzqPKmpUKxIQ&s=10" group-title="Liga Champions (UCL)", DAZN SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://tmaxapp.site/8wirwjs76erftg/dazn1de.m3u8
-
-#EXTINF:-1 tvg-uid="5d40a02c8590c62e4143bc7fe476f1a9" data-source="Mac Portal 10" group-title="Liga Champions (UCL)" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png", DAZN 1
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/894974.m3u8
-
-#EXTINF:-1 tvg-uid="91655d6901daeaff8bb306589da8b014" data-source="Mac Portal 10" group-title="Liga Champions (UCL)" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png", DAZN 2
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/894975.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdFBNI29sqVDOGxANFIjzyi0FYbX8ywcKKdMBKqaKyog&s=10" group-title="Liga Champions (UCL)", FS 1 MX
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -298,6 +288,40 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 
 
 
+=============== AG 2026 ======================
+
+#EXTINF:-1 group-title="ASIAN GAMES LIVE" tvg-logo="https://i.ytimg.com/vi/gY2I-6EFook/sddefault.jpg", Asian Games 2026 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a83ee088e5343d095ac7f4d8d3cd945:dc0da9fdfae3c69c322b67db207a87a1
+https://tglmp03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
+
+#EXTINF:-1 group-title="ASIAN GAMES LIVE" tvg-logo="https://i.ytimg.com/vi/gY2I-6EFook/sddefault.jpg", Asian Games 2026 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c9c38c2de3f41afa12f9872ad6c3903:d6f5a6750b32d2addec0c98fff14de9d
+https://tglmp01.akamaized.net/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.mpd
+
+#EXTINF:-1 group-title="ASIAN GAMES LIVE" tvg-logo="https://i.ytimg.com/vi/gY2I-6EFook/sddefault.jpg", Asian Games 2026 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3da197d13d754505887a04aedd17922e:0028b47ca60594991910c6f6048c51a0
+https://tglmp02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
+
+#EXTINF:-1 group-title="ASIAN GAMES LIVE" tvg-logo="https://i.ytimg.com/vi/gY2I-6EFook/sddefault.jpg", Asian Games 2026 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea1f7f86732d47e897e38c3168851569:55b7ed4cc25fa476f6682c447af128d5
+https://tglmp04.akamaized.net/out/v1/4604623e7ff4462a962275664ccd8ee5/manifest.mpd
+
+#EXTINF:-1 group-title="ASIAN GAMES LIVE" tvg-logo="https://i.ytimg.com/vi/gY2I-6EFook/sddefault.jpg", Asian Games 2026 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=93dccb38f8c84d448d5a7422eb44462b:af8f1c6acedc34551a82f3bb49adfdea
+https://tglmp03.akamaized.net/out/v1/926637c1aba44cffa74adc74bf786816/manifest.mpd
+
+#EXTINF:-1 group-title="ASIAN GAMES LIVE" tvg-logo="https://i.ytimg.com/vi/gY2I-6EFook/sddefault.jpg", Asian Games 2026 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f33acf338ec946fd921a85f870636399:a6c1a2e81fe941a9e2efd2bcad0d1532
+https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.mpd
+
+
+
 ============================================================================ Indonesia Channels =====================================================================
 
 
@@ -380,11 +404,15 @@ https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inews
 #EXTVLCOPT:http-referrer=https://www.cnnindonesia.com/
 https://live.cnnindonesia.com/livecnn/smil:cnntv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68565fa79ce01665868040a343f/2a44add8d2a74e1e8cddb29f6935cb92.jpg" group-title="Indonesia Channels", CNBC Indonesia 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_key=932a44e2e38449748e4b061d6c44c08a:71cd900e707df67d7df0c259ffa18963
-https://atemecdnbalancer-voe.sysln.id/live/eds/CNBCIndonesiaHD/mediampd/CNBCIndonesiaHD.mpd
+##EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68565fa79ce01665868040a343f/2a44add8d2a74e1e8cddb29f6935cb92.jpg" group-title="Indonesia Channels", CNBC Indonesia 
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+##KODIPROP:inputstream.adaptive.license_key=932a44e2e38449748e4b061d6c44c08a:71cd900e707df67d7df0c259ffa18963
+##https://atemecdnbalancer-voe.sysln.id/live/eds/CNBCIndonesiaHD/mediampd/CNBCIndonesiaHD.mpd
+
+#EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68565fa79ce01665868040a343f/2a44add8d2a74e1e8cddb29f6935cb92.jpg" group-title="ID Channel Alternative", CNBC Indonesia Alt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0, AppleWebKit/537.36 (KHTML, like Gecko), Chrome/[Version], and Safari/537.36
+https://video.detik.com/livecnbc/smil:cnbctv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="135" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEYRlHdj3ubEcOBaH2Hx2xoHOtcwD9kSj_9qQSxyuuMaMc1WHseWqlACCB&s=10" group-title="Indonesia Channels", Berita Satu
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -426,11 +454,17 @@ https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
 
-#EXTINF:-1 tvg-id="Trans7.id@SD" tvg-url="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRhszIPj9wQoTVRAiccfk_eVXe0CMmU4e1zEKYiCgTWg&s=10" group-title="Indonesia Channels",Trans 7
+###EXTINF:-1 tvg-id="Trans7.id@SD" tvg-url="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRhszIPj9wQoTVRAiccfk_eVXe0CMmU4e1zEKYiCgTWg&s=10" group-title="Indonesia Channels",Trans 7
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/VFJBTlM3LW15/manifest.mpd
+##KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+##https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/VFJBTlM3LW15/manifest.mpd
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRhszIPj9wQoTVRAiccfk_eVXe0CMmU4e1zEKYiCgTWg&s=10" group-title="Indonesia Channels",Trans7 (Transmedia)
+#EXTVLCOPT:http-referer=https://www.cnbcindonesia.com/
+#EXTVLCOPT:http-origin=https://20.detik.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://green-night-d2b4.iontv.workers.dev/trans7.m3u8
 
 ==================================================================================================================================================================
 
@@ -487,16 +521,16 @@ https://op-flashcon-digdayasd-1.dens.tv/h/h209/stream.m3u8?app_type=web&userid=l
 #EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6859645ee4801965cf102264bf3/decf82ff8ddd4bf1b0f895d4e2eab840.jpg" group-title="Indonesia Channels", Garuda TV
 https://hgmtv.com:19360/garudatvlivestreaming/480p.m3u8
 
-#EXTINF:0 tvg-id="TheIndonesiaChannelHD" tvg-name="The Indonesia Channel HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPLAZJ045XgqxX2FXG1kWIIMlE_q7cvyQ8nku10pmZrg&s" group-title="Indonesia Channels", The Indonesia Channel
+##EXTINF:0 tvg-id="TheIndonesiaChannelHD" tvg-name="The Indonesia Channel HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPLAZJ045XgqxX2FXG1kWIIMlE_q7cvyQ8nku10pmZrg&s" group-title="Indonesia Channels", The Indonesia Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_key=ee710916af2548d1b91d02a5d9cbc436:a16ebdfabe2bc6d7294fe5849abb2b4a
-https://atemecdnbalancer-voe.sysln.id/live/eds/TheIndonesianChannelHD/mediampd/TheIndonesianChannelHD.mpd
+##KODIPROP:inputstream.adaptive.license_key=ee710916af2548d1b91d02a5d9cbc436:a16ebdfabe2bc6d7294fe5849abb2b4a
+##https://atemecdnbalancer-voe.sysln.id/live/eds/TheIndonesianChannelHD/mediampd/TheIndonesianChannelHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="TheIndonesiaChannel.mana2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSZkQhwPpoJr-rR0ZFEcc-cIiBagUPtkAtboUfnaDwJg&s=10" group-title="Indonesia Channels", The Indonesia Channel
-#https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221_output_0.m3u8?session=nbyNcn6zyXaUxFnXPYkdhw
+https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221_output_0.m3u8?session=nbyNcn6zyXaUxFnXPYkdhw
 
 #EXTINF:0 tvg-id="IDX.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtYzzE3QArl36xzKSu2fN18jU7UbgMIOddTQu5k7ORYQ&s=10" group-title="Indonesia Channels", IDX Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1087,6 +1121,41 @@ https://cdnbal1.indihometv.com/atm/DASH/JAK_TV/master.mpd
 
 ================================================================= HBO GROUP ==================================================================
 
+#EXTINF:-1 tvg-id="HBO" group-title="HBO Group" group-logo="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqw6XSmM0nAu3dpNvT_Lja0iVdWYE5pZKi3kptOigluA&s=10",HBO
+#EXT-X-VERSION:4
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=7373146,AVERAGE-BANDWIDTH=6191434,RESOLUTION=240x426,FRAME-RATE=50.000,CODECS="avc1.64002A,mp4a.40.2",AUDIO="audio_0"
+http://ktpremium.world:2095/oc100138/3826778900/73858
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HboID.m3u8
+
+#EXTINF:-1 tvg-id="HBOHits" group-title="HBO Group" group-logo="" tvg-logo="https://i.pinimg.com/736x/a4/88/ee/a488ee2e8b3586bd0fcd5bd81f42b842.jpg",HBO Hits
+#EXT-X-VERSION:4
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=7373146,AVERAGE-BANDWIDTH=6191434,RESOLUTION=240x426,FRAME-RATE=50.000,CODECS="avc1.64002A,mp4a.40.2",AUDIO="audio_0"
+http://skytv4k.org:8080/ajA72trobH/x8oK6dpJNP/62173
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HbohitsID.m3u8
+
+#EXTINF:-1 tvg-id="HBOFamily" group-title="HBO Group", group-logo="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPnjJPgHAQ0mYVcJvY4FzKeiHVZBk345zgNO14TJmxNQ&s=10",HBO Family
+#EXT-X-VERSION:4
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=7373146,AVERAGE-BANDWIDTH=6191434,RESOLUTION=240x426,FRAME-RATE=50.000,CODECS="avc1.64002A,mp4a.40.2",AUDIO="audio_0"
+http://skytv4k.org:8080/ajA72trobH/x8oK6dpJNP/62172
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HbofamilyID.m3u8
+
+#EXTINF:-1 tvg-id="HBOSig" group-title="HBO Group" group-logo="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRXulIfWT6kIITL2YqCiT9mfQXkHxU4PGBOoWdMbKdLjwwFtxcfPBnFeU&s=10",HBO Signature
+#EXT-X-VERSION:4
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=7373146,AVERAGE-BANDWIDTH=6191434,RESOLUTION=240x426,FRAME-RATE=50.000,CODECS="avc1.64002A,mp4a.40.2",AUDIO="audio_0"
+http://ktpremium.world:2095/oc100138/3826778900/73861
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HbosignatureID.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax" group-title="HBO Group" group-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png",Cinemax
+#EXT-X-VERSION:4
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=7373146,AVERAGE-BANDWIDTH=6191434,RESOLUTION=240x426,FRAME-RATE=50.000,CODECS="avc1.64002A,mp4a.40.2",AUDIO="audio_0"
+http://skytv4k.org:8080/ajA72trobH/x8oK6dpJNP/62277
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbocinemaxID.m3u8
+
 #EXTINF:-1 tvg-id="HBOAsia.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://iili.io/Ju79f8g.png" group-title="HBO Group", HBO
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1126,41 +1195,6 @@ https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508
 #KODIPROP:inputstream.adaptive.play_timeshift_buffer=true
 #EXTINF:-1 tvg-id="CinemaxAsia.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://iili.io/Ju79znp.png" group-title="HBO Group", Cinemax
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/Q2luZW1heA/manifest.mpd
-
-#EXTINF:-1 tvg-id="HBO" group-title="HBO Group" group-logo="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqw6XSmM0nAu3dpNvT_Lja0iVdWYE5pZKi3kptOigluA&s=10",HBO
-#EXT-X-VERSION:4
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:BANDWIDTH=7373146,AVERAGE-BANDWIDTH=6191434,RESOLUTION=240x426,FRAME-RATE=50.000,CODECS="avc1.64002A,mp4a.40.2",AUDIO="audio_0"
-http://ktpremium.world:2095/oc100138/3826778900/73858
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HboID.m3u8
-
-#EXTINF:-1 tvg-id="HBOHits" group-title="HBO Group" group-logo="" tvg-logo="https://i.pinimg.com/736x/a4/88/ee/a488ee2e8b3586bd0fcd5bd81f42b842.jpg",HBO Hits
-#EXT-X-VERSION:4
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:BANDWIDTH=7373146,AVERAGE-BANDWIDTH=6191434,RESOLUTION=240x426,FRAME-RATE=50.000,CODECS="avc1.64002A,mp4a.40.2",AUDIO="audio_0"
-http://skytv4k.org:8080/ajA72trobH/x8oK6dpJNP/62173
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HbohitsID.m3u8
-
-#EXTINF:-1 tvg-id="HBOFamily" group-title="HBO Group", group-logo="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPnjJPgHAQ0mYVcJvY4FzKeiHVZBk345zgNO14TJmxNQ&s=10",HBO Family
-#EXT-X-VERSION:4
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:BANDWIDTH=7373146,AVERAGE-BANDWIDTH=6191434,RESOLUTION=240x426,FRAME-RATE=50.000,CODECS="avc1.64002A,mp4a.40.2",AUDIO="audio_0"
-http://skytv4k.org:8080/ajA72trobH/x8oK6dpJNP/62172
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HbofamilyID.m3u8
-
-#EXTINF:-1 tvg-id="HBOSig" group-title="HBO Group" group-logo="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRXulIfWT6kIITL2YqCiT9mfQXkHxU4PGBOoWdMbKdLjwwFtxcfPBnFeU&s=10",HBO Signature
-#EXT-X-VERSION:4
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:BANDWIDTH=7373146,AVERAGE-BANDWIDTH=6191434,RESOLUTION=240x426,FRAME-RATE=50.000,CODECS="avc1.64002A,mp4a.40.2",AUDIO="audio_0"
-http://ktpremium.world:2095/oc100138/3826778900/73861
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/HbosignatureID.m3u8
-
-#EXTINF:-1 tvg-id="Cinemax" group-title="HBO Group" group-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png",Cinemax
-#EXT-X-VERSION:4
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:BANDWIDTH=7373146,AVERAGE-BANDWIDTH=6191434,RESOLUTION=240x426,FRAME-RATE=50.000,CODECS="avc1.64002A,mp4a.40.2",AUDIO="audio_0"
-http://skytv4k.org:8080/ajA72trobH/x8oK6dpJNP/62277
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbocinemaxID.m3u8
 
 #EXTINF:-1 tvg-id="HBOAsia.sg@SD" group-title="HBO Group" tvg-logo="https://iili.io/Ju79f8g.png", HBO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
